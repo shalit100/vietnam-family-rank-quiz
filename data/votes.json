@@ -289,6 +289,10 @@
       "da-nang::novotel-pool-downtime": {
         "rank": "possible",
         "at": "2026-09-21T09:39:17.833Z"
+      },
+      "da-nang::da-nang-cathedral": {
+        "rank": "pass",
+        "at": "2026-09-21T09:39:20.468Z"
       }
     },
     "keren": {
@@ -462,5 +466,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:39:17.833Z"
+  "updatedAt": "2026-09-21T09:39:20.468Z"
 }
