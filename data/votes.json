@@ -87,8 +87,12 @@
       "hanoi::ngoc-son-temple": {
         "rank": "pass",
         "at": "2026-09-21T09:15:56.451Z"
+      },
+      "hanoi::thang-long-water-puppets": {
+        "rank": "possible",
+        "at": "2026-09-21T09:16:49.092Z"
       }
     }
   },
-  "updatedAt": "2026-09-21T09:16:32.103Z"
+  "updatedAt": "2026-09-21T09:16:49.092Z"
 }
