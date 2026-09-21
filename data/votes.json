@@ -233,6 +233,10 @@
       "hoi-an::christmas-eve-festive-dinner": {
         "rank": "must",
         "at": "2026-09-21T09:36:01.213Z"
+      },
+      "hoi-an::bel-marina-pools": {
+        "rank": "possible",
+        "at": "2026-09-21T09:37:02.991Z"
       }
     },
     "keren": {
@@ -406,5 +410,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:36:01.213Z"
+  "updatedAt": "2026-09-21T09:37:02.991Z"
 }
