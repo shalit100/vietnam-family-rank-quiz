@@ -251,8 +251,12 @@
       "hanoi::hanoi-craft-village-halfday": {
         "rank": "pass",
         "at": "2026-09-21T09:24:06.552Z"
+      },
+      "ninh-binh::hang-mua-viewpoint": {
+        "rank": "must",
+        "at": "2026-09-21T09:28:39.719Z"
       }
     }
   },
-  "updatedAt": "2026-09-21T09:28:34.701Z"
+  "updatedAt": "2026-09-21T09:28:39.719Z"
 }
