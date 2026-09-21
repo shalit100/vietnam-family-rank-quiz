@@ -135,8 +135,12 @@
       "hanoi::museum-of-ethnology": {
         "rank": "pass",
         "at": "2026-09-21T09:19:35.106Z"
+      },
+      "hanoi::vietnamese-womens-museum": {
+        "rank": "pass",
+        "at": "2026-09-21T09:19:40.087Z"
       }
     }
   },
-  "updatedAt": "2026-09-21T09:19:35.106Z"
+  "updatedAt": "2026-09-21T09:19:40.087Z"
 }
