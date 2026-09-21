@@ -121,6 +121,10 @@
       "ninh-binh::rice-field-bike-loop": {
         "rank": "must",
         "at": "2026-09-21T09:27:21.320Z"
+      },
+      "ninh-binh::bich-dong-pagoda": {
+        "rank": "possible",
+        "at": "2026-09-21T09:27:57.324Z"
       }
     },
     "keren": {
@@ -230,5 +234,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:27:21.320Z"
+  "updatedAt": "2026-09-21T09:27:57.324Z"
 }
