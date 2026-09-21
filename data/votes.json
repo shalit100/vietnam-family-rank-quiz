@@ -143,8 +143,12 @@
       "hanoi::military-history-museum": {
         "rank": "pass",
         "at": "2026-09-21T09:19:44.529Z"
+      },
+      "hanoi::st-josephs-cathedral": {
+        "rank": "possible",
+        "at": "2026-09-21T09:20:02.477Z"
       }
     }
   },
-  "updatedAt": "2026-09-21T09:19:44.529Z"
+  "updatedAt": "2026-09-21T09:20:02.477Z"
 }
