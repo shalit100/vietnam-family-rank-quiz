@@ -1,0 +1,633 @@
+{
+  "cityId": "hoi-an",
+  "cityName": "Hoi An",
+  "dates": "20–25 Dec 2026",
+  "hotel": {
+    "name": "Bel Marina Hoi An Resort",
+    "address": "127 Nguyen Phuc Tan, Minh An / Cam Pho, Hoi An (Thu Bon riverside)",
+    "tripadvisorUrl": "https://www.tripadvisor.com/Hotel_Review-g298082-d25104970-Reviews-Bel_Marina_Hoi_An_Resort-Hoi_An_Quang_Nam_Province.html",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bel%20Marina%20Hoi%20An%20Resort%2C%20127%20Nguyen%20Phuc%20Tan",
+    "websiteUrl": "https://www.belmarinahoian.com/"
+  },
+  "partyNote": "Family of 5: 2 adults + kids 8, 9, 12",
+  "fxNote": "~26,000 VND ≈ $1 · estimates only",
+  "updatedAt": "2026-09-21",
+  "tip": "Dec = Central rainy season — beach/sea often rough; Cham Islands closed. Book cooking + Christmas Eve dinner early. ~4 full days (21–24) after evening arrival.",
+  "attractions": [
+    {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hoi_An_Ancient_Town.jpg/1280px-Hoi_An_Ancient_Town.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "closedNotes": "",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hoi_An_Ancient_Town.jpg/1280px-Hoi_An_Ancient_Town.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "combos": [
+        "floating lantern sampan same evening",
+        "heritage ticket interiors by day"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "evening",
+        "outdoor",
+        "culture"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "free to walk streets; heritage buildings need ticket"
+      },
+      "id": "ancient-town-lanterns",
+      "name": "Hoi An Ancient Town — evening lantern streets",
+      "shortDescription": "Pedestrian lantern lanes and river reflections — the emotional core of Hoi An, free to walk.",
+      "whyKids": "Treasure-hunt spotting game; colorful without tickets; repeatable short loops for 8/9/12.",
+      "reviewSummary": "Hebrew + English family guides call evening lanterns the must-do. Crowds peak Christmas week.",
+      "distanceFromHotel": "5–15 min walk",
+      "duration": "1–2 hrs evening (repeatable)",
+      "effort": "walk",
+      "mapsQuery": "Hoi An Ancient Town",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoi%20An%20Ancient%20Town"
+    },
+    {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Japanese_Covered_Bridge_Hoi_An.jpg/1280px-Japanese_Covered_Bridge_Hoi_An.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "closedNotes": "",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Japanese_Covered_Bridge_Hoi_An.jpg/1280px-Japanese_Covered_Bridge_Hoi_An.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "combos": [
+        "afternoon lantern-making",
+        "evening sampan"
+      ],
+      "tags": [
+        "must-consider",
+        "culture",
+        "kids"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "buy on-site cash preferred",
+        "url": "https://danangtohoian.com/da-nang-hoi-an-entrance-fees-2026-ultimate-guide/"
+      },
+      "priceFamilyEst": {
+        "vnd": 600000,
+        "usd": 23,
+        "note": "estimate: 120k adult × ~5 for 5-site ticket — under 1.3 m often free; verify live"
+      },
+      "id": "heritage-ticket-sites",
+      "name": "Ancient Town heritage ticket (Japanese Bridge + sites)",
+      "shortDescription": "120k adult ticket covers Japanese Covered Bridge plus 4 more heritage interiors — keep to 2–3 so kids don’t fade.",
+      "whyKids": "Bridge is short/photogenic; Tan Ky / Fujian Hall give story for 12yo; under ~1.3 m often free/reduced — verify.",
+      "reviewSummary": "Core daytime culture loop; verify 2026 booth rules (fee-change notices floated).",
+      "distanceFromHotel": "Walk from Bel Marina",
+      "duration": "2–3 hrs with breaks",
+      "effort": "walk",
+      "mapsQuery": "Japanese Covered Bridge, Hoi An",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Japanese%20Covered%20Bridge%2C%20Hoi%20An"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "same evening as lantern streets"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "evening",
+        "boat"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 200000,
+        "usd": 8,
+        "note": "estimate: 150–200k VND/boat + wish lanterns small extra (~$2–3 cited) — negotiate"
+      },
+      "id": "floating-lantern-sampan",
+      "name": "Floating lantern / Thu Bon sampan (evening)",
+      "shortDescription": "20–30 min riverside boat to release wish lanterns — magical short ride.",
+      "whyKids": "All three ages love it; short enough for tired legs after Old Town walk.",
+      "reviewSummary": "Good Morning Hoi An + family itineraries list as evening must.",
+      "distanceFromHotel": "~10–15 min walk to Bach Dang / riverside queue",
+      "duration": "20–30 min ride · best ~18:30–20:30",
+      "effort": "boat",
+      "mapsQuery": "Hoi An lantern boat Bach Dang",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoi%20An%20lantern%20boat%20Bach%20Dang"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "cooking-class combo on Klook/GYG/Viator",
+        "morning slot best"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "outdoor",
+        "boat"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "DIY at boat station (walk past touts) or hotel/OTA combo",
+        "url": "https://www.klook.com/en-AE/activity/212496-hoi-an-market-visit-cooking-class-basket-boat-lantern-dinner/"
+      },
+      "priceFamilyEst": {
+        "vnd": 1000000,
+        "usd": 38,
+        "note": "estimate wide range: DIY ~80–250k/person or 150–200k/boat — verify on day; holiday surcharge possible"
+      },
+      "id": "cam-thanh-basket-boat",
+      "name": "Cam Thanh basket boat (Bay Mau coconut forest)",
+      "shortDescription": "Spinning round basket boats, crab fishing, coconut-leaf animals — consensus #1 kid activity.",
+      "whyKids": "Ages 8–12 love tricks; 12yo still laughs. Skip/postpone in heavy rain.",
+      "reviewSummary": "Hoi An Itinerary, Good Morning, Hebrew Wandering Daniel all rate as must.",
+      "distanceFromHotel": "10–20 min Grab / bike (~3–5 km)",
+      "duration": "45–60 min ride",
+      "effort": "boat",
+      "mapsQuery": "Cam Thanh coconut forest basket boat, Hoi An",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cam%20Thanh%20coconut%20forest%20basket%20boat%2C%20Hoi%20An"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "basket-boat combo packages",
+        "Tra Que herb village variants"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "hands-on",
+        "food",
+        "rainy-day"
+      ],
+      "booking": {
+        "needed": true,
+        "how": "book before/early in stay — Klook/GYG/Viator or hotel concierge",
+        "url": "https://www.getyourguide.com/hoi-an-l831/hoi-anvisit-local-marketbasket-boat-ride-and-cooking-class-t133461/"
+      },
+      "priceFamilyEst": {
+        "vnd": 2500000,
+        "usd": 96,
+        "note": "estimate ~$25–50 adult / $25–40 kid or 400–900k VND/person — check live OTA for Dec 20–24"
+      },
+      "id": "family-cooking-class",
+      "name": "Family cooking class (market + hands-on)",
+      "shortDescription": "Market visit then cook spring rolls/wontons — trip-highlight memory for Hebrew + English family blogs.",
+      "whyKids": "Ages 8–12 ideal; eat what they make; rain-friendly (market may shorten).",
+      "reviewSummary": "Day Trips VN, Wandering Daniel HE, Good Morning Tra Que all call cooking a top memory.",
+      "distanceFromHotel": "Half-day with hotel pickup (confirm Bel Marina in zone)",
+      "duration": "3–4 hrs",
+      "effort": "day-tour",
+      "mapsQuery": "Hoi An cooking class",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoi%20An%20cooking%20class"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "same day as heritage ticket",
+        "evening lantern streets after"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "hands-on",
+        "rainy-day",
+        "culture"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "walk-in or WhatsApp/hotel; book morning-of in Dec",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 650000,
+        "usd": 25,
+        "note": "estimate 100–150k VND/person × 5 — longer classes may cost more"
+      },
+      "id": "lantern-making-workshop",
+      "name": "Lantern-making workshop",
+      "shortDescription": "Make your own silk lantern souvenir — calm creative 1–2 hrs in Ancient Town.",
+      "whyKids": "Ages 5+ / 8–12 excel; rainy-day gold before evening lantern walk.",
+      "reviewSummary": "Hoi An Itinerary + Good Morning list as family staple (~100–150k/person).",
+      "distanceFromHotel": "Walk in Ancient Town",
+      "duration": "1–2 hrs",
+      "effort": "walk",
+      "mapsQuery": "Hoi An lantern making workshop",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoi%20An%20lantern%20making%20workshop"
+    },
+    {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/My_Son_Sanctuary.jpg/1280px-My_Son_Sanctuary.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "closedNotes": "",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/My_Son_Sanctuary.jpg/1280px-My_Son_Sanctuary.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "combos": [
+        "basket/cooking combos exist — don’t overstack same day"
+      ],
+      "tags": [
+        "culture",
+        "kids",
+        "outdoor"
+      ],
+      "booking": {
+        "needed": true,
+        "how": "private car + guide via hotel / Klook / GYG; go early",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g16806420-d317894-Reviews-My_Son_Sanctuary-Duy_Phu_Duy_Xuyen_District_Quang_Nam_Province.html"
+      },
+      "priceFamilyEst": {
+        "vnd": 750000,
+        "usd": 29,
+        "note": "estimate entrance 150k foreign adult × party + private tour often $60–100/family or $20–50+/pp — verify OTA"
+      },
+      "id": "my-son-sanctuary",
+      "name": "Mỹ Sơn Sanctuary (UNESCO Cham temples)",
+      "shortDescription": "Jungle Cham ruins + ~10am dance — half-day culture outing (not 4am sunrise).",
+      "whyKids": "Ages 8+ fit; 12yo gets history; keep half-day to avoid temple fatigue.",
+      "reviewSummary": "Strong B-tier if energy allows; pair with private car from hotel.",
+      "distanceFromHotel": "45–60 min each way by car",
+      "duration": "4–5 hrs total half-day",
+      "effort": "day-tour",
+      "mapsQuery": "My Son Sanctuary, Quang Nam",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=My%20Son%20Sanctuary%2C%20Quang%20Nam"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "beach restaurant lunch",
+        "shuttle seats fill — ask desk"
+      ],
+      "tags": [
+        "kids",
+        "outdoor",
+        "beach"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "beach free; loungers often free with food; hut/float ~50k cited — verify"
+      },
+      "id": "an-bang-beach",
+      "name": "An Bang Beach day",
+      "shortDescription": "Gentle sand, beach cafés, lifeguards peak hours — Dec caveat: rough seas/rain common.",
+      "whyKids": "Sandcastles + cafés; treat as weather-optional — hotel pool is backup.",
+      "reviewSummary": "Family guides prefer An Bang over Cua Dai; Local Vietnam warns Dec swim often poor.",
+      "distanceFromHotel": "10–20 min Grab / hotel An Bang shuttle / bike if dry",
+      "duration": "Half or full day",
+      "effort": "grab",
+      "mapsQuery": "An Bang Beach, Hoi An",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=An%20Bang%20Beach%2C%20Hoi%20An"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "hotel bikes",
+        "Christmas Day soft morning"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "easy",
+        "rainy-day"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "included in stay",
+        "url": "https://www.belmarinahoian.com/"
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "included; spa extras ask hotel"
+      },
+      "id": "bel-marina-pools",
+      "name": "Bel Marina pools + resort downtime",
+      "shortDescription": "Interconnecting pool-view stay — decompress after cruise arrival and rainy afternoons.",
+      "whyKids": "Included reset; Christmas morning before Da Nang move.",
+      "reviewSummary": "TA ~4.9/5 · ~5,627 reviews; two pools / rooftop noted.",
+      "distanceFromHotel": "On-site",
+      "duration": "Flexible",
+      "effort": "easy",
+      "mapsQuery": "Bel Marina Hoi An Resort",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bel%20Marina%20Hoi%20An%20Resort"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "Tra Que Vegetable Village",
+        "rent kids’ bikes if needed ~30–50k/day cited"
+      ],
+      "tags": [
+        "kids",
+        "outdoor",
+        "easy"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "hotel bikes included; kids rental estimate if needed"
+      },
+      "id": "hotel-bikes-countryside",
+      "name": "Hotel / countryside bicycle loops",
+      "shortDescription": "Flat paddies, buffalo, ducks — Bel Marina bikes included on quote.",
+      "whyKids": "Ages 8–12 who can ride; skip long rides in heavy rain/mud.",
+      "reviewSummary": "Good Morning + Day Trips VN love bikes; Hebrew guides too.",
+      "distanceFromHotel": "From hotel; Tra Que ~5 km",
+      "duration": "30–90 min short loops",
+      "effort": "easy",
+      "mapsQuery": "Hoi An rice paddies bike",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoi%20An%20rice%20paddies%20bike"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "pick 1–2 workshops max this stay"
+      ],
+      "tags": [
+        "kids",
+        "hands-on",
+        "rainy-day",
+        "culture"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 500000,
+        "usd": 19,
+        "note": "estimate: park ~30k/15k + village ~35k + wheel 50–100k — verify"
+      },
+      "id": "thanh-ha-pottery",
+      "name": "Thanh Ha Pottery Village + Terracotta Park",
+      "shortDescription": "Pottery wheel / mask painting plus miniature world landmarks — tactile rainy-friendly outing.",
+      "whyKids": "Ages 8–12 love wheel and painting; 2–3 hrs west of Old Town.",
+      "reviewSummary": "Good Morning pottery + fee guides list as hands-on staple.",
+      "distanceFromHotel": "15–25 min Grab/bike",
+      "duration": "2–3 hrs",
+      "effort": "grab",
+      "mapsQuery": "Thanh Ha Pottery Village, Hoi An",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Thanh%20Ha%20Pottery%20Village%2C%20Hoi%20An"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "rainy-day shopping",
+        "pickup Thu 24 light day"
+      ],
+      "tags": [
+        "kids",
+        "culture",
+        "rainy-day",
+        "shopping"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "visit named reputable shops with photos; measure by Mon 21",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 1500000,
+        "usd": 58,
+        "note": "estimate kid outfit often ~$30–80 — verify quote in shop; deposit ~50% common"
+      },
+      "id": "custom-tailoring",
+      "name": "Custom tailoring (kids choose fabric)",
+      "shortDescription": "Measure Day 1–2, pickup before 25 Dec checkout — Israeli/Hebrew blogs treat as Hoi An must.",
+      "whyKids": "Kids pick fabric/style; 24–48h fits 5-night stay; avoid bridge touts.",
+      "reviewSummary": "Day Trips VN, Wandering Daniel, Mizrah HE all push reputable shops (Yaly / Bebe / A Dong class).",
+      "distanceFromHotel": "Walk Old Town shops",
+      "duration": "Measure 30–60 min + later fitting",
+      "effort": "walk",
+      "mapsQuery": "Hoi An tailor Yaly",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoi%20An%20tailor%20Yaly"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "one evening show enough — Memories OR Teh Dar"
+      ],
+      "tags": [
+        "evening",
+        "kids",
+        "rainy-day"
+      ],
+      "booking": {
+        "needed": true,
+        "how": "advance tickets",
+        "url": "https://hoiandaytrip.com/teh-dar-show-hoi-an-ticket-booking/"
+      },
+      "priceFamilyEst": {
+        "vnd": 4000000,
+        "usd": 154,
+        "note": "estimate adult tiers 700k–1.6M; kids from ~490k — verify live for Dec"
+      },
+      "id": "teh-dar-bamboo-circus",
+      "name": "Teh Dar bamboo circus (Lune Center)",
+      "shortDescription": "Covered bamboo-dome acrobatics + music — excellent rainy evening for 8–12.",
+      "whyKids": "Visual spectacle without language barrier; ~60–75 min.",
+      "reviewSummary": "Local Vietnam rainy list + hoiandaytrip ticket guides.",
+      "distanceFromHotel": "Near Ancient Town — walk/short Grab",
+      "duration": "60–75 min show",
+      "effort": "walk",
+      "mapsQuery": "Teh Dar Lune Center Hoi An",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teh%20Dar%20Lune%20Center%20Hoi%20An"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "Closed Tuesdays — Tue 22 Dec 2026 closed.",
+      "images": [],
+      "combos": [
+        "theme park from ~16:00 with some tickets"
+      ],
+      "tags": [
+        "evening",
+        "kids"
+      ],
+      "booking": {
+        "needed": true,
+        "how": "advance tickets; pre-book return car",
+        "url": "https://hoianmemoriesshow.com/"
+      },
+      "priceFamilyEst": {
+        "vnd": 3000000,
+        "usd": 115,
+        "note": "estimate eco ~350–600k · high ~500k–1.2M VND/person — check live for 24–25 Dec"
+      },
+      "id": "hoi-an-memories-show",
+      "name": "Hoi An Memories Show",
+      "shortDescription": "Huge outdoor spectacle (~500 performers) + optional Impression Theme Park afternoon.",
+      "whyKids": "Costumes/lights wow; covered seating noted for rain. Closed Tuesdays → Tue 22 Dec closed.",
+      "reviewSummary": "Major evening option Christmas week — book return car; Grab scarce after show.",
+      "distanceFromHotel": "Private car/Grab essential (venue outside center)",
+      "duration": "Evening show often ~20:00",
+      "effort": "grab",
+      "mapsQuery": "Hoi An Memories Show",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoi%20An%20Memories%20Show"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "after-2pm cheaper tickets if half-day"
+      ],
+      "tags": [
+        "kids",
+        "outdoor",
+        "rainy-day"
+      ],
+      "booking": {
+        "needed": true,
+        "how": "booking.vinwonders.com / Klook / hotel",
+        "url": "https://vinwonders.com/en/offers/vinwonders-nam-hoi-an-ticket-prices/"
+      },
+      "priceFamilyEst": {
+        "vnd": 2800000,
+        "usd": 108,
+        "note": "estimate: ≥140cm 650k / 100–140cm 450k; family ~2.4–3.25M depending heights — measure kids"
+      },
+      "id": "vinwonders-nam-hoi-an",
+      "name": "VinWonders Nam Hoi An",
+      "shortDescription": "Theme park + Water World — full day rides, safari boat, cultural village; indoor zones help rainy mornings.",
+      "whyKids": "8/9/12 ride density; Water World cooler in Dec — still usable. Expensive + tiring.",
+      "reviewSummary": "Official 2026 prices; good if rain forecast and kids want rides — pick vs My Son, not both forced.",
+      "distanceFromHotel": "~15 km south · 25–40 min car",
+      "duration": "Full day (or after-2pm ticket)",
+      "effort": "day-tour",
+      "mapsQuery": "VinWonders Nam Hoi An",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=VinWonders%20Nam%20Hoi%20An"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "evening lantern loop",
+        "Reaching Out teahouse quiet reset"
+      ],
+      "tags": [
+        "evening",
+        "kids",
+        "food"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 400000,
+        "usd": 15,
+        "note": "estimate snacks/bánh mì ~25–50k/item — free to browse"
+      },
+      "id": "night-market-central-market",
+      "name": "Night market + Central Market browse",
+      "shortDescription": "Riverside night market lanterns, street snacks, Cao lầu / White Rose / bánh mì crawl.",
+      "whyKids": "Short bursts of people-watching and mild noodles/dumplings; bánh mì = family favorite.",
+      "reviewSummary": "Wandering Daniel HE + Hoi An Itinerary dining staples.",
+      "distanceFromHotel": "5–15 min walk",
+      "duration": "1–2 hrs",
+      "effort": "walk",
+      "mapsQuery": "Hoi An Night Market",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoi%20An%20Night%20Market"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "light daytime 24 Dec",
+        "cathedral mass optional crowded"
+      ],
+      "tags": [
+        "evening",
+        "food",
+        "kids",
+        "must-consider"
+      ],
+      "booking": {
+        "needed": true,
+        "how": "hotel concierge or restaurant reserve early",
+        "url": "https://www.belmarinahoian.com/"
+      },
+      "priceFamilyEst": {
+        "vnd": 7600000,
+        "usd": 292,
+        "note": "estimate Bel Marina gala: 2M×2 + 1.2M×3 = 7.6M if all kids 6–11 tier — OR cheaper town restaurant; reconfirm 2026"
+      },
+      "id": "christmas-eve-festive-dinner",
+      "name": "Christmas Eve festive dinner (24 Dec)",
+      "shortDescription": "Eve is Vietnam’s main festive night — Bel Marina gala OR booked town/beach restaurant.",
+      "whyKids": "Gifts/entertainment at hotel gala; or simpler riverside dinner + cathedral atmosphere.",
+      "reviewSummary": "Book early; no large official Hoi An fireworks. Gala optional (itinerary quote 2M adult / 1.2M kids 6–11).",
+      "distanceFromHotel": "On-site or Grab to town/An Bang",
+      "duration": "Evening",
+      "effort": "easy",
+      "mapsQuery": "Bel Marina Hoi An Christmas",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bel%20Marina%20Hoi%20An%20Christmas"
+    }
+  ]
+}

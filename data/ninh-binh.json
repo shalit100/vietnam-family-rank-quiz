@@ -1,0 +1,586 @@
+{
+  "cityId": "ninh-binh",
+  "cityName": "Ninh Binh / Tam Coc",
+  "dates": "16–19 Dec 2026",
+  "hotel": {
+    "name": "Hotel La Vue Tam Coc",
+    "address": "Ninh Hai 5 / Coi Khe, Nam Hoa Lu, Ninh Binh (Tam Coc / Ninh Hải scenic pocket)",
+    "tripadvisorUrl": "https://www.tripadvisor.com/Hotels-g303945-Ninh_Binh_Ninh_Binh_Province-Hotels.html",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20La%20Vue%20Tam%20Coc%2C%20Ninh%20Hai%2C%20Ninh%20Binh",
+    "websiteUrl": "https://www.agoda.com/"
+  },
+  "partyNote": "Family of 5: 2 adults + kids 8, 9, 12",
+  "fxNote": "~26,000 VND ≈ $1 · estimates only",
+  "updatedAt": "2026-09-21",
+  "tip": "Sat 19 = morning departure to Tuan Chau — no ambitious sightseeing. Prefer Trang An as the one must-boat; Hang Mua early/late; Dec rice fields are often bare.",
+  "attractions": [
+    {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Trang_An%2C_Ninh_Binh%2C_Vietnam.jpg/1280px-Trang_An%2C_Ninh_Binh%2C_Vietnam.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "closedNotes": "",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Trang_An%2C_Ninh_Binh%2C_Vietnam.jpg/1280px-Trang_An%2C_Ninh_Binh%2C_Vietnam.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "combos": [
+        "pair morning with Hoa Lư Ancient Capital",
+        "afternoon La Vue pool reset",
+        "skip Tam Coc boat same trip if energy limited"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "outdoor",
+        "boat"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site ticket office; cash preferred; arrive before 09:00",
+        "url": "https://alohavietnam.net/trang-an-full-guide-2026-all-about-boat-tours-in-trang-an-ninh-binh.html"
+      },
+      "priceFamilyEst": {
+        "vnd": 1500000,
+        "usd": 58,
+        "note": "estimate: 300k adult × 5 after Jan 2026 hike (likely all adult height) + tip/transport — verify at gate"
+      },
+      "id": "trang-an-boat",
+      "name": "Trang An boat tour (UNESCO)",
+      "shortDescription": "Karst lagoons, cave tunnels, and short temple stops on a ~2.5–3.5 hr sampan — the region’s best single boat for families.",
+      "whyKids": "Cave ducking feels like adventure; temples break sitting time; life jackets provided. Family guides lean Trang An if you only do one boat.",
+      "reviewSummary": "Top pick across localvietnam, Travelynn, Visit Hoa Lu, Lametayel HE for families; lower vendor pressure than Tam Coc.",
+      "distanceFromHotel": "15–25 min Grab / hotel car",
+      "duration": "2.5–3.5 hrs boat (+ transfer)",
+      "effort": "boat",
+      "mapsQuery": "Trang An Scenic Landscape Complex, Ninh Binh",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trang%20An%20Scenic%20Landscape%20Complex%2C%20Ninh%20Binh"
+    },
+    {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hang_Mua%2C_Ninh_Binh.jpg/1280px-Hang_Mua%2C_Ninh_Binh.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "closedNotes": "",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hang_Mua%2C_Ninh_Binh.jpg/1280px-Hang_Mua%2C_Ninh_Binh.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "combos": [
+        "sunset coconut coffee nearby",
+        "same cool-hours block as Bích Động bike loop"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "outdoor",
+        "viewpoint"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "gate tickets or Go365 e-ticket",
+        "url": "https://go365.vn/en/ve/ve-hang-mua-ninh-binh"
+      },
+      "priceFamilyEst": {
+        "vnd": 750000,
+        "usd": 29,
+        "note": "estimate: 150k/person over 1 m from Apr 2026 × 5 — verify"
+      },
+      "id": "hang-mua-viewpoint",
+      "name": "Hang Mua (Mua Cave) viewpoint",
+      "shortDescription": "~500 stone steps to a dragon ridge and the signature Ninh Binh panorama over karst and paddies.",
+      "whyKids": "8–12 can usually summit with water/pauses; base lotus/statues OK if someone sits out. Go early or after ~15:30.",
+      "reviewSummary": "Iconic ‘wow’ view in every family guide; Dec climb more comfortable than summer heat.",
+      "distanceFromHotel": "Very close — short Grab or ~15–30 min walk (est. 2–3 km)",
+      "duration": "1.5–3 hrs",
+      "effort": "walk",
+      "mapsQuery": "Hang Mua Cave, Ninh Binh",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hang%20Mua%20Cave%2C%20Ninh%20Binh"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "optional electric-car combo to Thái Vi / Tiên Cave — DIY guides often skip",
+        "bike Bích Động separately"
+      ],
+      "tags": [
+        "outdoor",
+        "kids",
+        "boat"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "official wharf counter only (~opens 07:30); avoid street sellers",
+        "url": "https://www.ninhbinhbooking.com/en/tam-coc/ticket-price"
+      },
+      "priceFamilyEst": {
+        "vnd": 1250000,
+        "usd": 48,
+        "note": "estimate: 250k adult × 5 + tip ~50–100k/boat — buy at official counter only"
+      },
+      "id": "tam-coc-boat",
+      "name": "Tam Coc boat (Ngo Dong River)",
+      "shortDescription": "Shorter ~1.5–2 hr foot-rowing sampan through three caves and rice-field banks — iconic but more vendor-heavy.",
+      "whyKids": "Shorter sit than Trang An; foot-rowing fascinates kids. Skip if Trang An already done (repetition risk).",
+      "reviewSummary": "Classic postcard ride; Hebrew FB mixed — many prefer Trang An as the one boat. Dec paddies often bare/brown.",
+      "distanceFromHotel": "10–20 min Grab or bike to Đình Cả wharf",
+      "duration": "1.5–2 hrs",
+      "effort": "boat",
+      "mapsQuery": "Tam Coc boat pier, Ninh Binh",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tam%20Coc%20boat%20pier%2C%20Ninh%20Binh"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "Bích Động Pagoda add-on",
+        "buffalo photo stop (agree tip first)"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "outdoor",
+        "easy"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "ask La Vue for bikes/e-bikes; check brakes",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "often free hotel bikes; e-bike rental ask hotel — estimate only"
+      },
+      "id": "rice-field-bike-loop",
+      "name": "Bicycle / e-bike rice-field loop",
+      "shortDescription": "Flat countryside ride past ducks, buffalo, and karst — top free-joy memory for many families.",
+      "whyKids": "Ages 8/9/12 can ride if hotel has sized bikes (kid bikes scarce — ask La Vue). Helmets if available.",
+      "reviewSummary": "Praised across Visit Hoa Lu, localvietnam, Lametayel HE, and Hebrew FB lodging threads.",
+      "distanceFromHotel": "From hotel door (may need short ride into Tam Coc village first)",
+      "duration": "1–3 hrs",
+      "effort": "easy",
+      "mapsQuery": "Tam Coc rice fields, Ninh Binh",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tam%20Coc%20rice%20fields%2C%20Ninh%20Binh"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "same outing as rice-field bike loop"
+      ],
+      "tags": [
+        "culture",
+        "kids",
+        "outdoor"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "free entry commonly cited; small parking/bike fee sometimes"
+      },
+      "id": "bich-dong-pagoda",
+      "name": "Bích Động Pagoda",
+      "shortDescription": "Three cliff-level pagodas with a short climb and photogenic lotus gate — classic bike-loop stop.",
+      "whyKids": "Active culture without long queues; free; perfect stretch between flat riding.",
+      "reviewSummary": "Standard inclusion in Hebrew family itineraries (Letayel Baolam) and English kid guides.",
+      "distanceFromHotel": "Bike ~20–40 min or Grab",
+      "duration": "45–90 min on site",
+      "effort": "grab",
+      "mapsQuery": "Bich Dong Pagoda, Ninh Binh",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bich%20Dong%20Pagoda%2C%20Ninh%20Binh"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "optional pool add-on if warm enough",
+        "swap vs Bear Sanctuary wildlife day"
+      ],
+      "tags": [
+        "kids",
+        "outdoor",
+        "nature"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "gate or phone 0912 900 887",
+        "url": "https://thungnham.com/"
+      },
+      "priceFamilyEst": {
+        "vnd": 1250000,
+        "usd": 48,
+        "note": "estimate post-Apr 2026: ~250k adult × 5 incl. boats — verify Dec rates"
+      },
+      "id": "thung-nham-bird-park",
+      "name": "Thung Nham Bird Park",
+      "shortDescription": "Boardwalk caves, gardens, and a dusk bird-roosting boat — gentler half-day nature outing.",
+      "whyKids": "Caves + gardens + birds without a 3-hr sampan; Hebrew guides call it a family highlight.",
+      "reviewSummary": "Strong day-3 alternative to Bear Sanctuary; Dec bird activity — check seasonally.",
+      "distanceFromHotel": "20–40 min Grab / private car",
+      "duration": "Half day (best late afternoon ~17:00 for birds)",
+      "effort": "day-tour",
+      "mapsQuery": "Thung Nham Bird Park, Ninh Binh",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Thung%20Nham%20Bird%20Park%2C%20Ninh%20Binh"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "Often cited closed Tuesdays — confirm for Dec 17/18.",
+      "images": [],
+      "combos": [
+        "optional Cuc Phuong / EPRC combo",
+        "swap vs Thung Nham if closer preferred"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "nature"
+      ],
+      "booking": {
+        "needed": true,
+        "how": "prefer guided experiences via official site; often closed Tuesdays — confirm",
+        "url": "https://www.bearsanctuary-ninhbinh.org/your-visit"
+      },
+      "priceFamilyEst": {
+        "vnd": 1000000,
+        "usd": 38,
+        "note": "estimate: entry free; guided tour ~250k × 5 mid-tier — verify official; driver extra"
+      },
+      "id": "bear-sanctuary",
+      "name": "FOUR PAWS Bear Sanctuary Ninh Binh",
+      "shortDescription": "Rescued bile-farm bears, ethics story, and skywalk — memorable wildlife half/full day.",
+      "whyKids": "Ages 8–12 love animals + clear rescue narrative; skywalk is a hit.",
+      "reviewSummary": "Tripadvisor often ~4.9/5 cited; strong ‘day 3 wildlife’ pick in localvietnam.",
+      "distanceFromHotel": "45–70 min private driver toward Nho Quan / Cuc Phuong",
+      "duration": "Half day sanctuary-only; full day if + EPRC / Cuc Phuong",
+      "effort": "day-tour",
+      "mapsQuery": "Bear Sanctuary Ninh Binh",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bear%20Sanctuary%20Ninh%20Binh"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "same morning as Trang An boat"
+      ],
+      "tags": [
+        "culture",
+        "kids"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 100000,
+        "usd": 4,
+        "note": "estimate: ~20k adult / ~10k child × party — very cheap"
+      },
+      "id": "hoa-lu-ancient-capital",
+      "name": "Hoa Lư Ancient Capital",
+      "shortDescription": "Đinh & Lê temples at Vietnam’s 10th-century capital — short, flat history stop near Trang An.",
+      "whyKids": "Easy story for the 12yo; under an hour; cheap add-on.",
+      "reviewSummary": "Standard pairing with Trang An geographically; Hebrew blogs include it.",
+      "distanceFromHotel": "15–25 min Grab",
+      "duration": "45–75 min",
+      "effort": "grab",
+      "mapsQuery": "Hoa Lu Ancient Capital, Ninh Binh",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoa%20Lu%20Ancient%20Capital%2C%20Ninh%20Binh"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "geographically near Trang An",
+        "optional Bai Dinh by night"
+      ],
+      "tags": [
+        "culture",
+        "kids",
+        "evening"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 500000,
+        "usd": 19,
+        "note": "estimate: complex often free; electric car ~100k adult / ~70k child — verify portal"
+      },
+      "id": "bai-dinh-pagoda",
+      "name": "Bái Đính Pagoda complex",
+      "shortDescription": "Huge modern Buddhist site with electric cars — scale impresses kids; optional night lights.",
+      "whyKids": "Electric cars cut walking; big statues wow 8–12; some families skip for nature focus.",
+      "reviewSummary": "Hebrew Letayel: ‘must’ for some; others prefer boats/climbs.",
+      "distanceFromHotel": "25–40 min car",
+      "duration": "2–3 hrs",
+      "effort": "day-tour",
+      "mapsQuery": "Bai Dinh Pagoda, Ninh Binh",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bai%20Dinh%20Pagoda%2C%20Ninh%20Binh"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "afternoon after Trang An",
+        "bike hire on site"
+      ],
+      "tags": [
+        "kids",
+        "outdoor",
+        "easy"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 250000,
+        "usd": 10,
+        "note": "estimate: adults 50k / under 1.3 m 20k + bike hire ~50–100k — verify"
+      },
+      "id": "am-tien-tuyet-tinh-coc",
+      "name": "Am Tiên / Tuyệt Tịnh Cốc",
+      "shortDescription": "Hidden lagoon promenade, short climb, and rare kids’ bikes with training wheels on site.",
+      "whyKids": "Training-wheel bikes = rare win for 8/9 (Letayel Baolam). Soft half-outing.",
+      "reviewSummary": "Hebrew family blog highlight; not a must if time tight.",
+      "distanceFromHotel": "15–30 min Grab",
+      "duration": "1–2 hrs",
+      "effort": "grab",
+      "mapsQuery": "Tuyet Tinh Coc, Ninh Binh",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tuyet%20Tinh%20Coc%2C%20Ninh%20Binh"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "backup if skipping second Tam Coc boat"
+      ],
+      "tags": [
+        "kids",
+        "nature",
+        "outdoor"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": null,
+        "usd": null,
+        "note": "conflicting published fees (100k/person vs 20k+60k boat) — mark unknown until gate"
+      },
+      "id": "van-long-nature-reserve",
+      "name": "Van Long Nature Reserve",
+      "shortDescription": "Quiet wetland boat and ‘spot the langur’ game — least touristy sampan option.",
+      "whyKids": "Short calm boat (~1–1.5 hrs); monkey spotting keeps attention without another 3-hr ride.",
+      "reviewSummary": "localvietnam + Lametayel recommend for quieter nature.",
+      "distanceFromHotel": "35–55 min private car / Grab (Gia Viễn)",
+      "duration": "Half day",
+      "effort": "boat",
+      "mapsQuery": "Van Long Nature Reserve, Ninh Binh",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Van%20Long%20Nature%20Reserve%2C%20Ninh%20Binh"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "every day after morning outings"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "easy",
+        "rainy-day"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "hotel guest use",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "included with stay"
+      },
+      "id": "la-vue-pool-views",
+      "name": "Hotel La Vue pool + karst views",
+      "shortDescription": "Infinity pool and rice/karst panorama — why you booked the Ninh Hải scenic pocket.",
+      "whyKids": "Decompress after boats/climbs; Dec water may feel cold but still useful downtime.",
+      "reviewSummary": "FB Hebrew lodging threads praise La Vue pool/views vs isolated resorts.",
+      "distanceFromHotel": "On property",
+      "duration": "Afternoons as needed",
+      "effort": "easy",
+      "mapsQuery": "Hotel La Vue Tam Coc, Ninh Binh",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20La%20Vue%20Tam%20Coc%2C%20Ninh%20Binh"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "after Hang Mua climb",
+        "same evening as Tam Coc stroll"
+      ],
+      "tags": [
+        "evening",
+        "kids",
+        "food",
+        "easy"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 300000,
+        "usd": 12,
+        "note": "estimate drinks ~30–80k VND/person × 5 — verify menu"
+      },
+      "id": "sunset-coconut-coffee",
+      "name": "Sunset coconut coffee / viewpoint cafés",
+      "shortDescription": "Hang Mua base or Tam Coc strip cafés for coconut coffee and golden-hour views.",
+      "whyKids": "Easy win snack stop; Hebrew reports (Tamar Barsh FB) recommend it.",
+      "reviewSummary": "Low-effort evening morale booster between big mornings.",
+      "distanceFromHotel": "Near Hang Mua or Tam Coc strip — Grab/bike",
+      "duration": "45–90 min",
+      "effort": "grab",
+      "mapsQuery": "Hang Mua coconut coffee, Ninh Binh",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hang%20Mua%20coconut%20coffee%2C%20Ninh%20Binh"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "T-Pub pizza alternative",
+        "goat meat / cơm cháy local night another evening"
+      ],
+      "tags": [
+        "food",
+        "kids",
+        "evening"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "walk-in; weekends may wait",
+        "url": "https://chookiestravel.com/chookies-beer-garden/"
+      },
+      "priceFamilyEst": {
+        "vnd": null,
+        "usd": null,
+        "note": "mid-range Western — check menu; do not invent totals"
+      },
+      "id": "chookies-beer-garden",
+      "name": "Chookie’s Beer Garden",
+      "shortDescription": "Family-friendly burgers/pizza/craft-beer garden — Western backup after Vietnamese days.",
+      "whyKids": "FB + Tripadvisor popularity; kids find familiar food.",
+      "reviewSummary": "Travellers’ Choice-style popularity; acoustic nights sometimes.",
+      "distanceFromHotel": "10–20 min Grab into Tam Coc dining strip",
+      "duration": "1–2 hrs dinner",
+      "effort": "grab",
+      "mapsQuery": "Chookie's Beer Garden, Tam Coc, Ninh Binh",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chookie%27s%20Beer%20Garden%2C%20Tam%20Coc%2C%20Ninh%20Binh"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "rainy-day stack vs hotel rest"
+      ],
+      "tags": [
+        "rainy-day",
+        "kids",
+        "easy"
+      ],
+      "booking": {
+        "needed": true,
+        "how": "resort / phone 0918 839 692",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 2500000,
+        "usd": 96,
+        "note": "estimate portal combo: adult 550k / child 7–11 415k — confirm age tiers for 8/9/12"
+      },
+      "id": "minawa-kenh-ga",
+      "name": "Minawa Kênh Gà mineral baths",
+      "shortDescription": "Indoor mineral baths / pool / kayak combo — rainy or cool-day spa outing with kids.",
+      "whyKids": "Warm soak when La Vue pool is chilly; kayak included on portal combo.",
+      "reviewSummary": "Portal-listed rainy/cool backup; half-day drive.",
+      "distanceFromHotel": "30–50 min car (Gia Viễn / Kenh Ga)",
+      "duration": "Half day",
+      "effort": "day-tour",
+      "mapsQuery": "Minawa Kenh Ga Resort, Ninh Binh",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Minawa%20Kenh%20Ga%20Resort%2C%20Ninh%20Binh"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "optional Ky Lan Lake boat — verify price on site"
+      ],
+      "tags": [
+        "evening",
+        "kids"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "entry free; lake boat fees conflict (~80–150k cited) — verify"
+      },
+      "id": "hoa-lu-ancient-town-evening",
+      "name": "Hoa Lư Ancient Town evening (Ky Lan Lake)",
+      "shortDescription": "Lit boats and lantern vibe in Ninh Binh city — free stroll if kids want lights.",
+      "whyKids": "Evening lights/boats without Hanoi crowds; quieter scenic-pocket evenings are the default charm otherwise.",
+      "reviewSummary": "FB some prefer old-town evenings; optional only — rest may beat the drive.",
+      "distanceFromHotel": "20–35 min Grab into Ninh Binh city",
+      "duration": "Evening out 1.5–2 hrs",
+      "effort": "grab",
+      "mapsQuery": "Hoa Lu Ancient Town, Ninh Binh",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoa%20Lu%20Ancient%20Town%2C%20Ninh%20Binh"
+    }
+  ]
+}

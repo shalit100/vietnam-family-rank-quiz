@@ -1,0 +1,595 @@
+{
+  "cityId": "da-nang",
+  "cityName": "Da Nang",
+  "dates": "25–27 Dec 2026",
+  "hotel": {
+    "name": "Novotel Danang Premier Han River",
+    "address": "36 Bach Dang, Hai Chau, Da Nang (Han River west bank — city/river, NOT beach)",
+    "tripadvisorUrl": "https://www.tripadvisor.com/Hotel_Review-g298085-d1992788-Reviews-Novotel_Danang_Premier_Han_River-Da_Nang.html",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Novotel%20Danang%20Premier%20Han%20River%2C%2036%20Bach%20Dang",
+    "websiteUrl": "https://all.accor.com/hotel/8287/index.en.shtml"
+  },
+  "partyNote": "Family of 5: 2 adults + kids 8, 9, 12",
+  "fxNote": "~26,000 VND ≈ $1 · estimates only",
+  "updatedAt": "2026-09-21",
+  "tip": "Only ~1.5–2 activity days: Ba Na full day Sat 26 + Dragon Bridge Fri/Sat (both fire-show nights). Asia Park & Helio market CLOSED/suspended — skip. Mikazuki OR Son Tra as flex half-day.",
+  "attractions": [
+    {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Golden_Bridge_Ba_Na_Hills.jpg/1280px-Golden_Bridge_Ba_Na_Hills.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "closedNotes": "",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Golden_Bridge_Ba_Na_Hills.jpg/1280px-Golden_Bridge_Ba_Na_Hills.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "combos": [
+        "Alpine Coaster add-on ~70k/ride",
+        "Fantasy Park included fog insurance"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "outdoor",
+        "rainy-day"
+      ],
+      "booking": {
+        "needed": true,
+        "how": "Klook / Sun World / private car; buy for Sat 26",
+        "url": "https://sunworld.vn/en/banahills/sunworld-news/price-list-tickets-services-sun-world-ba-na-hills-year-2026-19796"
+      },
+      "priceFamilyEst": {
+        "vnd": 5500000,
+        "usd": 212,
+        "note": "estimate: adult 1M / child 1–1.4m 800k; family ~4.5–6.5M tickets + food — ≥1.4m = adult; verify heights"
+      },
+      "id": "ba-na-hills",
+      "name": "Ba Na Hills + Golden Bridge + Fantasy Park",
+      "shortDescription": "Cable car, Golden Bridge hands, French Village, and indoor Fantasy Park — the #1 Da Nang ticket day.",
+      "whyKids": "8/9 love Fantasy Park; 12yo Alpine Coaster; fog common Sep–Feb but indoors saves the day.",
+      "reviewSummary": "Hebrew + English family consensus ‘whole day.’ Weekend queues on Sat 26 — go early / WOW Pass if offered.",
+      "distanceFromHotel": "35–50+ min west (Hoa Vang)",
+      "duration": "Full day — do NOT combine with Mikazuki",
+      "effort": "day-tour",
+      "mapsQuery": "Ba Na Hills Golden Bridge, Da Nang",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ba%20Na%20Hills%20Golden%20Bridge%2C%20Da%20Nang"
+    },
+    {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dragon_Bridge_Da_Nang.jpg/1280px-Dragon_Bridge_Da_Nang.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "closedNotes": "",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dragon_Bridge_Da_Nang.jpg/1280px-Dragon_Bridge_Da_Nang.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "combos": [
+        "riverside dinner first",
+        "east-bank Son Tra night market snacks",
+        "encore Sat if Fri rainy"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "evening",
+        "outdoor"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "free; snacks 15–50k; cash for vendors"
+      },
+      "id": "dragon-bridge-fire-show",
+      "name": "Dragon Bridge fire & water show",
+      "shortDescription": "Free dragon that breathes real fire ~21:00 Fri–Sun — your Fri 25 + Sat 26 are both show nights.",
+      "whyKids": "All ages love it; loud blast — stand back if sensitive. Arrive ~20:30.",
+      "reviewSummary": "KissTour + dananghotelguide staple; light rain usually OK, heavy storm may cancel.",
+      "distanceFromHotel": "10–20 min walk along Bach Dang / bridges",
+      "duration": "~15–30 min show",
+      "effort": "walk",
+      "mapsQuery": "Dragon Bridge Da Nang",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dragon%20Bridge%20Da%20Nang"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "Xuan Thieu bay beach in front if ocean red-flagged"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "rainy-day",
+        "outdoor"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "gate / official / OTA; bring swimsuits + lockers",
+        "url": "https://www.mikazukiwaterpark.com/"
+      },
+      "priceFamilyEst": {
+        "vnd": 1500000,
+        "usd": 58,
+        "note": "estimate weekend adult ~375–460k / child 1–1.4m ~170–270k — sources disagree; verify live"
+      },
+      "id": "mikazuki-water-park",
+      "name": "Mikazuki Water Park 365 (+ Onsen)",
+      "shortDescription": "Indoor heated dome — wave pool, slides, lazy river — best December rain insurance.",
+      "whyKids": "8–12 ideal; tall kids may hit adult slide minimums (~1.39m) — check on site. Onsen rules for under-12.",
+      "reviewSummary": "thingstododanang + hoiandaytrip; wrong direction from Ba Na — separate day only.",
+      "distanceFromHotel": "20–35 min Grab NW",
+      "duration": "Half to full day",
+      "effort": "day-tour",
+      "mapsQuery": "Mikazuki Water Park Da Nang",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mikazuki%20Water%20Park%20Da%20Nang"
+    },
+    {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Lady_Buddha_Da_Nang.jpg/1280px-Lady_Buddha_Da_Nang.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "closedNotes": "",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Lady_Buddha_Da_Nang.jpg/1280px-Lady_Buddha_Da_Nang.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "combos": [
+        "Son Tra viewpoints drive-by",
+        "don’t force if exhausted"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "culture",
+        "outdoor"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "free entry; parking ~5–20k; Grab one-way often ~80–150k cited — verify app"
+      },
+      "id": "son-tra-linh-ung",
+      "name": "Sơn Trà Peninsula + Linh Ứng (Lady Buddha)",
+      "shortDescription": "67m Lady Buddha, bay views, monkeys (do not feed) — free scenic half-morning.",
+      "whyKids": "Iconic photo + scenic drive; modest dress; early morning best.",
+      "reviewSummary": "Free culture/nature; flexible Fri late morning or Sun early IF flight allows.",
+      "distanceFromHotel": "25–40 min Grab/private car",
+      "duration": "60–90 min on site",
+      "effort": "grab",
+      "mapsQuery": "Linh Ung Pagoda Lady Buddha Da Nang",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Linh%20Ung%20Pagoda%20Lady%20Buddha%20Da%20Nang"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "An Thuong street food",
+        "Non Nuoc quieter stretch south"
+      ],
+      "tags": [
+        "kids",
+        "beach",
+        "outdoor"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "beach free; loungers often 30–50k"
+      },
+      "id": "my-khe-beach",
+      "name": "My Khe Beach promenade / An Thuong",
+      "shortDescription": "Classic Da Nang beach strip — Dec swim often rough/red-flag; still great for walk, coconut, sand play.",
+      "whyKids": "All ages for promenade; check lifeguard flags before swim.",
+      "reviewSummary": "KissTour kids beach day; city-base hotel means 10–20 min Grab.",
+      "distanceFromHotel": "10–20 min Grab east across river",
+      "duration": "Half day or sunset",
+      "effort": "grab",
+      "mapsQuery": "My Khe Beach Da Nang",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=My%20Khe%20Beach%20Da%20Nang"
+    },
+    {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Marble_Mountains_Da_Nang.jpg/1280px-Marble_Mountains_Da_Nang.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "closedNotes": "",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Marble_Mountains_Da_Nang.jpg/1280px-Marble_Mountains_Da_Nang.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "combos": [
+        "Non Nuoc Beach nearby",
+        "optional on Fri transfer"
+      ],
+      "tags": [
+        "kids",
+        "culture",
+        "outdoor"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 350000,
+        "usd": 13,
+        "note": "estimate: entry 40k + elevator 15k each way + Am Phu 20k; under 10 often free main — verify"
+      },
+      "id": "marble-mountains",
+      "name": "Marble Mountains (Thủy Sơn)",
+      "shortDescription": "Caves, pagodas, viewpoints — elevator optional for tired legs; easy Fri 25 transfer stop.",
+      "whyKids": "8–12 handle stairs with elevator backup; skip if already ‘templed out’ after Mỹ Sơn.",
+      "reviewSummary": "Cheap corridor stop Hoi An→Da Nang; don’t stack with Ba Na same day.",
+      "distanceFromHotel": "20–30 min south / on Hoi An corridor",
+      "duration": "90–150 min on site",
+      "effort": "grab",
+      "mapsQuery": "Marble Mountains Da Nang",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marble%20Mountains%20Da%20Nang"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "Da Nang Museum on Bach Dang",
+        "café hop"
+      ],
+      "tags": [
+        "culture",
+        "rainy-day",
+        "kids"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 300000,
+        "usd": 12,
+        "note": "estimate from 01/01/2026: adult 60k — kids policy verify at door"
+      },
+      "id": "cham-sculpture-museum",
+      "name": "Museum of Cham Sculpture",
+      "shortDescription": "World’s largest Cham sculpture collection — air-con midday / rainy gold; pairs with Mỹ Sơn story.",
+      "whyKids": "12yo history; 8–9 shorter 45–60 min visit.",
+      "reviewSummary": "Central rainy stack; confirm hours (some sources say closed Mon).",
+      "distanceFromHotel": "10–15 min Grab (Tran Phu)",
+      "duration": "45–90 min",
+      "effort": "grab",
+      "mapsQuery": "Museum of Cham Sculpture Da Nang",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Cham%20Sculpture%20Da%20Nang"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "Love Bridge photo stop",
+        "Dragon Bridge show"
+      ],
+      "tags": [
+        "must-consider",
+        "evening",
+        "kids",
+        "easy"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "free; café spends vary"
+      },
+      "id": "bach-dang-promenade",
+      "name": "Bach Dang Walking Street + Han River promenade",
+      "shortDescription": "Evening stroll, Christmas lights, cafés — decompress outside the Novotel door.",
+      "whyKids": "Safe energy burn on promenade before Dragon Bridge.",
+      "reviewSummary": "City/river base advantage for short 2n stay.",
+      "distanceFromHotel": "Outside hotel door",
+      "duration": "30–90 min",
+      "effort": "walk",
+      "mapsQuery": "Bach Dang Walking Street Da Nang",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bach%20Dang%20Walking%20Street%20Da%20Nang"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "same evening as Dragon Bridge"
+      ],
+      "tags": [
+        "kids",
+        "evening",
+        "easy"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "free"
+      },
+      "id": "love-bridge",
+      "name": "Love Bridge (Cầu Tình Yêu)",
+      "shortDescription": "Short heart-locks photo stop — NOT the Golden Bridge (that’s at Ba Na).",
+      "whyKids": "Fun myth-bust for kids who confuse ‘Golden Bridge in the city’.",
+      "reviewSummary": "thingstododanang explainer — free riverfront stop.",
+      "distanceFromHotel": "Short walk from riverfront / Dragon Bridge area",
+      "duration": "15–30 min",
+      "effort": "walk",
+      "mapsQuery": "Love Bridge Da Nang",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Love%20Bridge%20Da%20Nang"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "Con Market food hall another meal"
+      ],
+      "tags": [
+        "shopping",
+        "rainy-day",
+        "kids"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "free entry; bargain souvenirs"
+      },
+      "id": "han-market",
+      "name": "Han Market (Chợ Hàn)",
+      "shortDescription": "Easy souvenirs + dried fruit — short rainy stop; FB Novotel city-base reports mention it.",
+      "whyKids": "Quick browse; bargain practice.",
+      "reviewSummary": "Open; better souvenirs than food (Con Market wins food).",
+      "distanceFromHotel": "10–15 min walk/Grab",
+      "duration": "45–90 min",
+      "effort": "walk",
+      "mapsQuery": "Han Market Da Nang",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Han%20Market%20Da%20Nang"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "rainy lunch between museums"
+      ],
+      "tags": [
+        "food",
+        "kids",
+        "rainy-day"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 500000,
+        "usd": 19,
+        "note": "estimate meals often ~40–100k+/dish — pay stall prices"
+      },
+      "id": "con-market",
+      "name": "Con Market (Chợ Con) food hall",
+      "shortDescription": "Local cooked-hot food stalls — best ‘real food’ market vs Han.",
+      "whyKids": "Family-friendly if you pick hot dishes; cash.",
+      "reviewSummary": "KissTour + markets guides; still open per closed-attractions register.",
+      "distanceFromHotel": "10–20 min Grab",
+      "duration": "1–1.5 hrs meal",
+      "effort": "grab",
+      "mapsQuery": "Con Market Da Nang",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Con%20Market%20Da%20Nang"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "Dragon Bridge 21:00"
+      ],
+      "tags": [
+        "evening",
+        "food",
+        "kids"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 300000,
+        "usd": 12,
+        "note": "estimate snacks 15–50k; seafood skewers higher — cash"
+      },
+      "id": "son-tra-night-market",
+      "name": "Son Tra / Dragon Bridge Night Market",
+      "shortDescription": "East-bank grilled seafood, coconuts, souvenirs — pairs with fire show 19:30–20:45.",
+      "whyKids": "Stools + skewers before the dragon; small bills.",
+      "reviewSummary": "dananghotelguide market section staple for show nights.",
+      "distanceFromHotel": "Walk bridge or Grab across river",
+      "duration": "45–75 min pre-show",
+      "effort": "walk",
+      "mapsQuery": "Son Tra Night Market Da Nang",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Son%20Tra%20Night%20Market%20Da%20Nang"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "spa for adults while kids pool"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "easy",
+        "rainy-day"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "hotel guests",
+        "url": "https://all.accor.com/hotel/8287/index.en.shtml"
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "included in stay"
+      },
+      "id": "novotel-pool-downtime",
+      "name": "Novotel pool / apartment downtime",
+      "shortDescription": "Two-bedroom apartment river views — Christmas arrival + Sat Ba Na need pool reset.",
+      "whyKids": "Recovery between big days and Sunday flight.",
+      "reviewSummary": "City/river base praised for short stays; confirm kids pool rules.",
+      "distanceFromHotel": "On-site",
+      "duration": "Flexible",
+      "effort": "easy",
+      "mapsQuery": "Novotel Danang Premier Han River",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Novotel%20Danang%20Premier%20Han%20River"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "Bach Dang stroll"
+      ],
+      "tags": [
+        "culture",
+        "kids",
+        "easy"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "free"
+      },
+      "id": "da-nang-cathedral",
+      "name": "Da Nang Cathedral (Pink Church)",
+      "shortDescription": "Quick photo / Christmas vibe on Christmas Day — free outside mass.",
+      "whyKids": "Festive exterior stop; modest dress.",
+      "reviewSummary": "Central free culture filler on Fri 25.",
+      "distanceFromHotel": "Short Grab/walk from river hotels",
+      "duration": "20–40 min",
+      "effort": "walk",
+      "mapsQuery": "Da Nang Cathedral Pink Church",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Da%20Nang%20Cathedral%20Pink%20Church"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "Dragon Bridge evening"
+      ],
+      "tags": [
+        "evening",
+        "kids",
+        "boat"
+      ],
+      "booking": {
+        "needed": true,
+        "how": "OTA or riverside booths",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": null,
+        "usd": null,
+        "note": "check live OTA — do not invent; products vary widely"
+      },
+      "id": "han-river-night-cruise",
+      "name": "Han River night cruise (optional)",
+      "shortDescription": "Different angle on fire show / lights from the water — short family boat if not exhausted.",
+      "whyKids": "Novelty view; skip if walking bridge is enough.",
+      "reviewSummary": "Products vary widely on Klook/GYG — verify Christmas weekend availability.",
+      "distanceFromHotel": "Board near river",
+      "duration": "30–60+ min depending product",
+      "effort": "boat",
+      "mapsQuery": "Han River cruise Da Nang",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Han%20River%20cruise%20Da%20Nang"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "Helio Center + night market suspended since 5 Sep 2025 — do not plan evening food there.",
+      "images": [],
+      "combos": [
+        "Cham Museum same rainy day"
+      ],
+      "tags": [
+        "rainy-day",
+        "kids"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": null,
+        "usd": null,
+        "note": "play areas & tickets check live boards — prices change"
+      },
+      "id": "vincom-mall-cinema",
+      "name": "Vincom / malls + cinema rainy reset",
+      "shortDescription": "Playground + CGV/Metiz movie — classic rainy family filler (Helio complex suspended — cinema only maybe).",
+      "whyKids": "Pure energy burn if parks cancelled by weather.",
+      "reviewSummary": "Indoor roundups; verify venues post-Helio suspension Sep 2025.",
+      "distanceFromHotel": "Grab to Vincom plaza(s)",
+      "duration": "2–3 hrs",
+      "effort": "grab",
+      "mapsQuery": "Vincom Plaza Da Nang",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vincom%20Plaza%20Da%20Nang"
+    }
+  ]
+}

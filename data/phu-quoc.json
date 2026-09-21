@@ -1,0 +1,625 @@
+{
+  "cityId": "phu-quoc",
+  "cityName": "Phu Quoc",
+  "dates": "27 Dec 2026 – 1 Jan 2027",
+  "hotel": {
+    "name": "New World Phu Quoc Resort — Garden Pool Villa 3BR",
+    "address": "Khem Beach / south tip, Phu Quoc (An Thoi area)",
+    "tripadvisorUrl": "https://www.tripadvisor.com/Hotel_Review-g469418-d12232014-Reviews-New_World_Phu_Quoc_Resort-Phu_Quoc_Island_Kien_Giang_Province.html",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20World%20Phu%20Quoc%20Resort%20Khem%20Beach",
+    "websiteUrl": "https://phuquoc.newworldhotels.com/"
+  },
+  "partyNote": "Family of 5: 2 adults + kids 8, 9, 12",
+  "fxNote": "~26,000 VND ≈ $1 · estimates only",
+  "updatedAt": "2026-09-21",
+  "tip": "South-first plan from Khem: Hon Thom + Bai Sao + Sunset Town easy; VinWonders/Safari = one long north day (~55–75+ min each way). NYE → Sunset Town fireworks or quiet villa. Soft landing Day 1 — no tickets.",
+  "attractions": [
+    {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hon_Thom_cable_car.jpg/1280px-Hon_Thom_cable_car.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "closedNotes": "",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hon_Thom_cable_car.jpg/1280px-Hon_Thom_cable_car.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "combos": [
+        "buffet combo popular with kids",
+        "Kiss Bridge / Sunset Town same cluster"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "outdoor",
+        "boat"
+      ],
+      "booking": {
+        "needed": true,
+        "how": "online QR recommended for peak week — Sun World / Klook",
+        "url": "https://sunworld.vn/en/hon-thom"
+      },
+      "priceFamilyEst": {
+        "vnd": 4500000,
+        "usd": 173,
+        "note": "estimate: RT cable incl. parks 850k adult / 700k child 1–1.4m; +buffet 1.15M/900k — family ~3.5–5.5M; ≥1.4m=adult"
+      },
+      "id": "hon-thom-cable-aquatopia",
+      "name": "Hon Thom Cable Car + Aquatopia Water Park",
+      "shortDescription": "World’s longest sea cable car (~7.9 km) to Hon Thom island water park + Exotica — the south-cluster must-do from Khem.",
+      "whyKids": "8–12 water-slide heaven; cable views thrill all ages. Be on first cars (midday break typical).",
+      "reviewSummary": "Hebrew Gate06 + Katy blogs call Hon Thom a must. Ticket typically includes Aquatopia + Exotica.",
+      "distanceFromHotel": "~10 min to Sunset Town cable terminal (hotel cites)",
+      "duration": "Full day",
+      "effort": "day-tour",
+      "mapsQuery": "Hon Thom Cable Car Sunset Town Phu Quoc",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hon%20Thom%20Cable%20Car%20Sunset%20Town%20Phu%20Quoc"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "Aqua World + villa pool same property",
+        "Bai Sao as different beach morning"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "beach",
+        "easy"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "guest beach access",
+        "url": "https://phuquoc.newworldhotels.com/"
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "free for resort guests"
+      },
+      "id": "bai-khem-beach",
+      "name": "Bai Khem (Khem Beach) — resort stretch",
+      "shortDescription": "Often-ranked finest white sand / shallow calm family swim — walk-out from New World.",
+      "whyKids": "Ideal 8–12 sand play + villa beach days; core downtime between ticket days.",
+      "reviewSummary": "phu-quoc-beach-wow + Gate06 favor Khem; south-first reason you booked New World.",
+      "distanceFromHotel": "Walk out",
+      "duration": "Flexible half/full days",
+      "effort": "easy",
+      "mapsQuery": "Bai Khem Beach Phu Quoc",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bai%20Khem%20Beach%20Phu%20Quoc"
+    },
+    {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sao_Beach_Phu_Quoc.jpg/1280px-Sao_Beach_Phu_Quoc.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "closedNotes": "",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sao_Beach_Phu_Quoc.jpg/1280px-Sao_Beach_Phu_Quoc.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "combos": [
+        "seafood lunch at beach restaurant fronts",
+        "soft recovery day after Hon Thom"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "beach",
+        "outdoor"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 200000,
+        "usd": 8,
+        "note": "beach free; chair/umbrella/parking modest tens of thousands VND — confirm on site"
+      },
+      "id": "bai-sao-beach",
+      "name": "Bai Sao (Sao Beach)",
+      "shortDescription": "SE postcard white sand + turquoise shallows — arrive before 10:00; north end often better kept.",
+      "whyKids": "Classic swim/photo half-morning from Khem (~15–25 min).",
+      "reviewSummary": "Gate06 favorite; easy south add-on — don’t try every beach.",
+      "distanceFromHotel": "15–25 min Grab",
+      "duration": "Half morning",
+      "effort": "grab",
+      "mapsQuery": "Bai Sao Beach Phu Quoc",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bai%20Sao%20Beach%20Phu%20Quoc"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "Hon Thom day ends nearby",
+        "NYE Spectacle Countdown",
+        "Italian/casual dinner (Blue Table class)"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "evening",
+        "outdoor"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "free entry; book restaurants/beach clubs for NYE",
+        "url": "https://sunset-town.com/"
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "free to wander; dinner wide range"
+      },
+      "id": "sunset-town",
+      "name": "Sunset Town (An Thoi) promenade",
+      "shortDescription": "Amalfi-color townscape, Kiss Bridge, evening lights, street shows — default evening out from Khem; key NYE venue.",
+      "whyKids": "Evening lights pop (daytime can feel empty); ~5–10 min from New World.",
+      "reviewSummary": "New World destination page + Sunset Town NYE fireworks pattern 2025→2026.",
+      "distanceFromHotel": "5–10 min",
+      "duration": "Evening 1.5–3 hrs",
+      "effort": "grab",
+      "mapsQuery": "Sunset Town Phu Quoc",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sunset%20Town%20Phu%20Quoc"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "Official 2026→2027 program TBD as of research — treat prior year as pattern only.",
+      "images": [],
+      "combos": [
+        "hotel gala alternative",
+        "quiet villa NYE valid after long Vietnam trip"
+      ],
+      "tags": [
+        "must-consider",
+        "evening",
+        "kids"
+      ],
+      "booking": {
+        "needed": true,
+        "how": "reconfirm 2026→2027 program; book dinner early",
+        "url": "https://sunset-town.com/en/luu-nhap-tu-dongspectacle-countdown-2026-phu-quoc/"
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "public viewing free; beach-club set menus quote early — often expensive"
+      },
+      "id": "nye-sunset-town-fireworks",
+      "name": "NYE Sunset Town Spectacle Countdown",
+      "shortDescription": "Beach fireworks / countdown historically at Sunset Town — strongest south NYE for New World (~10 min).",
+      "whyKids": "Realistic with kids vs 70-min drive north after midnight; go early evening, exit after main fireworks if tired.",
+      "reviewSummary": "2025→2026 pattern documented; 2026→2027 programs not published as of Sep 2026 — reconfirm Oct–Nov.",
+      "distanceFromHotel": "~10 min",
+      "duration": "Evening 31 Dec → early 1 Jan",
+      "effort": "grab",
+      "mapsQuery": "Sunset Town Phu Quoc NYE fireworks",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sunset%20Town%20Phu%20Quoc%20NYE%20fireworks"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "2-day VW+Safari combo better than crushing both same day from south",
+        "optional Grand World if not wrecked"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "outdoor"
+      ],
+      "booking": {
+        "needed": true,
+        "how": "official / Klook dated tickets before 27–31 Dec peak",
+        "url": "https://vinwonders.com/en/vinwonders-phu-quoc-price-and-regulations/"
+      },
+      "priceFamilyEst": {
+        "vnd": 4200000,
+        "usd": 162,
+        "note": "estimate: ≥140cm 950k / 100–140cm 710k; family tickets ~3.5–4.8M + food + transport ~1.5–2.5M RT peak — measure kids"
+      },
+      "id": "vinwonders-phu-quoc",
+      "name": "VinWonders Phu Quoc",
+      "shortDescription": "Vietnam’s largest theme park — rides, Typhoon World, aquarium, shows. One ambitious north mega-day from Khem.",
+      "whyKids": "12yo thrills (height gates); 8–9 love water + themed zones. Bring swimsuits. Do NOT stack with Hon Thom same day.",
+      "reviewSummary": "Gate06 + Katy Hebrew highlight; ~55–75+ min each way from Khem — plan early start + private car.",
+      "distanceFromHotel": "~45–55 km / ~55–75+ min Grab/private each way",
+      "duration": "Full day + early start",
+      "effort": "day-tour",
+      "mapsQuery": "VinWonders Phu Quoc",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=VinWonders%20Phu%20Quoc"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "prefer 2-day VW+Safari combo from south",
+        "Grand World evening if energy"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "nature",
+        "outdoor"
+      ],
+      "booking": {
+        "needed": true,
+        "how": "official / Klook combo",
+        "url": "https://vinwonders.com/en/vinpearl-safari-phu-quoc-price-and-regulations/"
+      },
+      "priceFamilyEst": {
+        "vnd": 3900000,
+        "usd": 150,
+        "note": "estimate day Safari 850k/650k; combo VW+Safari same day 1.5M/1.1M; 2-day combo ~1.7M/1.3M — verify"
+      },
+      "id": "vinpearl-safari",
+      "name": "Vinpearl Safari Phu Quoc",
+      "shortDescription": "Open-habitat safari bus (lions, tigers, giraffes) + walkable zoo + shows — best as same north trip as VinWonders over 2 days.",
+      "whyKids": "Hebrew families rate highly; optional Junior Zoo Keeper ~5–12 (book slots).",
+      "reviewSummary": "Hours ~09:00–16:00 last entry often 15:00; animals more active early.",
+      "distanceFromHotel": "Same long haul as VinWonders (~55–75+ min)",
+      "duration": "Half–full day",
+      "effort": "day-tour",
+      "mapsQuery": "Vinpearl Safari Phu Quoc",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vinpearl%20Safari%20Phu%20Quoc"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "swap with Hon Thom if sea forecast better one day",
+        "soft beach day after"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "boat",
+        "outdoor"
+      ],
+      "booking": {
+        "needed": true,
+        "how": "Klook dated or private WhatsApp operators; free-cancel if offered",
+        "url": "https://www.klook.com/en-AE/activity/56528-phu-quoc-snorkeling-day-tour-by-speedboat/"
+      },
+      "priceFamilyEst": {
+        "vnd": 5000000,
+        "usd": 192,
+        "note": "estimate: group ~US$30–60/pp OR private boat ~5–9M+/boat for family — confirm live; never invent exact"
+      },
+      "id": "snorkeling-an-thoi",
+      "name": "Snorkeling & island boat day (An Thoi archipelago)",
+      "shortDescription": "Best ‘wow sea day’ — coral reefs south of island (Gam Ghi, May Rut, etc.). Prefer private/max-10 over party boats.",
+      "whyKids": "Dec dry season = best visibility; lifejackets + kid gear; New World closer to An Thoi ports.",
+      "reviewSummary": "Klook group ~US$30–60/pp; private family boats often multi-million VND — get live quote for 5.",
+      "distanceFromHotel": "Advantage — closer to An Thoi ports; many south pickups",
+      "duration": "Full day",
+      "effort": "boat",
+      "mapsQuery": "An Thoi islands snorkeling Phu Quoc",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=An%20Thoi%20islands%20snorkeling%20Phu%20Quoc"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "Khem Beach walk-out",
+        "villa movie night NYE quiet option"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "easy",
+        "rainy-day"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "guest amenity",
+        "url": "https://phuquoc.newworldhotels.com/en/destinations/water-park/"
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "included for guests — confirm any rules"
+      },
+      "id": "aqua-world-villa-pool",
+      "name": "New World Aqua World + villa private pool",
+      "shortDescription": "On-property water park + 3BR private pool — zero-travel kid days crucial across 5 nights + NYE fatigue.",
+      "whyKids": "Ages ~3–12 kids’ club too; soft landing Day 1 and recovery days.",
+      "reviewSummary": "Hotel amenity anchors — included for in-house guests (confirm height/time rules).",
+      "distanceFromHotel": "On property",
+      "duration": "Flexible",
+      "effort": "easy",
+      "mapsQuery": "New World Phu Quoc Aqua World",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20World%20Phu%20Quoc%20Aqua%20World"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "Ham Ninh floating restaurants as quieter east-coast alt"
+      ],
+      "tags": [
+        "evening",
+        "food",
+        "kids"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 1500000,
+        "usd": 58,
+        "note": "estimate seafood dinner for 5 often ~800k–2.5M+ depending lobster vs simple fish — price before cook"
+      },
+      "id": "duong-dong-night-market",
+      "name": "Duong Dong Night Market (Bach Dang)",
+      "shortDescription": "Pick-your-seafood + souvenirs + street snacks — one evening enough; agree prices before cooking.",
+      "whyKids": "Classic food memory; touristy; weigh & price first (esp. lobster).",
+      "reviewSummary": "Katy + Gate06 staple; ~35–50 min from New World.",
+      "distanceFromHotel": "35–50 min",
+      "duration": "Evening 1.5–2 hrs",
+      "effort": "grab",
+      "mapsQuery": "Duong Dong Night Market Phu Quoc",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Duong%20Dong%20Night%20Market%20Phu%20Quoc"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "VinWonders/Safari same north trip",
+        "NYE Grand World countdown = long night from south — prefer Sunset Town"
+      ],
+      "tags": [
+        "evening",
+        "kids"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "grounds free; buy paid shows on site / official",
+        "url": "https://vinwonders.com/en/grandworld-phu-quoc-price-and-regulations/"
+      },
+      "priceFamilyEst": {
+        "vnd": 1000000,
+        "usd": 38,
+        "note": "estimate free wandering + optional ~0.5–1.5M for 1–2 paid attractions (gondola 200k/150k, museum 200k/150k, show 300k/230k)"
+      },
+      "id": "grand-world-evening",
+      "name": "Grand World Phu Quoc (north evening)",
+      "shortDescription": "Venice canals, free street shows, optional gondola / Teddy Bear Museum / Quintessence show — worth it only if already north for parks.",
+      "whyKids": "Walkable ‘never sleeps’ village; Teddy Bear = AC rain escape; late return from Khem (~70 min) is hard with kids.",
+      "reviewSummary": "Grounds free; combine Safari AM → Grand World PM if doing north mega-trip.",
+      "distanceFromHotel": "55–75+ min — only with north park day",
+      "duration": "Evening / half-day",
+      "effort": "day-tour",
+      "mapsQuery": "Grand World Phu Quoc",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20World%20Phu%20Quoc"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "Sunset Town evening",
+        "Hon Thom ticket day"
+      ],
+      "tags": [
+        "kids",
+        "evening",
+        "outdoor"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "often free public areas or incl. with Hon Thom — verify 2026 windows"
+      },
+      "id": "kiss-bridge",
+      "name": "Kiss Bridge (Sunset Town)",
+      "shortDescription": "Iconic photo + sunset/evening stroll — often tied to Sun World ticket windows; check 2026 access.",
+      "whyKids": "Quick wow photo with Sunset Town visit / Hon Thom day.",
+      "reviewSummary": "Paired with south cluster; free public viewing areas often available.",
+      "distanceFromHotel": "With Sunset Town (~5–10 min)",
+      "duration": "30–60 min",
+      "effort": "grab",
+      "mapsQuery": "Kiss Bridge Sunset Town Phu Quoc",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kiss%20Bridge%20Sunset%20Town%20Phu%20Quoc"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "resort café drinks"
+      ],
+      "tags": [
+        "beach",
+        "kids",
+        "evening"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "free public stretches"
+      },
+      "id": "ong-lang-sunset",
+      "name": "Ong Lang Beach sunset cove",
+      "shortDescription": "Quieter west mid-island cove — golden sunset; water shoes for rocky/coral patches at low tide.",
+      "whyKids": "Different beach half-day when Khem feels familiar; not a must.",
+      "reviewSummary": "B-tier soft outing; ~40–55 min from New World.",
+      "distanceFromHotel": "40–55 min",
+      "duration": "Half day / sunset",
+      "effort": "grab",
+      "mapsQuery": "Ong Lang Beach Phu Quoc",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ong%20Lang%20Beach%20Phu%20Quoc"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "Sunset Town fireworks if energy",
+        "skip crowds entirely"
+      ],
+      "tags": [
+        "evening",
+        "kids",
+        "easy",
+        "food"
+      ],
+      "booking": {
+        "needed": true,
+        "how": "email hotel before Dec",
+        "url": "https://phuquoc.newworldhotels.com/"
+      },
+      "priceFamilyEst": {
+        "vnd": null,
+        "usd": null,
+        "note": "quote hotel — do not assume; historically expensive at some island 5★"
+      },
+      "id": "hotel-nye-gala-or-villa",
+      "name": "Resort NYE gala or quiet villa countdown",
+      "shortDescription": "Safest with 8/9/12 — hotel dinner + soft countdown, OR private pool + room service + early fireworks watch then bed.",
+      "whyKids": "After Hanoi→Tam Coc→Ha Long→Hoi An→Da Nang, quiet villa NYE is a valid choice at 3BR New World.",
+      "reviewSummary": "Ask New World in writing: compulsory gala? kids pricing? dress code? Historical 5★ galas often multi-million VND/adult.",
+      "distanceFromHotel": "On property",
+      "duration": "Evening 31 Dec",
+      "effort": "easy",
+      "mapsQuery": "New World Phu Quoc Resort",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20World%20Phu%20Quoc%20Resort"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "Duong Dong run",
+        "Coi Nguon Museum rainy"
+      ],
+      "tags": [
+        "culture",
+        "kids",
+        "easy"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "often free/donation + product sales"
+      },
+      "id": "pepper-farm-stop",
+      "name": "Pepper farm short stop",
+      "shortDescription": "Phu Quoc pepper is famous — 20–40 min educational smell/taste stop if en route.",
+      "whyKids": "Mild interest unless they like tasting; don’t build a day around it.",
+      "reviewSummary": "C-tier filler; combine with town run.",
+      "distanceFromHotel": "Mid-island farms ~30–45 min",
+      "duration": "20–40 min",
+      "effort": "grab",
+      "mapsQuery": "Phu Quoc pepper farm",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Phu%20Quoc%20pepper%20farm"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "soft day filler only"
+      ],
+      "tags": [
+        "nature",
+        "kids",
+        "outdoor"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 200000,
+        "usd": 8,
+        "note": "entry often modest tens of thousands VND — verify live"
+      },
+      "id": "suoi-tranh-waterfall",
+      "name": "Suoi Tranh Waterfall",
+      "shortDescription": "Jungle stream walk — Dec dry season may be a trickle vs wet-season roar; still shaded nature if restless.",
+      "whyKids": "Light adventure; don’t expect big waterfall in Dec.",
+      "reviewSummary": "phuquocgo notes; C-tier for this season.",
+      "distanceFromHotel": "25–40 min",
+      "duration": "1–2 hrs",
+      "effort": "grab",
+      "mapsQuery": "Suoi Tranh Waterfall Phu Quoc",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Suoi%20Tranh%20Waterfall%20Phu%20Quoc"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "message flight # 24h ahead"
+      ],
+      "tags": [
+        "easy"
+      ],
+      "booking": {
+        "needed": true,
+        "how": "book shuttle 24h ahead with flight number",
+        "url": "https://phuquoc.newworldhotels.com/en/location/"
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "shared shuttle free if booked; private 1.08–1.44M + possible 1 Jan surcharge — verify"
+      },
+      "id": "airport-shuttle-new-world",
+      "name": "New World airport shuttle (arrive/depart)",
+      "shortDescription": "Complimentary shared shuttle on fixed times (~20 min) — book 24h ahead with flight #. Private options for holiday.",
+      "whyKids": "Family of 5 + bags; 1 Jan may have private-transfer holiday surcharge (+30% cited).",
+      "reviewSummary": "Hotel location page: shared free fixed times; private 7-seat 1.08M / 16-seat 1.44M (+30% holidays).",
+      "distanceFromHotel": "PQC ↔ Khem ~20 min",
+      "duration": "Transfer only",
+      "effort": "grab",
+      "mapsQuery": "Phu Quoc International Airport",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Phu%20Quoc%20International%20Airport"
+    }
+  ]
+}

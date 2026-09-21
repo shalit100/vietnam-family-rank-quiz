@@ -1,0 +1,494 @@
+{
+  "cityId": "ha-long",
+  "cityName": "Ha Long (Celina cruise)",
+  "dates": "19–20 Dec 2026",
+  "hotel": {
+    "name": "Celina of The Sea — Family Suite Connecting",
+    "address": "Embark Lot 41A, Tuan Chau International Marina, Ha Long (Lan Ha Bay overnight)",
+    "tripadvisorUrl": "https://www.tripadvisor.com/Attractions-g293922-Activities-Halong_Bay_Quang_Ninh_Province.html",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lot%2041A%20Tuan%20Chau%20Marina%20Ha%20Long",
+    "websiteUrl": "https://celinaofthesea.com/"
+  },
+  "partyNote": "Family of 5: 2 adults + kids 8, 9, 12",
+  "fxNote": "~26,000 VND ≈ $1 · estimates only",
+  "updatedAt": "2026-09-21",
+  "tip": "1-night cruise IS the attraction — do not book a separate Ha Long day tour. Lounge 11:15–11:45 · tender ~12:00–12:30. Confirm meals for all 5 + $160 extra bed for 8yo.",
+  "attractions": [
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "all onboard activities below are part of this stay"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "boat"
+      ],
+      "booking": {
+        "needed": true,
+        "how": "Agoda hold locked; pay later ~3 Dec; free cancel to 4 Dec 2026 23:59 Ha Long time",
+        "url": "https://celinaofthesea.com/"
+      },
+      "priceFamilyEst": {
+        "vnd": 23770000,
+        "usd": 914,
+        "note": "estimate all-in: Agoda ~19.6M VND (~$754) + US$160 extra bed — tips/drinks/spa extra"
+      },
+      "id": "celina-cruise-overnight",
+      "name": "Celina of The Sea 2D1N (the cruise itself)",
+      "shortDescription": "Lan Ha Bay overnight on a new luxury ship — kayaking, cooking class, sunset party, meals, and cabin are the core product.",
+      "whyKids": "Overnight beats a day cruise; activities optional; life jackets; large-ship facilities (pool, mini-golf, play area).",
+      "reviewSummary": "Ship new (~early 2026); thin Tripadvisor base — OTA praise for cabins/service; 1-nighters feel short by nature. Don’t overweight agent ‘4.9’ marketing.",
+      "distanceFromHotel": "You are onboard",
+      "duration": "~22 hrs embark to disembark",
+      "effort": "boat",
+      "mapsQuery": "Celina of The Sea Ha Long Bay",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Celina%20of%20The%20Sea%20Ha%20Long%20Bay"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "bamboo-boat Bright & Dark Cave if weather flips",
+        "pool/mini-golf after"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "outdoor",
+        "boat"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "onboard schedule — join briefing",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "included per BestPrice & Hop On Celina lists — weather/schedule permitting"
+      },
+      "id": "ba-trai-dao-kayaking",
+      "name": "Ba Trai Dao kayaking (Day 1)",
+      "shortDescription": "Afternoon kayak among karsts at Ba Trai Dao — priority kid activity on Day 1 (weather alt: bamboo-boat cave).",
+      "whyKids": "Family guides often cite ~8+ for kayaking with life jacket + adult; waterproof pouch; Dec water is cool.",
+      "reviewSummary": "Operator-aligned schedules (BestPrice / Hop On) list ~14:30 kayaking as core Day-1 activity.",
+      "distanceFromHotel": "From ship tender/kayak launch",
+      "duration": "~1–1.5 hrs session (schedule-dependent)",
+      "effort": "boat",
+      "mapsQuery": "Ba Trai Dao Lan Ha Bay",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ba%20Trai%20Dao%20Lan%20Ha%20Bay"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "swaps with Ba Trai Dao kayaking"
+      ],
+      "tags": [
+        "kids",
+        "boat",
+        "outdoor"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "included when offered as schedule alt — confirm onboard"
+      },
+      "id": "bamboo-boat-cave",
+      "name": "Bright & Dark Cave bamboo boat (weather alt)",
+      "shortDescription": "Local bamboo boat through cave lagoons — calmer alternative when kayaking is cancelled.",
+      "whyKids": "Excellent for all three ages; locals row; life jackets; less physical than kayak.",
+      "reviewSummary": "Listed as weather alternative on Celina agent itineraries.",
+      "distanceFromHotel": "From ship",
+      "duration": "~45–90 min (schedule-dependent)",
+      "effort": "boat",
+      "mapsQuery": "Dark Cave Lan Ha Bay",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dark%20Cave%20Lan%20Ha%20Bay"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "light breakfast first",
+        "skip freely if kids need sleep before airport day"
+      ],
+      "tags": [
+        "kids",
+        "outdoor",
+        "boat"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "included per agent lists"
+      },
+      "id": "tra-bau-kayak-swim",
+      "name": "Tra Bau kayak or swim (Day 2 morning)",
+      "shortDescription": "Early Day-2 water time at Tra Bau before brunch and disembark — second priority activity.",
+      "whyKids": "Optional swim/kayak; Dec bay may be cool — pool may appeal more. Energy after travel day varies.",
+      "reviewSummary": "Hop On / BestPrice consensus ~07:30–08:45 Tra Bau slot.",
+      "distanceFromHotel": "From ship",
+      "duration": "~1 hr",
+      "effort": "boat",
+      "mapsQuery": "Tra Bau Lan Ha Bay",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tra%20Bau%20Lan%20Ha%20Bay"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "sunset party just before",
+        "dinner after"
+      ],
+      "tags": [
+        "must-consider",
+        "kids",
+        "hands-on",
+        "evening"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "included per agent inclusions"
+      },
+      "id": "cooking-class-spring-rolls",
+      "name": "Vietnamese cooking class (spring rolls)",
+      "shortDescription": "Hands-on spring-roll class ~18:30 — messy fun before dinner.",
+      "whyKids": "High engagement, no skill needed; 8–12 love rolling and eating their work.",
+      "reviewSummary": "Standard luxury-junk evening activity; optional but high ROI for kids.",
+      "distanceFromHotel": "Onboard",
+      "duration": "~45–60 min",
+      "effort": "easy",
+      "mapsQuery": "Celina of The Sea cruise Ha Long",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Celina%20of%20The%20Sea%20cruise%20Ha%20Long"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "cooking class",
+        "balcony photos"
+      ],
+      "tags": [
+        "evening",
+        "kids",
+        "easy"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "snacks/tea often included; alcohol usually extra — menu not published"
+      },
+      "id": "sunset-party-deck",
+      "name": "Sunset party on sundeck",
+      "shortDescription": "Fruits, pastries, tea on deck at golden hour — happy-hour drinks usually extra.",
+      "whyKids": "Pretty light, snacks, open air after kayaking; soft landing before cooking class.",
+      "reviewSummary": "Cited on BestPrice/Hop On schedules ~17:30–18:30.",
+      "distanceFromHotel": "Onboard sundeck",
+      "duration": "~45–60 min",
+      "effort": "easy",
+      "mapsQuery": "Lan Ha Bay sunset",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lan%20Ha%20Bay%20sunset"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "early bed if travel-tired"
+      ],
+      "tags": [
+        "kids",
+        "evening"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "included activity; settle any extras at checkout"
+      },
+      "id": "squid-fishing",
+      "name": "Evening squid fishing",
+      "shortDescription": "Night fishing from the ship — novelty activity after dinner.",
+      "whyKids": "Exciting for 8–12 if energy remains after a long transfer day; optional.",
+      "reviewSummary": "Listed ~21:00+ on agent itineraries; free time otherwise (spa/Sky Bar).",
+      "distanceFromHotel": "Onboard",
+      "duration": "~30–60 min",
+      "effort": "easy",
+      "mapsQuery": "Ha Long Bay night squid fishing",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ha%20Long%20Bay%20night%20squid%20fishing"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "balcony rest",
+        "spa for adults (extra)"
+      ],
+      "tags": [
+        "kids",
+        "easy",
+        "rainy-day"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "facility access included; spa treatments extra — prices unknown"
+      },
+      "id": "ship-pool-minigolf",
+      "name": "Ship pool, mini-golf & kids’ play",
+      "shortDescription": "Semi-indoor / four-season pool, mini-golf, gym, and kids’ play area — downtime between water activities.",
+      "whyKids": "Large ship (~62 cabins) has more facilities than boutique junks; good Dec when bay swim is cool.",
+      "reviewSummary": "Hop On inclusions list pool, mini-golf, kids’ play area.",
+      "distanceFromHotel": "Onboard",
+      "duration": "Flexible free time",
+      "effort": "easy",
+      "mapsQuery": "Celina of The Sea Ha Long",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Celina%20of%20The%20Sea%20Ha%20Long"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "welcome drink + daily bottled water commonly included"
+      ],
+      "tags": [
+        "must-consider",
+        "food",
+        "kids"
+      ],
+      "booking": {
+        "needed": true,
+        "how": "confirm meals for all 5 via Celina WA/email before Dec",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "included in fare per agents — CONFIRM all 5 covered; soft drinks/beer extra (est. $2–10 — not Celina menu)"
+      },
+      "id": "onboard-meals",
+      "name": "Included meals (lunch · dinner · breakfast · brunch)",
+      "shortDescription": "Four meals marketed: Day-1 lunch, dinner, Day-2 light breakfast + brunch while returning.",
+      "whyKids": "No restaurant logistics; confirm in writing that all 5 (incl. 8yo extra bed + 12yo) get full inclusions.",
+      "reviewSummary": "BestPrice/Hop On list 4 meals; beverages mostly extra. WA meal confirmation was unanswered as of research.",
+      "distanceFromHotel": "4th-floor restaurant cited",
+      "duration": "Meal times per schedule",
+      "effort": "easy",
+      "mapsQuery": "Celina of The Sea restaurant Ha Long",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Celina%20of%20The%20Sea%20restaurant%20Ha%20Long"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "sunrise photos"
+      ],
+      "tags": [
+        "easy",
+        "outdoor"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "included / free to skip"
+      },
+      "id": "tai-chi-sunrise",
+      "name": "Optional Tai Chi on sundeck",
+      "shortDescription": "~06:00 Tai Chi — skip freely with kids; one adult + keen kids for sunrise photos is enough.",
+      "whyKids": "Optional; fine if someone wants photos — not a must for 8–12.",
+      "reviewSummary": "Standard luxury-cruise morning option.",
+      "distanceFromHotel": "Onboard sundeck",
+      "duration": "~20–30 min",
+      "effort": "easy",
+      "mapsQuery": "Lan Ha Bay sunrise",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lan%20Ha%20Bay%20sunrise"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "marina café lunch",
+        "go straight to lounge if arriving ~11:00+"
+      ],
+      "tags": [
+        "kids",
+        "easy",
+        "outdoor"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "free entry commonly cited"
+      },
+      "id": "tuan-chau-beach",
+      "name": "Tuan Chau Beach (embark filler only)",
+      "shortDescription": "Artificial white-sand beach near the marina — only if you arrive early on 19 Dec.",
+      "whyKids": "Easy stretch/photo after 3–4 hr car; max 30–90 min — never risk missing the tender.",
+      "reviewSummary": "localvietnam: don’t arrive excessively early; beach stroll + lunch = best filler.",
+      "distanceFromHotel": "Near Lot 41A marina before boarding",
+      "duration": "30–90 min max if early",
+      "effort": "walk",
+      "mapsQuery": "Tuan Chau Beach Ha Long",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tuan%20Chau%20Beach%20Ha%20Long"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "bring card + USD/VND cash for extra bed"
+      ],
+      "tags": [
+        "must-consider",
+        "easy"
+      ],
+      "booking": {
+        "needed": true,
+        "how": "arrive lounge 11:15–11:45; confirm pin with Celina WA",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 4160000,
+        "usd": 160,
+        "note": "extra bed US$160 on arrival for 8yo (Celina WA confirmed)"
+      },
+      "id": "tuan-chau-marina-lounge",
+      "name": "Lot 41A check-in lounge",
+      "shortDescription": "Celina embark lounge — pay $160 extra bed when asked; tender 12:00–12:30.",
+      "whyKids": "Safe default if tired from car; late arrivals = guest-paid extra tender fee.",
+      "reviewSummary": "Agoda + agent pages align on Lot 41A timings matching your hold.",
+      "distanceFromHotel": "Embark point",
+      "duration": "11:15–12:30 window",
+      "effort": "easy",
+      "mapsQuery": "Lot 41A Tuan Chau International Marina",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lot%2041A%20Tuan%20Chau%20International%20Marina"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "Skip unless you have 3+ hours before lounge — risk late tender fee.",
+      "images": [],
+      "combos": [],
+      "tags": [
+        "kids"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "on-site / walk-in",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": 2000000,
+        "usd": 77,
+        "note": "estimate ~350–400k VND/adult × party — VERIFY; usually skip"
+      },
+      "id": "tuan-chau-park",
+      "name": "Tuan Chau Park / shows (usually skip)",
+      "shortDescription": "Amusement park, dolphin–seal shows, rides — dated off-season filler that risks missing boarding.",
+      "whyKids": "Mixed; only if 3+ hours spare and show times align — Dec may be quiet/closed midday.",
+      "reviewSummary": "localvietnam / Bhaya shore notes; family research verdict: skip for embark morning.",
+      "distanceFromHotel": "Tuan Chau Island shore",
+      "duration": "Half day — conflicts with safe boarding",
+      "effort": "grab",
+      "mapsQuery": "Tuan Chau Park Ha Long",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tuan%20Chau%20Park%20Ha%20Long"
+    },
+    {
+      "imageUrl": "",
+      "imageCredit": "",
+      "closedNotes": "",
+      "images": [],
+      "combos": [
+        "kids supervised at play/pool"
+      ],
+      "tags": [
+        "easy",
+        "evening"
+      ],
+      "booking": {
+        "needed": false,
+        "how": "ask reception after boarding",
+        "url": null
+      },
+      "priceFamilyEst": {
+        "vnd": null,
+        "usd": null,
+        "note": "Celina spa rate card unknown — verify onboard; industry estimate only"
+      },
+      "id": "spa-onboard",
+      "name": "Onboard spa (à la carte)",
+      "shortDescription": "Massage/spa treatments — evening only on a 1-nighter; book onboard if wanted.",
+      "whyKids": "Adult reset while kids do mini-golf/play; don’t pre-pay a long spa package.",
+      "reviewSummary": "Extra on all agent lists; Celina prices unknown — luxury junk comps ~$30–85+ estimate.",
+      "distanceFromHotel": "Onboard",
+      "duration": "60–90 min treatment",
+      "effort": "easy",
+      "mapsQuery": "Celina of The Sea spa",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Celina%20of%20The%20Sea%20spa"
+    }
+  ]
+}

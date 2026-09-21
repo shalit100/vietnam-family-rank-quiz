@@ -1,0 +1,80 @@
+[
+  {
+    "id": "hanoi",
+    "name": "Hanoi",
+    "shortName": "Hanoi",
+    "dates": "14–16 Dec 2026",
+    "hotelName": "La Siesta Classic Hang Thung",
+    "region": "north",
+    "status": "live",
+    "lat": 21.0285,
+    "lng": 105.8542,
+    "mapX": 48,
+    "mapY": 12
+  },
+  {
+    "id": "ninh-binh",
+    "name": "Ninh Binh / Tam Coc",
+    "shortName": "Ninh Binh",
+    "dates": "16–19 Dec 2026",
+    "hotelName": "Hotel La Vue Tam Coc",
+    "region": "north",
+    "status": "live",
+    "lat": 20.2068,
+    "lng": 105.931,
+    "mapX": 48,
+    "mapY": 22
+  },
+  {
+    "id": "ha-long",
+    "name": "Ha Long (Celina cruise)",
+    "shortName": "Ha Long",
+    "dates": "19–20 Dec 2026",
+    "hotelName": "Celina of The Sea",
+    "region": "cruise",
+    "status": "live",
+    "lat": 20.919,
+    "lng": 106.987,
+    "mapX": 62,
+    "mapY": 14
+  },
+  {
+    "id": "hoi-an",
+    "name": "Hoi An",
+    "shortName": "Hoi An",
+    "dates": "20–25 Dec 2026",
+    "hotelName": "Bel Marina Hoi An Resort",
+    "region": "central",
+    "status": "live",
+    "lat": 15.8801,
+    "lng": 108.338,
+    "mapX": 60,
+    "mapY": 52
+  },
+  {
+    "id": "da-nang",
+    "name": "Da Nang",
+    "shortName": "Da Nang",
+    "dates": "25–27 Dec 2026",
+    "hotelName": "Novotel Danang Premier Han River",
+    "region": "central",
+    "status": "live",
+    "lat": 16.0544,
+    "lng": 108.2022,
+    "mapX": 58,
+    "mapY": 48
+  },
+  {
+    "id": "phu-quoc",
+    "name": "Phu Quoc",
+    "shortName": "Phu Quoc",
+    "dates": "27 Dec 2026 – 1 Jan 2027",
+    "hotelName": "New World Phu Quoc Resort",
+    "region": "island",
+    "status": "live",
+    "lat": 10.156,
+    "lng": 104.009,
+    "mapX": 28,
+    "mapY": 88
+  }
+]
