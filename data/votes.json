@@ -271,8 +271,12 @@
       "ninh-binh::trang-an-boat": {
         "rank": "pass",
         "at": "2026-09-21T09:28:44.397Z"
+      },
+      "ninh-binh::tam-coc-boat": {
+        "rank": "must",
+        "at": "2026-09-21T09:29:31.850Z"
       }
     }
   },
-  "updatedAt": "2026-09-21T09:29:06.335Z"
+  "updatedAt": "2026-09-21T09:29:31.850Z"
 }
