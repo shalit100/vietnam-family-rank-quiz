@@ -341,6 +341,10 @@
       "phu-quoc::duong-dong-night-market": {
         "rank": "must",
         "at": "2026-09-21T09:40:48.911Z"
+      },
+      "phu-quoc::grand-world-evening": {
+        "rank": "possible",
+        "at": "2026-09-21T09:40:59.770Z"
       }
     },
     "keren": {
@@ -514,5 +518,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:40:48.911Z"
+  "updatedAt": "2026-09-21T09:40:59.770Z"
 }
