@@ -163,8 +163,12 @@
       "hanoi::vinke-vinpearl-aquarium": {
         "rank": "pass",
         "at": "2026-09-21T09:21:29.618Z"
+      },
+      "hanoi::street-food-tasting": {
+        "rank": "must",
+        "at": "2026-09-21T09:21:42.679Z"
       }
     }
   },
-  "updatedAt": "2026-09-21T09:21:29.618Z"
+  "updatedAt": "2026-09-21T09:21:42.679Z"
 }
