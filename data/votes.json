@@ -207,8 +207,12 @@
       "hanoi::ella-hanoi-food-tour": {
         "rank": "must",
         "at": "2026-09-21T09:23:58.089Z"
+      },
+      "hanoi::hanoi-craft-village-halfday": {
+        "rank": "pass",
+        "at": "2026-09-21T09:24:06.552Z"
       }
     }
   },
-  "updatedAt": "2026-09-21T09:23:58.090Z"
+  "updatedAt": "2026-09-21T09:24:06.552Z"
 }
