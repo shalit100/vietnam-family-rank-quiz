@@ -293,6 +293,10 @@
       "da-nang::da-nang-cathedral": {
         "rank": "pass",
         "at": "2026-09-21T09:39:20.468Z"
+      },
+      "da-nang::han-river-night-cruise": {
+        "rank": "pass",
+        "at": "2026-09-21T09:39:24.056Z"
       }
     },
     "keren": {
@@ -466,5 +470,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:39:20.468Z"
+  "updatedAt": "2026-09-21T09:39:24.056Z"
 }
