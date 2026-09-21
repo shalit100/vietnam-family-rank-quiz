@@ -33,9 +33,13 @@
       "hanoi::vietnamese-womens-museum": {
         "rank": "pass",
         "at": "2026-09-21T09:11:50.802Z"
+      },
+      "hanoi::military-history-museum": {
+        "rank": "pass",
+        "at": "2026-09-21T09:11:54.734Z"
       }
     },
     "keren": {}
   },
-  "updatedAt": "2026-09-21T09:11:50.802Z"
+  "updatedAt": "2026-09-21T09:11:54.734Z"
 }
