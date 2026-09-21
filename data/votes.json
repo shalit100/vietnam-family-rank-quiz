@@ -127,8 +127,12 @@
       "hanoi::temple-of-literature": {
         "rank": "pass",
         "at": "2026-09-21T09:18:34.710Z"
+      },
+      "hanoi::ho-chi-minh-mausoleum-complex": {
+        "rank": "pass",
+        "at": "2026-09-21T09:18:42.333Z"
       }
     }
   },
-  "updatedAt": "2026-09-21T09:18:34.711Z"
+  "updatedAt": "2026-09-21T09:18:42.333Z"
 }
