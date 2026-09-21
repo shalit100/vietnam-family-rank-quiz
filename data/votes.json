@@ -245,6 +245,10 @@
       "da-nang::dragon-bridge-fire-show": {
         "rank": "must",
         "at": "2026-09-21T09:37:17.039Z"
+      },
+      "da-nang::mikazuki-water-park": {
+        "rank": "possible",
+        "at": "2026-09-21T09:37:27.520Z"
       }
     },
     "keren": {
@@ -418,5 +422,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:37:17.039Z"
+  "updatedAt": "2026-09-21T09:37:27.520Z"
 }
