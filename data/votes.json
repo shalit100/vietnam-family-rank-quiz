@@ -181,6 +181,10 @@
       "hoi-an::floating-lantern-sampan": {
         "rank": "must",
         "at": "2026-09-21T09:34:07.804Z"
+      },
+      "hoi-an::cam-thanh-basket-boat": {
+        "rank": "possible",
+        "at": "2026-09-21T09:34:12.210Z"
       }
     },
     "keren": {
@@ -350,5 +354,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:34:07.804Z"
+  "updatedAt": "2026-09-21T09:34:12.210Z"
 }
