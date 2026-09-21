@@ -189,6 +189,10 @@
       "hoi-an::family-cooking-class": {
         "rank": "possible",
         "at": "2026-09-21T09:34:21.391Z"
+      },
+      "hoi-an::lantern-making-workshop": {
+        "rank": "possible",
+        "at": "2026-09-21T09:34:24.903Z"
       }
     },
     "keren": {
@@ -358,5 +362,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:34:21.391Z"
+  "updatedAt": "2026-09-21T09:34:24.903Z"
 }
