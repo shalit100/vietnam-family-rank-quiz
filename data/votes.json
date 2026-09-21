@@ -109,6 +109,10 @@
       "ninh-binh::trang-an-boat": {
         "rank": "must",
         "at": "2026-09-21T09:26:40.270Z"
+      },
+      "ninh-binh::hang-mua-viewpoint": {
+        "rank": "must",
+        "at": "2026-09-21T09:26:53.063Z"
       }
     },
     "keren": {
@@ -218,5 +222,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:26:40.270Z"
+  "updatedAt": "2026-09-21T09:26:53.063Z"
 }
