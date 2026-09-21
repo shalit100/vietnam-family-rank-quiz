@@ -295,8 +295,12 @@
       "ninh-binh::bich-dong-pagoda": {
         "rank": "possible",
         "at": "2026-09-21T09:30:00.736Z"
+      },
+      "ninh-binh::thung-nham-bird-park": {
+        "rank": "pass",
+        "at": "2026-09-21T09:30:12.768Z"
       }
     }
   },
-  "updatedAt": "2026-09-21T09:30:00.736Z"
+  "updatedAt": "2026-09-21T09:30:12.768Z"
 }
