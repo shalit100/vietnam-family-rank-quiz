@@ -325,6 +325,10 @@
       "phu-quoc::vinwonders-phu-quoc": {
         "rank": "must",
         "at": "2026-09-21T09:40:12.167Z"
+      },
+      "phu-quoc::vinpearl-safari": {
+        "rank": "possible",
+        "at": "2026-09-21T09:40:32.138Z"
       }
     },
     "keren": {
@@ -498,5 +502,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:40:12.167Z"
+  "updatedAt": "2026-09-21T09:40:32.138Z"
 }
