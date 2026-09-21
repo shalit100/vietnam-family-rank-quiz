@@ -191,8 +191,12 @@
       "hanoi::hotel-pool": {
         "rank": "pass",
         "at": "2026-09-21T09:22:56.278Z"
+      },
+      "hanoi::hoan-kiem-evening-stroll": {
+        "rank": "possible",
+        "at": "2026-09-21T09:23:09.778Z"
       }
     }
   },
-  "updatedAt": "2026-09-21T09:22:56.278Z"
+  "updatedAt": "2026-09-21T09:23:09.778Z"
 }
