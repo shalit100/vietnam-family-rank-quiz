@@ -15,13 +15,17 @@
   "tip": "South-first plan from Khem: Hon Thom + Bai Sao + Sunset Town easy; VinWonders/Safari = one long north day (~55–75+ min each way). NYE → Sunset Town fireworks or quiet villa. Soft landing Day 1 — no tickets.",
   "attractions": [
     {
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hon_Thom_cable_car.jpg/1280px-Hon_Thom_cable_car.jpg",
-      "imageCredit": "Wikimedia Commons",
+      "imageUrl": "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hon_Thom_cable_car.jpg/1280px-Hon_Thom_cable_car.jpg",
-          "credit": "Wikimedia Commons"
+          "url": "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1280&q=80",
+          "credit": "Unsplash"
         }
       ],
       "combos": [
@@ -56,10 +60,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hon%20Thom%20Cable%20Car%20Sunset%20Town%20Phu%20Quoc"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "Aqua World + villa pool same property",
         "Bai Sao as different beach morning"
@@ -92,13 +105,17 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bai%20Khem%20Beach%20Phu%20Quoc"
     },
     {
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sao_Beach_Phu_Quoc.jpg/1280px-Sao_Beach_Phu_Quoc.jpg",
-      "imageCredit": "Wikimedia Commons",
+      "imageUrl": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sao_Beach_Phu_Quoc.jpg/1280px-Sao_Beach_Phu_Quoc.jpg",
-          "credit": "Wikimedia Commons"
+          "url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1280&q=80",
+          "credit": "Unsplash"
         }
       ],
       "combos": [
@@ -133,10 +150,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bai%20Sao%20Beach%20Phu%20Quoc"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "Hon Thom day ends nearby",
         "NYE Spectacle Countdown",
@@ -170,10 +196,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sunset%20Town%20Phu%20Quoc"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1467810563316-b5476525c0f9?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "Official 2026→2027 program TBD as of research — treat prior year as pattern only.",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1467810563316-b5476525c0f9?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "hotel gala alternative",
         "quiet villa NYE valid after long Vietnam trip"
@@ -205,10 +240,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sunset%20Town%20Phu%20Quoc%20NYE%20fireworks"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "2-day VW+Safari combo better than crushing both same day from south",
         "optional Grand World if not wrecked"
@@ -240,10 +284,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=VinWonders%20Phu%20Quoc"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1564349683136-77e08bbdbb4b?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1564349683136-77e08bbdbb4b?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "prefer 2-day VW+Safari combo from south",
         "Grand World evening if energy"
@@ -276,10 +329,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vinpearl%20Safari%20Phu%20Quoc"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "swap with Hon Thom if sea forecast better one day",
         "soft beach day after"
@@ -312,10 +374,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=An%20Thoi%20islands%20snorkeling%20Phu%20Quoc"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "Khem Beach walk-out",
         "villa movie night NYE quiet option"
@@ -348,10 +419,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20World%20Phu%20Quoc%20Aqua%20World"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1555921015-5532091f6026?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1555921015-5532091f6026?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "Ham Ninh floating restaurants as quieter east-coast alt"
       ],
@@ -382,10 +462,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Duong%20Dong%20Night%20Market%20Phu%20Quoc"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "VinWonders/Safari same north trip",
         "NYE Grand World countdown = long night from south — prefer Sunset Town"
@@ -416,10 +505,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20World%20Phu%20Quoc"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "Sunset Town evening",
         "Hon Thom ticket day"
@@ -451,10 +549,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kiss%20Bridge%20Sunset%20Town%20Phu%20Quoc"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "resort café drinks"
       ],
@@ -485,10 +592,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ong%20Lang%20Beach%20Phu%20Quoc"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1467810563316-b5476525c0f9?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1467810563316-b5476525c0f9?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "Sunset Town fireworks if energy",
         "skip crowds entirely"
@@ -521,10 +637,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20World%20Phu%20Quoc%20Resort"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1500595046743-cd271d973d8b?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "Duong Dong run",
         "Coi Nguon Museum rainy"
@@ -556,10 +681,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Phu%20Quoc%20pepper%20farm"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1455577380025-4321f1e1dca7?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "soft day filler only"
       ],
@@ -590,10 +724,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Suoi%20Tranh%20Waterfall%20Phu%20Quoc"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1544620341-3e278a057a2c?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "message flight # 24h ahead"
       ],

@@ -15,13 +15,17 @@
   "tip": "Dec = Central rainy season — beach/sea often rough; Cham Islands closed. Book cooking + Christmas Eve dinner early. ~4 full days (21–24) after evening arrival.",
   "attractions": [
     {
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hoi_An_Ancient_Town.jpg/1280px-Hoi_An_Ancient_Town.jpg",
-      "imageCredit": "Wikimedia Commons",
+      "imageUrl": "https://images.unsplash.com/photo-1583416750470-965b2707b355?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hoi_An_Ancient_Town.jpg/1280px-Hoi_An_Ancient_Town.jpg",
-          "credit": "Wikimedia Commons"
+          "url": "https://images.unsplash.com/photo-1583416750470-965b2707b355?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1557750255-c76072a7aad1?w=1280&q=80",
+          "credit": "Unsplash"
         }
       ],
       "combos": [
@@ -57,13 +61,17 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoi%20An%20Ancient%20Town"
     },
     {
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Japanese_Covered_Bridge_Hoi_An.jpg/1280px-Japanese_Covered_Bridge_Hoi_An.jpg",
-      "imageCredit": "Wikimedia Commons",
+      "imageUrl": "https://images.unsplash.com/photo-1557750255-c76072a7aad1?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Japanese_Covered_Bridge_Hoi_An.jpg/1280px-Japanese_Covered_Bridge_Hoi_An.jpg",
-          "credit": "Wikimedia Commons"
+          "url": "https://images.unsplash.com/photo-1557750255-c76072a7aad1?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1583416750470-965b2707b355?w=1280&q=80",
+          "credit": "Unsplash"
         }
       ],
       "combos": [
@@ -97,10 +105,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Japanese%20Covered%20Bridge%2C%20Hoi%20An"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1583416750470-965b2707b355?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1583416750470-965b2707b355?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1528127269322-539801943592?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "same evening as lantern streets"
       ],
@@ -132,10 +149,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoi%20An%20lantern%20boat%20Bach%20Dang"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1528127269322-539801943592?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "cooking-class combo on Klook/GYG/Viator",
         "morning slot best"
@@ -168,10 +194,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cam%20Thanh%20coconut%20forest%20basket%20boat%2C%20Hoi%20An"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1596797038530-2c107229654b?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "basket-boat combo packages",
         "Tra Que herb village variants"
@@ -205,10 +240,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoi%20An%20cooking%20class"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1583416750470-965b2707b355?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "same day as heritage ticket",
         "evening lantern streets after"
@@ -242,13 +286,17 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoi%20An%20lantern%20making%20workshop"
     },
     {
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/My_Son_Sanctuary.jpg/1280px-My_Son_Sanctuary.jpg",
-      "imageCredit": "Wikimedia Commons",
+      "imageUrl": "https://images.unsplash.com/photo-1557750255-c76072a7aad1?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/My_Son_Sanctuary.jpg/1280px-My_Son_Sanctuary.jpg",
-          "credit": "Wikimedia Commons"
+          "url": "https://images.unsplash.com/photo-1557750255-c76072a7aad1?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1583416750470-965b2707b355?w=1280&q=80",
+          "credit": "Unsplash"
         }
       ],
       "combos": [
@@ -281,10 +329,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=My%20Son%20Sanctuary%2C%20Quang%20Nam"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "beach restaurant lunch",
         "shuttle seats fill — ask desk"
@@ -316,10 +373,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=An%20Bang%20Beach%2C%20Hoi%20An"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "hotel bikes",
         "Christmas Day soft morning"
@@ -352,10 +418,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bel%20Marina%20Hoi%20An%20Resort"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1528127269322-539801943592?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "Tra Que Vegetable Village",
         "rent kids’ bikes if needed ~30–50k/day cited"
@@ -387,10 +462,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoi%20An%20rice%20paddies%20bike"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "pick 1–2 workshops max this stay"
       ],
@@ -422,10 +506,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Thanh%20Ha%20Pottery%20Village%2C%20Hoi%20An"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1558171813-4c088a060511?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1558171813-4c088a060511?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1590736969955-71cc94901144?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "rainy-day shopping",
         "pickup Thu 24 light day"
@@ -458,10 +551,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoi%20An%20tailor%20Yaly"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1503095396549-807759245b35?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1503095396549-807759245b35?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "one evening show enough — Memories OR Teh Dar"
       ],
@@ -492,10 +594,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Teh%20Dar%20Lune%20Center%20Hoi%20An"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "Closed Tuesdays — Tue 22 Dec 2026 closed.",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1503095396549-807759245b35?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "theme park from ~16:00 with some tickets"
       ],
@@ -525,10 +636,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoi%20An%20Memories%20Show"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "after-2pm cheaper tickets if half-day"
       ],
@@ -559,10 +679,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=VinWonders%20Nam%20Hoi%20An"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1555921015-5532091f6026?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1555921015-5532091f6026?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1583416750470-965b2707b355?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "evening lantern loop",
         "Reaching Out teahouse quiet reset"
@@ -594,10 +723,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoi%20An%20Night%20Market"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "light daytime 24 Dec",
         "cathedral mass optional crowded"

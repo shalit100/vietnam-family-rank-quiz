@@ -15,10 +15,23 @@
   "tip": "1-night cruise IS the attraction — do not book a separate Ha Long day tour. Lounge 11:15–11:45 · tender ~12:00–12:30. Confirm meals for all 5 + $160 extra bed for 8yo.",
   "attractions": [
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ha_Long_Bay_-_Halong1414.jpg/1280px-Ha_Long_Bay_-_Halong1414.jpg",
+      "imageCredit": "Wikimedia Commons",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ha_Long_Bay_-_Halong1414.jpg/1280px-Ha_Long_Bay_-_Halong1414.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Ha_Long_Bay_-_Halong1431.jpg/1280px-Ha_Long_Bay_-_Halong1431.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1528127269322-539801943592?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "all onboard activities below are part of this stay"
       ],
@@ -49,10 +62,23 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Celina%20of%20The%20Sea%20Ha%20Long%20Bay"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Kayaking_in_Ha_Long_Bay.jpg/1280px-Kayaking_in_Ha_Long_Bay.jpg",
+      "imageCredit": "Wikimedia Commons",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Kayaking_in_Ha_Long_Bay.jpg/1280px-Kayaking_in_Ha_Long_Bay.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Kayaking_in_Ha_Long_Bay_1.jpg/1280px-Kayaking_in_Ha_Long_Bay_1.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Kayaking_in_Ha_Long_Bay_2.jpg/1280px-Kayaking_in_Ha_Long_Bay_2.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
       "combos": [
         "bamboo-boat Bright & Dark Cave if weather flips",
         "pool/mini-golf after"
@@ -85,10 +111,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ba%20Trai%20Dao%20Lan%20Ha%20Bay"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/A_view_of_Ha_Long_Bay_from_the_high_point_of_Sun_Sot_cave_%283152023532%29.jpg/1280px-A_view_of_Ha_Long_Bay_from_the_high_point_of_Sun_Sot_cave_%283152023532%29.jpg",
+      "imageCredit": "Wikimedia Commons",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/A_view_of_Ha_Long_Bay_from_the_high_point_of_Sun_Sot_cave_%283152023532%29.jpg/1280px-A_view_of_Ha_Long_Bay_from_the_high_point_of_Sun_Sot_cave_%283152023532%29.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ha_Long_Bay_-_Halong1414.jpg/1280px-Ha_Long_Bay_-_Halong1414.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
       "combos": [
         "swaps with Ba Trai Dao kayaking"
       ],
@@ -119,10 +154,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dark%20Cave%20Lan%20Ha%20Bay"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Kayaking_in_Ha_Long_Bay.jpg/1280px-Kayaking_in_Ha_Long_Bay.jpg",
+      "imageCredit": "Wikimedia Commons",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Kayaking_in_Ha_Long_Bay.jpg/1280px-Kayaking_in_Ha_Long_Bay.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "light breakfast first",
         "skip freely if kids need sleep before airport day"
@@ -154,10 +198,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tra%20Bau%20Lan%20Ha%20Bay"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1596797038530-2c107229654b?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "sunset party just before",
         "dinner after"
@@ -190,10 +243,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Celina%20of%20The%20Sea%20cruise%20Ha%20Long"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "cooking class",
         "balcony photos"
@@ -225,10 +287,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lan%20Ha%20Bay%20sunset"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "early bed if travel-tired"
       ],
@@ -258,10 +329,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ha%20Long%20Bay%20night%20squid%20fishing"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "balcony rest",
         "spa for adults (extra)"
@@ -293,10 +373,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Celina%20of%20The%20Sea%20Ha%20Long"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/B%E1%BB%AFa_%C4%83n_h%E1%BA%A3i_s%E1%BA%A3n_%28t%C3%B4m%2C_c%C3%A1%2C_ngh%C3%AAu%2C_m%E1%BB%B1c%29_gia_%C4%91%C3%ACnh_%E1%BB%9F_P3_%C4%90%C3%B4ng_H%C3%A0_n%C4%83m_2021.jpg/1280px-B%E1%BB%AFa_%C4%83n_h%E1%BA%A3i_s%E1%BA%A3n_%28t%C3%B4m%2C_c%C3%A1%2C_ngh%C3%AAu%2C_m%E1%BB%B1c%29_gia_%C4%91%C3%ACnh_%E1%BB%9F_P3_%C4%90%C3%B4ng_H%C3%A0_n%C4%83m_2021.jpg",
+      "imageCredit": "Wikimedia Commons",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/B%E1%BB%AFa_%C4%83n_h%E1%BA%A3i_s%E1%BA%A3n_%28t%C3%B4m%2C_c%C3%A1%2C_ngh%C3%AAu%2C_m%E1%BB%B1c%29_gia_%C4%91%C3%ACnh_%E1%BB%9F_P3_%C4%90%C3%B4ng_H%C3%A0_n%C4%83m_2021.jpg/1280px-B%E1%BB%AFa_%C4%83n_h%E1%BA%A3i_s%E1%BA%A3n_%28t%C3%B4m%2C_c%C3%A1%2C_ngh%C3%AAu%2C_m%E1%BB%B1c%29_gia_%C4%91%C3%ACnh_%E1%BB%9F_P3_%C4%90%C3%B4ng_H%C3%A0_n%C4%83m_2021.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "welcome drink + daily bottled water commonly included"
       ],
@@ -327,10 +416,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Celina%20of%20The%20Sea%20restaurant%20Ha%20Long"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "sunrise photos"
       ],
@@ -360,10 +458,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lan%20Ha%20Bay%20sunrise"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "marina café lunch",
         "go straight to lounge if arriving ~11:00+"
@@ -395,10 +502,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tuan%20Chau%20Beach%20Ha%20Long"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "bring card + USD/VND cash for extra bed"
       ],
@@ -428,10 +544,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lot%2041A%20Tuan%20Chau%20International%20Marina"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "Skip unless you have 3+ hours before lounge — risk late tender fee.",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [],
       "tags": [
         "kids"
@@ -458,10 +583,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tuan%20Chau%20Park%20Ha%20Long"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "kids supervised at play/pool"
       ],

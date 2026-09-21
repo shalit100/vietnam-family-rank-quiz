@@ -15,12 +15,16 @@
   "tip": "Sat 19 = morning departure to Tuan Chau — no ambitious sightseeing. Prefer Trang An as the one must-boat; Hang Mua early/late; Dec rice fields are often bare.",
   "attractions": [
     {
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Trang_An%2C_Ninh_Binh%2C_Vietnam.jpg/1280px-Trang_An%2C_Ninh_Binh%2C_Vietnam.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Ninh_Binh_cave_river_boating.jpg/1280px-Ninh_Binh_cave_river_boating.jpg",
       "imageCredit": "Wikimedia Commons",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Trang_An%2C_Ninh_Binh%2C_Vietnam.jpg/1280px-Trang_An%2C_Ninh_Binh%2C_Vietnam.jpg",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Ninh_Binh_cave_river_boating.jpg/1280px-Ninh_Binh_cave_river_boating.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/TamCoc.jpg/1280px-TamCoc.jpg",
           "credit": "Wikimedia Commons"
         }
       ],
@@ -57,13 +61,17 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trang%20An%20Scenic%20Landscape%20Complex%2C%20Ninh%20Binh"
     },
     {
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hang_Mua%2C_Ninh_Binh.jpg/1280px-Hang_Mua%2C_Ninh_Binh.jpg",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Tam_C%E1%BB%91c-B%C3%ADch_%C4%90%E1%BB%99ng_in_Ninh_Binh_province.jpg/1280px-Tam_C%E1%BB%91c-B%C3%ADch_%C4%90%E1%BB%99ng_in_Ninh_Binh_province.jpg",
       "imageCredit": "Wikimedia Commons",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hang_Mua%2C_Ninh_Binh.jpg/1280px-Hang_Mua%2C_Ninh_Binh.jpg",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Tam_C%E1%BB%91c-B%C3%ADch_%C4%90%E1%BB%99ng_in_Ninh_Binh_province.jpg/1280px-Tam_C%E1%BB%91c-B%C3%ADch_%C4%90%E1%BB%99ng_in_Ninh_Binh_province.jpg",
           "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1528127269322-539801943592?w=1280&q=80",
+          "credit": "Unsplash"
         }
       ],
       "combos": [
@@ -98,10 +106,23 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hang%20Mua%20Cave%2C%20Ninh%20Binh"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Tam_Coc_%2885925447%29.jpeg/1280px-Tam_Coc_%2885925447%29.jpeg",
+      "imageCredit": "Wikimedia Commons",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Tam_Coc_%2885925447%29.jpeg/1280px-Tam_Coc_%2885925447%29.jpeg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Ninh_Binh_cave_river_boating.jpg/1280px-Ninh_Binh_cave_river_boating.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/TamCoc.jpg/1280px-TamCoc.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
       "combos": [
         "optional electric-car combo to Thái Vi / Tiên Cave — DIY guides often skip",
         "bike Bích Động separately"
@@ -133,10 +154,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tam%20Coc%20boat%20pier%2C%20Ninh%20Binh"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/TamCoc.jpg/1280px-TamCoc.jpg",
+      "imageCredit": "Wikimedia Commons",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/TamCoc.jpg/1280px-TamCoc.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "Bích Động Pagoda add-on",
         "buffalo photo stop (agree tip first)"
@@ -169,10 +199,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tam%20Coc%20rice%20fields%2C%20Ninh%20Binh"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Bich_Dong_Pagoda%2C_Ninh_Binh%2C_Vietnam%2C_20240203_1130_5630.jpg/1280px-Bich_Dong_Pagoda%2C_Ninh_Binh%2C_Vietnam%2C_20240203_1130_5630.jpg",
+      "imageCredit": "Wikimedia Commons",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Bich_Dong_Pagoda%2C_Ninh_Binh%2C_Vietnam%2C_20240203_1130_5630.jpg/1280px-Bich_Dong_Pagoda%2C_Ninh_Binh%2C_Vietnam%2C_20240203_1130_5630.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Bich_Dong_Pagoda%2C_Ninh_Binh%2C_Vietnam%2C_20240203_1132_5634.jpg/1280px-Bich_Dong_Pagoda%2C_Ninh_Binh%2C_Vietnam%2C_20240203_1132_5634.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
       "combos": [
         "same outing as rice-field bike loop"
       ],
@@ -203,10 +242,23 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bich%20Dong%20Pagoda%2C%20Ninh%20Binh"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Thung_Nham_14.JPG/1280px-Thung_Nham_14.JPG",
+      "imageCredit": "Wikimedia Commons",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Thung_Nham_14.JPG/1280px-Thung_Nham_14.JPG",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Thung_Nham_18.JPG/1280px-Thung_Nham_18.JPG",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Thung_Nham_23.JPG/1280px-Thung_Nham_23.JPG",
+          "credit": "Wikimedia Commons"
+        }
+      ],
       "combos": [
         "optional pool add-on if warm enough",
         "swap vs Bear Sanctuary wildlife day"
@@ -238,10 +290,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Thung%20Nham%20Bird%20Park%2C%20Ninh%20Binh"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1564349683136-77e08bbdbb4b?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "Often cited closed Tuesdays — confirm for Dec 17/18.",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1564349683136-77e08bbdbb4b?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1589656966895-2f33e7653819?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "optional Cuc Phuong / EPRC combo",
         "swap vs Thung Nham if closer preferred"
@@ -273,10 +334,23 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bear%20Sanctuary%20Ninh%20Binh"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ancient_capital_of_Hoa_Lu%2C_10th_century_%281%29_%2838445751276%29.jpg/1280px-Ancient_capital_of_Hoa_Lu%2C_10th_century_%281%29_%2838445751276%29.jpg",
+      "imageCredit": "Wikimedia Commons",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Ancient_capital_of_Hoa_Lu%2C_10th_century_%281%29_%2838445751276%29.jpg/1280px-Ancient_capital_of_Hoa_Lu%2C_10th_century_%281%29_%2838445751276%29.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Ancient_capital_of_Hoa_Lu%2C_10th_century_%282%29_%2838469352492%29.jpg/1280px-Ancient_capital_of_Hoa_Lu%2C_10th_century_%282%29_%2838469352492%29.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Codohoalu2010k1.jpg/1280px-Codohoalu2010k1.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
       "combos": [
         "same morning as Trang An boat"
       ],
@@ -306,10 +380,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoa%20Lu%20Ancient%20Capital%2C%20Ninh%20Binh"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1583416750470-965b2707b355?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1583416750470-965b2707b355?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1557750255-c76072a7aad1?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "geographically near Trang An",
         "optional Bai Dinh by night"
@@ -341,10 +424,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bai%20Dinh%20Pagoda%2C%20Ninh%20Binh"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Ninh_Binh_cave_river_boating.jpg/1280px-Ninh_Binh_cave_river_boating.jpg",
+      "imageCredit": "Wikimedia Commons",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Ninh_Binh_cave_river_boating.jpg/1280px-Ninh_Binh_cave_river_boating.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "afternoon after Trang An",
         "bike hire on site"
@@ -376,10 +468,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tuyet%20Tinh%20Coc%2C%20Ninh%20Binh"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/TamCoc.jpg/1280px-TamCoc.jpg",
+      "imageCredit": "Wikimedia Commons",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/TamCoc.jpg/1280px-TamCoc.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1528127269322-539801943592?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "backup if skipping second Tam Coc boat"
       ],
@@ -410,10 +511,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Van%20Long%20Nature%20Reserve%2C%20Ninh%20Binh"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "every day after morning outings"
       ],
@@ -445,10 +555,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hotel%20La%20Vue%20Tam%20Coc%2C%20Ninh%20Binh"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "after Hang Mua climb",
         "same evening as Tam Coc stroll"
@@ -481,10 +600,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hang%20Mua%20coconut%20coffee%2C%20Ninh%20Binh"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "T-Pub pizza alternative",
         "goat meat / cơm cháy local night another evening"
@@ -516,10 +644,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chookie%27s%20Beer%20Garden%2C%20Tam%20Coc%2C%20Ninh%20Binh"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "rainy-day stack vs hotel rest"
       ],
@@ -550,10 +687,19 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Minawa%20Kenh%20Ga%20Resort%2C%20Ninh%20Binh"
     },
     {
-      "imageUrl": "",
-      "imageCredit": "",
+      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1280&q=80",
+      "imageCredit": "Unsplash",
       "closedNotes": "",
-      "images": [],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1280&q=80",
+          "credit": "Unsplash"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1280&q=80",
+          "credit": "Unsplash"
+        }
+      ],
       "combos": [
         "optional Ky Lan Lake boat — verify price on site"
       ],
