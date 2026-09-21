@@ -337,6 +337,10 @@
       "phu-quoc::aqua-world-villa-pool": {
         "rank": "possible",
         "at": "2026-09-21T09:40:43.873Z"
+      },
+      "phu-quoc::duong-dong-night-market": {
+        "rank": "must",
+        "at": "2026-09-21T09:40:48.911Z"
       }
     },
     "keren": {
@@ -510,5 +514,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:40:43.873Z"
+  "updatedAt": "2026-09-21T09:40:48.911Z"
 }
