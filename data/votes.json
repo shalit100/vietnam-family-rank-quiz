@@ -161,6 +161,10 @@
       "ninh-binh::chookies-beer-garden": {
         "rank": "pass",
         "at": "2026-09-21T09:29:34.420Z"
+      },
+      "ninh-binh::minawa-kenh-ga": {
+        "rank": "pass",
+        "at": "2026-09-21T09:29:38.442Z"
       }
     },
     "keren": {
@@ -282,5 +286,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:29:34.421Z"
+  "updatedAt": "2026-09-21T09:29:38.442Z"
 }
