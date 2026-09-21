@@ -13,9 +13,13 @@
       "hanoi::thang-long-water-puppets": {
         "rank": "must",
         "at": "2026-09-21T09:10:33.883Z"
+      },
+      "hanoi::old-quarter-wander": {
+        "rank": "possible",
+        "at": "2026-09-21T09:10:47.242Z"
       }
     },
     "keren": {}
   },
-  "updatedAt": "2026-09-21T09:10:33.883Z"
+  "updatedAt": "2026-09-21T09:10:47.242Z"
 }
