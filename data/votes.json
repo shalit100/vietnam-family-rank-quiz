@@ -5,9 +5,13 @@
       "hanoi::hoan-kiem-lake": {
         "rank": "possible",
         "at": "2026-09-21T09:09:30.128Z"
+      },
+      "hanoi::ngoc-son-temple": {
+        "rank": "possible",
+        "at": "2026-09-21T09:09:40.709Z"
       }
     },
     "keren": {}
   },
-  "updatedAt": "2026-09-21T09:09:30.129Z"
+  "updatedAt": "2026-09-21T09:09:40.709Z"
 }
