@@ -123,8 +123,12 @@
       "hanoi::old-quarter-wander": {
         "rank": "possible",
         "at": "2026-09-21T09:17:29.359Z"
+      },
+      "hanoi::temple-of-literature": {
+        "rank": "pass",
+        "at": "2026-09-21T09:18:34.710Z"
       }
     }
   },
-  "updatedAt": "2026-09-21T09:18:19.285Z"
+  "updatedAt": "2026-09-21T09:18:34.711Z"
 }
