@@ -183,8 +183,12 @@
       "hanoi::trang-tien-ice-cream": {
         "rank": "pass",
         "at": "2026-09-21T09:22:41.239Z"
+      },
+      "hanoi::cyclo-ride": {
+        "rank": "pass",
+        "at": "2026-09-21T09:22:49.742Z"
       }
     }
   },
-  "updatedAt": "2026-09-21T09:22:41.239Z"
+  "updatedAt": "2026-09-21T09:22:49.742Z"
 }
