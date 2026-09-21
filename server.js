@@ -16,25 +16,84 @@ app.use(express.json({ limit: '1mb' }));
 app.use(express.static(path.join(__dirname, 'public')));
 
 let memoryVotes = null;
+let votesSha = null;
+const GH_TOKEN = process.env.GITHUB_TOKEN || process.env.GH_TOKEN || '';
+const GH_REPO = process.env.VOTES_GITHUB_REPO || 'shalit100/vietnam-family-rank-quiz';
+const GH_PATH = process.env.VOTES_GITHUB_PATH || 'data/votes.json';
 
-function readVotes() {
+function emptyVotes() {
+  return { tripId: 'vietnam-2026', voters: { rony: {}, keren: {} }, updatedAt: null };
+}
+
+async function readVotes() {
+  if (GH_TOKEN) {
+    try {
+      const res = await fetch(`https://api.github.com/repos/${GH_REPO}/contents/${GH_PATH}`, {
+        headers: {
+          Authorization: `Bearer ${GH_TOKEN}`,
+          Accept: 'application/vnd.github+json',
+          'User-Agent': 'vietnam-family-rank-quiz',
+        },
+      });
+      if (res.ok) {
+        const body = await res.json();
+        votesSha = body.sha;
+        const parsed = JSON.parse(Buffer.from(body.content, 'base64').toString('utf8'));
+        memoryVotes = parsed;
+        return JSON.parse(JSON.stringify(parsed));
+      }
+    } catch (err) {
+      console.error('github readVotes failed', err);
+    }
+  }
   if (memoryVotes) return JSON.parse(JSON.stringify(memoryVotes));
   try {
     memoryVotes = JSON.parse(fs.readFileSync(VOTES, 'utf8'));
     return JSON.parse(JSON.stringify(memoryVotes));
   } catch {
-    memoryVotes = { tripId: 'vietnam-2026', voters: { rony: {}, keren: {} }, updatedAt: null };
+    memoryVotes = emptyVotes();
     return JSON.parse(JSON.stringify(memoryVotes));
   }
 }
 
-function writeVotes(v) {
+async function writeVotes(v) {
   v.updatedAt = new Date().toISOString();
   memoryVotes = v;
   try {
     fs.writeFileSync(VOTES, JSON.stringify(v, null, 2));
-  } catch (_) {
-    // serverless / read-only FS — keep memory for warm instance
+  } catch (_) {}
+  if (!GH_TOKEN) return;
+  try {
+    const content = Buffer.from(JSON.stringify(v, null, 2)).toString('base64');
+    const payload = {
+      message: `chore: sync family votes ${v.updatedAt}`,
+      content,
+      branch: 'main',
+    };
+    if (votesSha) payload.sha = votesSha;
+    const res = await fetch(`https://api.github.com/repos/${GH_REPO}/contents/${GH_PATH}`, {
+      method: 'PUT',
+      headers: {
+        Authorization: `Bearer ${GH_TOKEN}`,
+        Accept: 'application/vnd.github+json',
+        'User-Agent': 'vietnam-family-rank-quiz',
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(payload),
+    });
+    if (res.ok) {
+      const body = await res.json();
+      votesSha = body.content && body.content.sha;
+    } else {
+      const text = await res.text();
+      console.error('github writeVotes failed', res.status, text);
+      // retry once without stale sha
+      if (res.status === 409) {
+        votesSha = null;
+      }
+    }
+  } catch (err) {
+    console.error('github writeVotes error', err);
   }
 }
 
@@ -57,9 +116,9 @@ app.get('/api/city/:id', (req, res) => {
   res.json(JSON.parse(fs.readFileSync(file, 'utf8')));
 });
 
-app.get('/api/votes', (_req, res) => res.json(readVotes()));
+app.get('/api/votes', async (_req, res) => res.json(await readVotes()));
 
-app.post('/api/votes', (req, res) => {
+app.post('/api/votes', async (req, res) => {
   const body = req.body || {};
   const voter = body.voter;
   const attractionId = body.attractionId || body.id;
@@ -68,12 +127,12 @@ app.post('/api/votes', (req, res) => {
   if (!['rony', 'keren'].includes(voter)) return res.status(400).json({ error: 'voter must be rony|keren' });
   if (!attractionId) return res.status(400).json({ error: 'attractionId required' });
   if (!['must', 'possible', 'pass', null].includes(rank)) return res.status(400).json({ error: 'bad rank' });
-  const votes = readVotes();
+  const votes = await readVotes();
   if (!votes.voters[voter]) votes.voters[voter] = {};
   const key = `${cityId}::${attractionId}`;
   if (rank === null) delete votes.voters[voter][key];
   else votes.voters[voter][key] = { rank, at: new Date().toISOString() };
-  writeVotes(votes);
+  await writeVotes(votes);
   res.json(votes);
 });
 
