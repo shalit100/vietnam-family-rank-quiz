@@ -97,6 +97,10 @@
       "hanoi::ella-hanoi-food-tour": {
         "rank": "must",
         "at": "2026-09-21T09:17:37.722Z"
+      },
+      "hanoi::hanoi-craft-village-halfday": {
+        "rank": "pass",
+        "at": "2026-09-21T09:17:45.518Z"
       }
     },
     "keren": {
@@ -118,5 +122,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:17:37.722Z"
+  "updatedAt": "2026-09-21T09:17:45.518Z"
 }
