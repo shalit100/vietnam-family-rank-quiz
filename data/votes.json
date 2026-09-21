@@ -105,6 +105,10 @@
       "hanoi::truc-bach-lake": {
         "rank": "pass",
         "at": "2026-09-21T09:18:19.285Z"
+      },
+      "ninh-binh::trang-an-boat": {
+        "rank": "must",
+        "at": "2026-09-21T09:26:40.270Z"
       }
     },
     "keren": {
@@ -214,5 +218,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:24:06.552Z"
+  "updatedAt": "2026-09-21T09:26:40.270Z"
 }
