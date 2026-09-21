@@ -173,6 +173,10 @@
       "hoi-an::ancient-town-lanterns": {
         "rank": "possible",
         "at": "2026-09-21T09:33:54.084Z"
+      },
+      "hoi-an::heritage-ticket-sites": {
+        "rank": "must",
+        "at": "2026-09-21T09:33:57.713Z"
       }
     },
     "keren": {
@@ -342,5 +346,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:33:54.084Z"
+  "updatedAt": "2026-09-21T09:33:57.714Z"
 }
