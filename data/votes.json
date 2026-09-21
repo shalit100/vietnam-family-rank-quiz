@@ -305,6 +305,10 @@
       "phu-quoc::hon-thom-cable-aquatopia": {
         "rank": "must",
         "at": "2026-09-21T09:39:40.216Z"
+      },
+      "phu-quoc::bai-khem-beach": {
+        "rank": "must",
+        "at": "2026-09-21T09:39:46.568Z"
       }
     },
     "keren": {
@@ -478,5 +482,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:39:40.216Z"
+  "updatedAt": "2026-09-21T09:39:46.568Z"
 }
