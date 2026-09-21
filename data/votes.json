@@ -41,9 +41,13 @@
       "hanoi::st-josephs-cathedral": {
         "rank": "pass",
         "at": "2026-09-21T09:11:58.203Z"
+      },
+      "hanoi::pottery-class-hang-gai": {
+        "rank": "possible",
+        "at": "2026-09-21T09:12:45.615Z"
       }
     },
     "keren": {}
   },
-  "updatedAt": "2026-09-21T09:11:58.203Z"
+  "updatedAt": "2026-09-21T09:12:45.615Z"
 }
