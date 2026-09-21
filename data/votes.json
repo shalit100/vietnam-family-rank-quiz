@@ -201,6 +201,10 @@
       "hoi-an::an-bang-beach": {
         "rank": "pass",
         "at": "2026-09-21T09:34:54.785Z"
+      },
+      "hoi-an::hotel-bikes-countryside": {
+        "rank": "possible",
+        "at": "2026-09-21T09:35:04.940Z"
       }
     },
     "keren": {
@@ -374,5 +378,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:34:54.785Z"
+  "updatedAt": "2026-09-21T09:35:04.940Z"
 }
