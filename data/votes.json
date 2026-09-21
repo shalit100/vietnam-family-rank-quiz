@@ -281,6 +281,10 @@
       "da-nang::con-market": {
         "rank": "pass",
         "at": "2026-09-21T09:39:08.579Z"
+      },
+      "da-nang::son-tra-night-market": {
+        "rank": "possible",
+        "at": "2026-09-21T09:39:14.596Z"
       }
     },
     "keren": {
@@ -454,5 +458,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:39:08.579Z"
+  "updatedAt": "2026-09-21T09:39:14.596Z"
 }
