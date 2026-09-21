@@ -283,8 +283,12 @@
       "ninh-binh::tam-coc-boat": {
         "rank": "must",
         "at": "2026-09-21T09:29:31.850Z"
+      },
+      "ninh-binh::rice-field-bike-loop": {
+        "rank": "must",
+        "at": "2026-09-21T09:29:41.329Z"
       }
     }
   },
-  "updatedAt": "2026-09-21T09:29:38.442Z"
+  "updatedAt": "2026-09-21T09:29:41.329Z"
 }
