@@ -353,6 +353,10 @@
       "phu-quoc::ong-lang-sunset": {
         "rank": "pass",
         "at": "2026-09-21T09:41:10.267Z"
+      },
+      "phu-quoc::hotel-nye-gala-or-villa": {
+        "rank": "must",
+        "at": "2026-09-21T09:41:15.613Z"
       }
     },
     "keren": {
@@ -526,5 +530,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:41:10.267Z"
+  "updatedAt": "2026-09-21T09:41:15.613Z"
 }
