@@ -357,6 +357,10 @@
       "phu-quoc::hotel-nye-gala-or-villa": {
         "rank": "must",
         "at": "2026-09-21T09:41:15.613Z"
+      },
+      "phu-quoc::pepper-farm-stop": {
+        "rank": "possible",
+        "at": "2026-09-21T09:41:25.072Z"
       }
     },
     "keren": {
@@ -530,5 +534,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:41:15.613Z"
+  "updatedAt": "2026-09-21T09:41:25.072Z"
 }
