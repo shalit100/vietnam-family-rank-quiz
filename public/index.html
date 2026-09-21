@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
+<meta name="theme-color" content="#0f5c4c"/>
+<title>Vietnam Rank · Hanoi</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;700&family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet"/>
+<style>
+:root{--cream:#f7f1e8;--ink:#1c2a22;--green:#0f5c4c;--lacquer:#c23a2b;--card:#fffdf8;--mute:#5c6b62;--must:#0f5c4c;--possible:#c47d0e;--pass:#8a6a66;--shadow:0 10px 28px rgba(28,42,34,.12)}
+*{box-sizing:border-box}html,body{margin:0;min-height:100%;font-family:"DM Sans",system-ui,sans-serif;color:var(--ink);background:linear-gradient(180deg,#e8f0eb,#f7f1e8 45%,#f3e6d4)}
+body{padding-bottom:88px}
+header{position:sticky;top:0;z-index:30;backdrop-filter:blur(12px);background:rgba(247,241,232,.92);border-bottom:1px solid rgba(15,92,76,.12);padding:12px 16px}
+.brand{display:flex;justify-content:space-between;gap:12px;align-items:center}
+.brand h1{margin:0;font-family:Fraunces,serif;font-size:1.25rem;color:var(--green)}
+.brand .sub{font-size:.75rem;color:var(--mute)}
+.who{display:flex;gap:6px}
+.who button{border:1.5px solid rgba(15,92,76,.25);background:#fff;border-radius:999px;padding:8px 12px;font-weight:700;cursor:pointer}
+.who button.rony-on{background:var(--green);color:#fff;border-color:var(--green)}
+.who button.keren-on{background:var(--lacquer);color:#fff;border-color:var(--lacquer)}
+.cities{display:flex;gap:8px;overflow:auto;padding:10px 16px 0}
+.pill{flex:0 0 auto;padding:8px 12px;border-radius:999px;background:#fff;border:1px solid rgba(15,92,76,.15);font-size:.8rem;font-weight:700;color:var(--mute)}
+.pill.live{background:var(--green);color:#fff;border-color:var(--green)}.pill.soon{opacity:.55}
+.banner{margin:12px 16px 0;padding:12px 14px;border-radius:16px;background:var(--green);color:#f7fff9;box-shadow:var(--shadow)}
+.banner strong{font-family:Fraunces,serif}.banner a,.banner a.hotel-ta,.banner a.hotel-maps{color:#fff8e8 !important;font-weight:800;text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:2px}.banner a:hover{color:#ffffff !important}.banner .hotel-name{color:#fff8e8}.banner p{margin:6px 0 0;font-size:.85rem;line-height:1.35;opacity:.93}
+.progress{margin:12px 16px;display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.meter{background:var(--card);border-radius:14px;padding:10px 12px;box-shadow:var(--shadow)}
+.meter .l{font-size:.7rem;text-transform:uppercase;letter-spacing:.04em;color:var(--mute)}
+.meter .bar{height:8px;background:#e6ebe8;border-radius:99px;overflow:hidden;margin:6px 0}
+.meter .fill{height:100%;width:0;max-width:100%;transition:width .25s ease}.meter .fill.r{background:var(--green)}.meter .fill.k{background:var(--lacquer)}
+.tabs{display:flex;gap:8px;padding:0 16px}.tabs button{border:0;background:rgba(255,255,255,.7);padding:10px 14px;border-radius:12px;font-weight:700;color:var(--mute);cursor:pointer}.tabs button.on{background:var(--ink);color:#fff}
+main{padding:8px 16px 24px;max-width:720px;margin:0 auto}
+.card{background:var(--card);border-radius:22px;overflow:hidden;margin:14px 0;box-shadow:var(--shadow);border:1px solid rgba(28,42,34,.06)}
+.hero{height:168px;background:linear-gradient(135deg,var(--green),#2f8f75 55%,var(--lacquer));position:relative;cursor:pointer}
+.hero img{width:100%;height:100%;object-fit:cover;display:block}
+.hero .ph{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-family:Fraunces,serif;font-size:1.35rem;padding:16px;text-align:center}
+.hero .badge{position:absolute;right:10px;bottom:10px;background:rgba(0,0,0,.55);color:#fff;font-size:.72rem;font-weight:700;padding:5px 9px;border-radius:999px;backdrop-filter:blur(4px)}
+.body{padding:14px}.body h2{font-family:Fraunces,serif;font-size:1.2rem;margin:0 0 6px}.desc{margin:0;line-height:1.4}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0}.tag{font-size:.7rem;background:#eef5f1;color:var(--green);padding:4px 8px;border-radius:999px;font-weight:700}
+.meta{display:grid;gap:8px;margin:12px 0;font-size:.86rem}.row{display:flex;gap:8px}.k{min-width:74px;color:var(--mute);font-size:.7rem;font-weight:700;text-transform:uppercase;letter-spacing:.03em;padding-top:2px}.v{flex:1;line-height:1.35}
+.votes{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0 12px}.chip{font-size:.75rem;font-weight:800;padding:5px 10px;border-radius:999px;color:#fff}.chip.must{background:var(--must)}.chip.possible{background:var(--possible)}.chip.pass{background:var(--pass)}.chip.empty{background:#d7ddd9;color:var(--mute)}
+.rankers{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px}.rankers button{border:0;border-radius:14px;padding:12px 8px;font-weight:800;cursor:pointer}.rankers .must{background:#d9efe7;color:var(--must)}.rankers .possible{background:#ffe9c2;color:#8a5a00}.rankers .pass{background:#f0e2df;color:#6e4540}.rankers .sel-must{background:var(--must);color:#fff}.rankers .sel-possible{background:var(--possible);color:#fff}.rankers .sel-pass{background:var(--pass);color:#fff}
+.gate{min-height:75vh;display:flex;align-items:center;justify-content:center;padding:24px}
+.box{background:var(--card);border-radius:24px;padding:28px 22px;max-width:380px;width:100%;box-shadow:var(--shadow);text-align:center}
+.box h1{font-family:Fraunces,serif;color:var(--green);margin:0 0 8px}.box p{color:var(--mute);line-height:1.4}
+.pick{display:grid;gap:10px;margin-top:16px}.pick button{border:0;border-radius:16px;padding:16px;font-size:1.05rem;font-weight:800;color:#fff;cursor:pointer}.pick .rony{background:var(--green)}.pick .keren{background:var(--lacquer)}
+.s-item{background:var(--card);border-radius:14px;padding:10px 12px;margin:6px 0;display:flex;justify-content:space-between;gap:8px;box-shadow:var(--shadow);font-size:.9rem}.agree{background:#fff6d6;border:1px solid #e6c35c}
+.note{text-align:center;color:var(--mute);font-size:.75rem;padding:8px 16px}
+.toast{position:fixed;left:50%;bottom:22px;transform:translateX(-50%);background:var(--ink);color:#fff;padding:10px 16px;border-radius:999px;font-size:.85rem;opacity:0;transition:.25s;z-index:60}.toast.show{opacity:1}
+a{color:var(--green);font-weight:700}
+/* lightbox */
+.lb{position:fixed;inset:0;z-index:80;background:rgba(10,16,14,.92);display:none;flex-direction:column;touch-action:pan-y}
+.lb.on{display:flex}
+.lb-top{display:flex;justify-content:space-between;align-items:center;padding:12px 14px;color:#fff;gap:10px}
+.lb-top .title{font-family:Fraunces,serif;font-size:1rem;flex:1}
+.lb-top button{border:0;background:rgba(255,255,255,.15);color:#fff;width:40px;height:40px;border-radius:999px;font-size:1.2rem;cursor:pointer}
+.lb-stage{flex:1;display:flex;align-items:center;justify-content:center;position:relative;min-height:0;padding:0 48px}
+.lb-stage img{max-width:100%;max-height:100%;object-fit:contain;border-radius:8px;user-select:none;-webkit-user-drag:none}
+.lb-nav{position:absolute;top:50%;transform:translateY(-50%);border:0;background:rgba(255,255,255,.18);color:#fff;width:44px;height:44px;border-radius:999px;font-size:1.4rem;cursor:pointer}
+.lb-nav.prev{left:8px}.lb-nav.next{right:8px}
+.lb-nav:disabled{opacity:.25;cursor:default}
+.lb-bottom{padding:10px 16px 20px;color:rgba(255,255,255,.85);text-align:center;font-size:.8rem}
+.lb-dots{display:flex;justify-content:center;gap:6px;margin-bottom:8px}
+.lb-dots span{width:7px;height:7px;border-radius:99px;background:rgba(255,255,255,.35)}
+.lb-dots span.on{background:#fff;width:18px}
+</style>
+</head>
+<body>
+<div id="gate" class="gate"><div class="box"><div style="font-size:2rem">🇻🇳</div><h1>Vietnam Rank</h1><p>Hanoi test for Rony &amp; Keren.<br/>Same link · separate votes · see each other live.</p><div class="pick"><button class="rony" onclick="pick('rony')">I'm Rony</button><button class="keren" onclick="pick('keren')">I'm Keren</button></div></div></div>
+<div id="app" hidden>
+<header><div class="brand"><div><h1>Vietnam Rank</h1><div class="sub">Hanoi · shared family vote</div></div><div class="who"><button id="bR" onclick="pick('rony')">Rony</button><button id="bK" onclick="pick('keren')">Keren</button></div></div></header>
+<div class="cities" id="cities"></div>
+<div class="banner" id="banner"></div>
+<div class="progress"><div class="meter"><div class="l">Rony</div><div class="bar"><div class="fill r" id="barR" style="width:0%"></div></div><div id="txtR">0/0</div></div><div class="meter"><div class="l">Keren</div><div class="bar"><div class="fill k" id="barK" style="width:0%"></div></div><div id="txtK">0/0</div></div></div>
+<div class="tabs"><button class="on" id="tRank" onclick="setTab('rank')">Rank cards</button><button id="tSum" onclick="setTab('summary')">Summary</button></div>
+<main><div id="rank"></div><div id="summary" hidden></div></main>
+<div class="note">Estimates only · ~26k VND ≈ $1 · Tap any photo to browse a gallery · La Siesta Classic Hang Thung</div>
+</div>
+<div class="toast" id="toast"></div>
+<div class="lb" id="lb" aria-modal="true" role="dialog">
+  <div class="lb-top"><div class="title" id="lbTitle"></div><button type="button" onclick="closeLb()" aria-label="Close">✕</button></div>
+  <div class="lb-stage" id="lbStage">
+    <button class="lb-nav prev" id="lbPrev" type="button" onclick="lbStep(-1)" aria-label="Previous">‹</button>
+    <img id="lbImg" alt=""/>
+    <button class="lb-nav next" id="lbNext" type="button" onclick="lbStep(1)" aria-label="Next">›</button>
+  </div>
+  <div class="lb-bottom"><div class="lb-dots" id="lbDots"></div><div id="lbMeta"></div></div>
+</div>
+<script>
+const CITY='hanoi';
+let voter=localStorage.getItem('vn_voter')||null, city=null, votes={voters:{rony:{},keren:{}}}, tab='rank';
+let lb={open:false, imgs:[], i:0, title:'', startX:0};
+const $=id=>document.getElementById(id);
+function toast(m){const t=$('toast');t.textContent=m;t.classList.add('show');setTimeout(()=>t.classList.remove('show'),1600)}
+function key(id){return CITY+'::'+id}
+function get(who,id){return votes.voters?.[who]?.[key(id)]?.rank||null}
+function pick(v){voter=v;localStorage.setItem('vn_voter',v);$('gate').hidden=true;$('app').hidden=false;$('bR').classList.toggle('rony-on',v==='rony');$('bK').classList.toggle('keren-on',v==='keren');render()}
+function setTab(n){tab=n;$('tRank').classList.toggle('on',n==='rank');$('tSum').classList.toggle('on',n==='summary');$('rank').hidden=n!=='rank';$('summary').hidden=n!=='summary';render()}
+
+function hotelLinks(h){
+  if(!h) return '';
+  const name=h.name||'Hotel';
+  const taUrl=h.tripadvisorUrl||h.tripadvisorURL||h.taUrl;
+  const mapsUrl=h.mapsUrl||h.googleMapsUrl;
+  const ta=taUrl?`<a class="hotel-ta" href="${taUrl}" target="_blank" rel="noopener" title="Tripadvisor">${name}</a>`:`<strong class="hotel-name">${name}</strong>`;
+  const maps=mapsUrl?` · <a class="hotel-maps" href="${mapsUrl}" target="_blank" rel="noopener">Maps ↗</a>`:'';
+  return `${ta}${maps}`;
+}
+
+
+function money(p){if(!p)return 'Price TBD';if(!(p.vnd||0)&&!(p.usd||0))return p.note||'Free / TBD';return `${(p.vnd||0).toLocaleString()} VND (~$${p.usd||0}) · ${p.note||''}`}
+function galleryOf(a){
+  const raw=a.images||a.gallery||[];
+  const out=[];
+  const seen=new Set();
+  for(const x of raw){
+    const u=typeof x==='string'?x:(x.url||x.src);
+    if(!u||seen.has(u)) continue; seen.add(u);
+    out.push({url:u, credit:(typeof x==='object'&&(x.credit||x.imageCredit))||a.imageCredit||''});
+  }
+  const single=a.imageUrl||a.imageURL;
+  if(single&&!seen.has(single)) out.unshift({url:single, credit:a.imageCredit||''});
+  return out;
+}
+function openLb(attrId, start=0){
+  const a=city.attractions.find(x=>x.id===attrId); if(!a) return;
+  const imgs=galleryOf(a); if(!imgs.length){toast('No photos yet');return}
+  lb={open:true, imgs, i:Math.min(start, imgs.length-1), title:a.name, startX:0};
+  $('lb').classList.add('on');
+  document.body.style.overflow='hidden';
+  paintLb();
+}
+function closeLb(){lb.open=false;$('lb').classList.remove('on');document.body.style.overflow='';}
+function lbStep(d){if(!lb.open)return; lb.i=(lb.i+d+lb.imgs.length)%lb.imgs.length; paintLb()}
+function paintLb(){
+  const img=lb.imgs[lb.i];
+  $('lbTitle').textContent=lb.title;
+  $('lbImg').src=img.url;
+  $('lbMeta').textContent=`${lb.i+1} / ${lb.imgs.length}${img.credit?' · '+img.credit:''}`;
+  $('lbPrev').disabled=lb.imgs.length<2; $('lbNext').disabled=lb.imgs.length<2;
+  $('lbDots').innerHTML=lb.imgs.map((_,i)=>`<span class="${i===lb.i?'on':''}"></span>`).join('');
+}
+document.addEventListener('keydown',e=>{
+  if(!lb.open)return;
+  if(e.key==='Escape')closeLb();
+  if(e.key==='ArrowLeft')lbStep(-1);
+  if(e.key==='ArrowRight')lbStep(1);
+});
+const stage=$('lbStage');
+stage.addEventListener('touchstart',e=>{lb.startX=e.changedTouches[0].clientX},{passive:true});
+stage.addEventListener('touchend',e=>{
+  if(!lb.open)return;
+  const dx=e.changedTouches[0].clientX-lb.startX;
+  if(Math.abs(dx)>40) lbStep(dx<0?1:-1);
+},{passive:true});
+$('lb').addEventListener('click',e=>{if(e.target.id==='lb')closeLb()});
+
+async function load(){const [c,v,cs]=await Promise.all([fetch('/api/city/'+CITY),fetch('/api/votes'),fetch('/api/cities')]);city=await c.json();votes=await v.json();$('cities').innerHTML=(await cs.json()).map(x=>`<div class="pill ${x.status==='live'?'live':'soon'}">${x.name}${x.status==='soon'?' · soon':''}</div>`).join('');render()}
+async function setRank(id,rank){if(!voter){toast('Pick who you are');return}const cur=get(voter,id);const next=cur===rank?null:rank;const res=await fetch('/api/votes',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({voter,attractionId:id,rank:next,cityId:CITY})});votes=await res.json();render()}
+function progress(){
+  const n=city?.attractions?.length||0;
+  const rc=Object.keys(votes.voters?.rony||{}).filter(k=>k.startsWith(CITY+'::')).length;
+  const kc=Object.keys(votes.voters?.keren||{}).filter(k=>k.startsWith(CITY+'::')).length;
+  $('txtR').textContent=rc+'/'+n;
+  $('txtK').textContent=kc+'/'+n;
+  $('barR').style.width=(n? (rc/n*100) : 0)+'%';
+  $('barK').style.width=(n? (kc/n*100) : 0)+'%';
+}
+function card(a){
+  const rR=get('rony',a.id),rK=get('keren',a.id),mine=voter?get(voter,a.id):null;
+  const g=galleryOf(a);
+  const hero=g.length
+    ? `<img src="${g[0].url}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=ph>${a.name.replace(/'/g,'')}<\/div>'"/><div class="badge">📷 ${g.length} photo${g.length>1?'s':''}</div>`
+    : `<div class="ph">${a.name}</div>`;
+  return `<article class="card"><div class="hero" onclick="openLb('${a.id}')" title="Open photos">${hero}</div><div class="body"><h2>${a.name}</h2><p class="desc">${a.shortDescription||''}</p><div class="tags">${(a.tags||[]).slice(0,4).map(t=>`<span class="tag">${t}</span>`).join('')}</div><div class="meta"><div class="row"><div class="k">Kids</div><div class="v">${a.whyKids||''}</div></div><div class="row"><div class="k">Reviews</div><div class="v">${a.reviewSummary||''}</div></div><div class="row"><div class="k">From hotel</div><div class="v">${a.distanceFromHotel||''} · ${a.duration||''} · ${a.effort||''}</div></div><div class="row"><div class="k">Maps</div><div class="v">${a.mapsUrl?`<a href="${a.mapsUrl}" target="_blank" rel="noopener">Open in Google Maps ↗</a>`:'—'}</div></div><div class="row"><div class="k">Combos</div><div class="v">${(a.combos||[]).join(' · ')||'—'}</div></div><div class="row"><div class="k">Family $</div><div class="v">${money(a.priceFamilyEst)}</div></div><div class="row"><div class="k">Book</div><div class="v">${a.booking?.needed?(a.booking.url?`<a href="${a.booking.url}" target="_blank" rel="noopener">${a.booking.how||'Book'}</a>`:(a.booking.how||'Book ahead')):(a.booking?.how||'No booking needed')}</div></div>${a.closedNotes?`<div class="row"><div class="k">Note</div><div class="v">${a.closedNotes}</div></div>`:''}</div><div class="votes"><span class="chip ${rR||'empty'}">Rony · ${rR||'—'}</span><span class="chip ${rK||'empty'}">Keren · ${rK||'—'}</span>${rR&&rK&&rR===rK&&rR==='must'?'<span class="chip must">🔥 both Must</span>':''}</div><div class="rankers"><button class="must ${mine==='must'?'sel-must':''}" onclick="setRank('${a.id}','must')">Must</button><button class="possible ${mine==='possible'?'sel-possible':''}" onclick="setRank('${a.id}','possible')">Possible</button><button class="pass ${mine==='pass'?'sel-pass':''}" onclick="setRank('${a.id}','pass')">Pass</button></div></div></article>`;
+}
+function summary(who,title){const g={must:[],possible:[],pass:[]};for(const a of city.attractions){const r=get(who,a.id);if(r)g[r].push(a)}const blk=(label,arr)=>`<h3 style="font-family:Fraunces,serif">${label} (${arr.length})</h3>`+(arr.length?arr.map(a=>{const other=who==='rony'?get('keren',a.id):get('rony',a.id);const agree=other===get(who,a.id);return `<div class="s-item ${agree?'agree':''}"><span>${a.name}</span><span>${agree&&other==='must'?'🔥 ':''}${other?'partner: '+other:'partner: —'}</span></div>`}).join(''):'<div class="s-item"><span>Nothing yet</span></div>');return `<section><h2 style="font-family:Fraunces,serif">${title}</h2>${blk('Must',g.must)}${blk('Possible',g.possible)}${blk('Pass',g.pass)}</section>`}
+function render(){if(!city)return;$('banner').innerHTML=`<strong>${city.cityName}</strong> · ${city.dates}<p>${hotelLinks(city.hotel)} · ${city.partyNote||''}<br/>${city.tip||''}</p>`;progress();if(tab==='rank')$('rank').innerHTML=city.attractions.map(card).join('');else $('summary').innerHTML=summary('rony','Rony')+summary('keren','Keren')}
+async function poll(){try{const n=await(await fetch('/api/votes')).json();if(JSON.stringify(n)!==JSON.stringify(votes)){votes=n;render()}}catch{}}
+(async()=>{await load();if(voter)pick(voter);setInterval(poll,2500)})();
+</script>
+</body>
+</html>

@@ -1,0 +1,1458 @@
+{
+  "cityId": "hanoi",
+  "cityName": "Hanoi",
+  "dates": "14–16 Dec 2026",
+  "hotel": {
+    "name": "La Siesta Classic Hang Thung",
+    "address": "21 Hang Thung, Hoan Kiem",
+    "tripadvisorUrl": "https://www.tripadvisor.com/Hotel_Review-g293924-d26362788-Reviews-La_Siesta_Classic_Hang_Thung-Hanoi.html",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Siesta%20Classic%20Hang%20Thung%2C%2021%20Hang%20Thung%2C%20Hanoi",
+    "websiteUrl": "https://lasiestahotels.com/hangthung/"
+  },
+  "partyNote": "2 adults + kids 8/9/12",
+  "fxNote": "~26,000 VND = 1 USD; prices are estimates — verify before booking",
+  "updatedAt": "2026-09-21",
+  "tip": "Mon 14: Ethnology + HCM Mausoleum closed — save for Tue 15. · WA tip: consider Ella food tour; craft-village half-day OR Bát Tràng — not both.",
+  "attractions": [
+    {
+      "id": "hoan-kiem-lake",
+      "name": "Hoàn Kiếm Lake (lakeside loop)",
+      "shortDescription": "Hanoi’s iconic heart — a flat ~1.6 km lakeside loop with turtle legend, tai chi at dawn, and endless people-watching.",
+      "whyKids": "Easy walk for 8/9/12, open space to move after jet lag, and a memorable legend story without ticket queues.",
+      "reviewSummary": "Universally top-rated as Hanoi’s #1 easy start in family guides; free lakeside loop (Tripadvisor Walking Street evenings 4.5/5 · ~128 reviews — weekend-only).",
+      "distanceFromHotel": "5–10 min walk",
+      "duration": "30–90 min",
+      "effort": "walk",
+      "combos": [
+        "pairs well with Ngọc Sơn Temple",
+        "same evening as water puppets + lakeside stroll",
+        "ice cream at Tràng Tiền after"
+      ],
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "free; snacks nearby cheap (estimate)"
+      },
+      "booking": {
+        "needed": false,
+        "how": "free — no booking",
+        "url": null
+      },
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Ho%C3%A0n_Ki%E1%BA%BFm_Lake.jpg/1280px-Ho%C3%A0n_Ki%E1%BA%BFm_Lake.jpg",
+      "imageCredit": "Wikimedia",
+      "tags": [
+        "must-consider",
+        "outdoor",
+        "kids",
+        "evening"
+      ],
+      "closedNotes": "Open daily. Weekend Walking Street (Fri–Sun evenings) does NOT fall on 14–16 Dec 2026.",
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Ho%C3%A0n_Ki%E1%BA%BFm_Lake.jpg/1280px-Ho%C3%A0n_Ki%E1%BA%BFm_Lake.jpg",
+          "credit": "Wikimedia"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hoan_Kiem_Lake_Hanoi.jpg/1280px-Hoan_Kiem_Lake_Hanoi.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/The_Huc_Bridge.jpg/1280px-The_Huc_Bridge.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Turtle_Tower_Hoan_Kiem.jpg/1280px-Turtle_Tower_Hoan_Kiem.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoan%20Kiem%20Lake%2C%20Hanoi",
+      "mapsQuery": "Hoan Kiem Lake, Hanoi"
+    },
+    {
+      "id": "ngoc-son-temple",
+      "name": "Ngọc Sơn Temple via Thê Húc Bridge",
+      "shortDescription": "Cross the famous red bridge onto Jade Island for a short temple visit, turtle relics, and classic Hoàn Kiếm photos.",
+      "whyKids": "Short, photogenic, and story-rich; under ~1.2 m often free — verify height on-site for Gon (~8).",
+      "reviewSummary": "Core Hoàn Kiếm experience; paired with the lake in nearly every family itinerary.",
+      "distanceFromHotel": "10–15 min walk via lake",
+      "duration": "30–60 min",
+      "effort": "walk",
+      "combos": [
+        "same visit as Hoàn Kiếm Lake loop",
+        "pairs well with Tràng Tiền ice cream"
+      ],
+      "priceFamilyEst": {
+        "vnd": 250000,
+        "usd": 10,
+        "note": "estimate: ~50,000 VND each over ~1.2 m × 5; under 1.2 m free (Hanoi Locals 2026) — verify heights"
+      },
+      "booking": {
+        "needed": false,
+        "how": "on-site tickets",
+        "url": "https://hanoilocals.com/hanoi-entrance-fee/"
+      },
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/The_Huc_Bridge.jpg/1280px-The_Huc_Bridge.jpg",
+      "imageCredit": "Wikimedia",
+      "tags": [
+        "must-consider",
+        "culture",
+        "kids",
+        "outdoor"
+      ],
+      "closedNotes": null,
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/The_Huc_Bridge.jpg/1280px-The_Huc_Bridge.jpg",
+          "credit": "Wikimedia"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Th%C3%AA_H%C3%BAc_Bridge_to_Ng%E1%BB%8Dc_S%C6%A1n_Temple_10-03-2025.jpg/1280px-Th%C3%AA_H%C3%BAc_Bridge_to_Ng%E1%BB%8Dc_S%C6%A1n_Temple_10-03-2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/C%E1%BA%A7u_th%C3%AA_h%C3%BAc_H%C3%A0_n%E1%BB%99i_vietnam_-_panoramio.jpg/1280px-C%E1%BA%A7u_th%C3%AA_h%C3%BAc_H%C3%A0_n%E1%BB%99i_vietnam_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Huc_Bridge_in_Hanoi%2C_Vietnam%2C_20240204_1301_5726.jpg/1280px-Huc_Bridge_in_Hanoi%2C_Vietnam%2C_20240204_1301_5726.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Musical_group_on_The_Huc_Bridge_in_Hanoi%2C_20240123_1402_3331.jpg/1280px-Musical_group_on_The_Huc_Bridge_in_Hanoi%2C_20240123_1402_3331.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/The_Huc_Bridge.jpg/1280px-The_Huc_Bridge.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ngoc%20Son%20Temple%2C%20Hanoi",
+      "mapsQuery": "Ngoc Son Temple, Hanoi"
+    },
+    {
+      "id": "thang-long-water-puppets",
+      "name": "Thăng Long Water Puppet Theatre",
+      "shortDescription": "Classic North Vietnamese water-puppet show (~50 min) with dragons, farming scenes, and live traditional music — no Vietnamese required.",
+      "whyKids": "Colorful and unique for 8–12; some older kids find the music slow — book a mid-tier seat and keep expectations light.",
+      "reviewSummary": "Tripadvisor ~4.0/5 · ~12,400 reviews — iconic but mixed on pacing; families call it worthwhile if booked ahead.",
+      "distanceFromHotel": "10–15 min walk (57B Đinh Tiên Hoàng, lakeside)",
+      "duration": "~50 min show (+20–30 min early arrival)",
+      "effort": "walk",
+      "combos": [
+        "same evening as Hoàn Kiếm lake stroll",
+        "pairs well with arrival-day lake + ice cream"
+      ],
+      "priceFamilyEst": {
+        "vnd": 750000,
+        "usd": 29,
+        "note": "estimate mid-tier 150k × 5; seat tiers often 100k/150k/200k VND (Hanoi Locals) — camera fees sometimes extra"
+      },
+      "booking": {
+        "needed": true,
+        "how": "official site / Klook / GetYourGuide / hotel — Dec evenings sell out",
+        "url": "https://nhahatmuaroithanglong.vn/en/ticket-book/"
+      },
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Hanoi_Vietnam_Thang-Long-Water-Puppet-Theatre-01.jpg/1280px-Hanoi_Vietnam_Thang-Long-Water-Puppet-Theatre-01.jpg",
+      "imageCredit": "Wikimedia",
+      "tags": [
+        "must-consider",
+        "culture",
+        "kids",
+        "evening",
+        "rainy"
+      ],
+      "closedNotes": "Book ahead for Dec peak; common evening slots ~18:30 / 20:00 / 21:15 — confirm live.",
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Hanoi_Vietnam_Thang-Long-Water-Puppet-Theatre-01.jpg/1280px-Hanoi_Vietnam_Thang-Long-Water-Puppet-Theatre-01.jpg",
+          "credit": "Wikimedia"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Hanoi_Vietnam_Thang-Long-Water-Puppet-Theatre-01.jpg/1280px-Hanoi_Vietnam_Thang-Long-Water-Puppet-Theatre-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Thang_Long_Water_Puppet_Theatre_2.jpg/1280px-Thang_Long_Water_Puppet_Theatre_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Thang_long_water_puppet.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Water_Puppet_Theater%2C_Hanoi_%281344446327%29.jpg/1280px-Water_Puppet_Theater%2C_Hanoi_%281344446327%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Thang%20Long%20Water%20Puppet%20Theatre%2C%20Hanoi",
+      "mapsQuery": "Thang Long Water Puppet Theatre, Hanoi"
+    },
+    {
+      "id": "old-quarter-wander",
+      "name": "Old Quarter “36 streets” slow wander",
+      "shortDescription": "Sensory wander through silk, tin, herb, and food streets — your hotel sits inside the maze, so go slowly in short segments.",
+      "whyKids": "Curious 8–12yo love watching makers and street food; hold hands — families often walk in the road when sidewalks are blocked.",
+      "reviewSummary": "Top free Hanoi experience in local family guides (Beyond Vietnam, Holidays with Kids) when paced gently.",
+      "distanceFromHotel": "doorstep",
+      "duration": "1–3 hrs in short segments",
+      "effort": "walk",
+      "combos": [
+        "pairs well with street-food tasting",
+        "same afternoon as pottery class on Hàng Gai",
+        "egg coffee break mid-wander"
+      ],
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "free to walk; food/souvenirs extra"
+      },
+      "booking": {
+        "needed": false,
+        "how": "free DIY; optional private family food/walk tour",
+        "url": "https://www.beyond-vietnam.com/post/things-to-do-in-hanoi-with-kids-a-local-s-honest-guide"
+      },
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Hang_Manh_Street%2C_Old_Quarter%2C_Hanoi_%2849373523773%29.jpg/1280px-Hang_Manh_Street%2C_Old_Quarter%2C_Hanoi_%2849373523773%29.jpg",
+      "imageCredit": "Wikimedia",
+      "tags": [
+        "must-consider",
+        "food",
+        "kids",
+        "culture",
+        "outdoor"
+      ],
+      "closedNotes": null,
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Hang_Manh_Street%2C_Old_Quarter%2C_Hanoi_%2849373523773%29.jpg/1280px-Hang_Manh_Street%2C_Old_Quarter%2C_Hanoi_%2849373523773%29.jpg",
+          "credit": "Wikimedia"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Mary_Johnston_Pioneers_of_the_Old_South_Part_1_1918.djvu/page1-960px-Mary_Johnston_Pioneers_of_the_Old_South_Part_1_1918.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Quiller-Couch--Old_fires_and_profitable_ghosts.djvu/page1-1280px-Quiller-Couch--Old_fires_and_profitable_ghosts.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Life_in_the_Old_World_-_Vol._I.djvu/page1-1280px-Life_in_the_Old_World_-_Vol._I.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hanoi%20Old%20Quarter",
+      "mapsQuery": "Hanoi Old Quarter"
+    },
+    {
+      "id": "temple-of-literature",
+      "name": "Temple of Literature (Văn Miếu)",
+      "shortDescription": "Vietnam’s first university (1070) — courtyards, bonsai, and turtle stelae in a calm campus feel.",
+      "whyKids": "Best for the 12yo with storytelling/app; under-8s often lose interest without a guide narrative (Beyond Vietnam).",
+      "reviewSummary": "Tripadvisor ~4.3/5 · ~11,300 reviews — iconic, photogenic, low cost.",
+      "distanceFromHotel": "Grab ~10–20 min (or ~25–35 min walk SW)",
+      "duration": "1–1.5 hrs",
+      "effort": "Grab",
+      "combos": [
+        "pairs well with Women’s Museum or French Quarter cafés",
+        "snack stop after for younger kids"
+      ],
+      "priceFamilyEst": {
+        "vnd": 150000,
+        "usd": 6,
+        "note": "estimate 30,000 VND each over ~1.2 m × 5; under 1.2 m free (Hanoi Locals 2026)"
+      },
+      "booking": {
+        "needed": false,
+        "how": "on-site tickets; optional city-tour add-on via Klook",
+        "url": "https://hanoilocals.com/hanoi-entrance-fee/"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Temple_of_Literature%2C_Hanoi.jpg",
+      "imageCredit": "Wikimedia",
+      "tags": [
+        "must-consider",
+        "culture",
+        "outdoor"
+      ],
+      "closedNotes": "Hours often cited ~08:00–17:00 — confirm live.",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Temple_of_Literature%2C_Hanoi.jpg",
+          "credit": "Wikimedia"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/026_V%C4%83n_Mi%E1%BA%BFu_-Temple_of_literature_-_Buddha_C.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/027_V%C4%83n_Mi%E1%BA%BFu_-Temple_of_literature_-_Buddha_C.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Constellation_of_Literature_pavilion%2C_Temple_of_Literature%2C_Hanoi%2C_Vietnam%2C_20240123_0939_3103.jpg/1280px-Constellation_of_Literature_pavilion%2C_Temple_of_Literature%2C_Hanoi%2C_Vietnam%2C_20240123_0939_3103.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Lascar_Main_hall_of_The_Temple_of_Literature_%28V%C4%83n_Mi%E1%BA%BFu%29_%284551001026%29.jpg/1280px-Lascar_Main_hall_of_The_Temple_of_Literature_%28V%C4%83n_Mi%E1%BA%BFu%29_%284551001026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Temple%20of%20Literature%2C%20Hanoi",
+      "mapsQuery": "Temple of Literature, Hanoi"
+    },
+    {
+      "id": "ho-chi-minh-mausoleum-complex",
+      "name": "Ho Chi Minh Mausoleum Complex + One Pillar Pagoda",
+      "shortDescription": "National symbol at Ba Đình — grounds, stilt house, and One Pillar Pagoda; skip the interior queue if kids are restless.",
+      "whyKids": "Grounds and One Pillar work better than body viewing (silence, dress code, queues). Good context for ages 9–12.",
+      "reviewSummary": "Must-see for many visitors; family blogs advise prioritizing grounds over long interior wait with young kids.",
+      "distanceFromHotel": "Grab ~15–25 min",
+      "duration": "half morning (~2–3 hrs)",
+      "effort": "Grab",
+      "combos": [
+        "same morning area as Imperial Citadel or Military History Museum",
+        "do NOT stack with Ethnology the same rushed morning"
+      ],
+      "priceFamilyEst": {
+        "vnd": 125000,
+        "usd": 5,
+        "note": "estimate: foreigner mausoleum often 25,000 VND × 5 (Hanoi Locals); museum/stilt house often ~40,000 VND each extra — sources conflict on free vs fee, verify on day"
+      },
+      "booking": {
+        "needed": false,
+        "how": "no advance ticket usually — go early morning",
+        "url": "https://vietnamwherestay.com/ho-chi-minh-mausoleum-hanoi/"
+      },
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Ho_Chi_Minh_Mausoleum%2C_Hanoi_Vietnam.jpg/1280px-Ho_Chi_Minh_Mausoleum%2C_Hanoi_Vietnam.jpg",
+      "imageCredit": "Wikimedia",
+      "tags": [
+        "must-consider",
+        "culture",
+        "outdoor"
+      ],
+      "closedNotes": "CLOSED Mon & Fri → closed Mon 14 Dec; target Tue 15 morning. Winter hours often ~08:00–11:00 — confirm. Modest dress; no phones inside mausoleum.",
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Ho_Chi_Minh_Mausoleum%2C_Hanoi_Vietnam.jpg/1280px-Ho_Chi_Minh_Mausoleum%2C_Hanoi_Vietnam.jpg",
+          "credit": "Wikimedia"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Hanoi_Vietnam_Mausoleum-of-Ho-Chi-Minh-01.jpg/1280px-Hanoi_Vietnam_Mausoleum-of-Ho-Chi-Minh-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Hanoi_Vietnam_Mausoleum-of-Ho-Chi-Minh-02.jpg/1280px-Hanoi_Vietnam_Mausoleum-of-Ho-Chi-Minh-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Hanoi_Vietnam_Mausoleum-of-Ho-Chi-Minh-03.jpg/1280px-Hanoi_Vietnam_Mausoleum-of-Ho-Chi-Minh-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Ho_Chi_Minh_mausoleum%2C_July_2003%2C_Hanoi.jpg/500px-Ho_Chi_Minh_mausoleum%2C_July_2003%2C_Hanoi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ho_Chi_Minh_Mausoleum.jpg/1280px-Ho_Chi_Minh_Mausoleum.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ho%20Chi%20Minh%20Mausoleum%2C%20Hanoi",
+      "mapsQuery": "Ho Chi Minh Mausoleum, Hanoi"
+    },
+    {
+      "id": "museum-of-ethnology",
+      "name": "Vietnam Museum of Ethnology",
+      "shortDescription": "Best museum for kids in most family guides — outdoor full-scale ethnic houses you can enter/climb, plus indoor exhibits with EN/FR/VI labels.",
+      "whyKids": "Hands-on outdoor village for 8/9/12; climbs and houses beat glass-case museums. Half-day Grab commitment.",
+      "reviewSummary": "Tripadvisor ~4.4/5 — repeatedly called the top kid museum in Hanoi-with-kids roundups.",
+      "distanceFromHotel": "Grab ~25–40 min (1 Nguyễn Văn Huyên, Cầu Giấy)",
+      "duration": "2–3 hrs",
+      "effort": "Grab",
+      "combos": [
+        "best as Tue 15 main outing",
+        "rainy-day indoor+outdoor mix",
+        "do not also rush HCM complex same morning"
+      ],
+      "priceFamilyEst": {
+        "vnd": 200000,
+        "usd": 8,
+        "note": "estimate 40,000 VND × 5 (Hanoi Locals); some sources list kids 6–18 at 10,000 VND (VnExpress) — verify at gate"
+      },
+      "booking": {
+        "needed": false,
+        "how": "on-site",
+        "url": "https://e.vnexpress.net/news/travel/places/museum-of-ethnology-in-hanoi-4835449.html"
+      },
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Vietnam_Museum_of_Ethnology%2C_Hanoi%2C_Vietnam_%288120839881%29.jpg/1280px-Vietnam_Museum_of_Ethnology%2C_Hanoi%2C_Vietnam_%288120839881%29.jpg",
+      "imageCredit": "Wikimedia",
+      "tags": [
+        "must-consider",
+        "kids",
+        "culture",
+        "rainy",
+        "outdoor"
+      ],
+      "closedNotes": "CLOSED Mondays → closed Mon 14 Dec; go Tue 15. Hours often 08:30–17:30.",
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Vietnam_Museum_of_Ethnology%2C_Hanoi%2C_Vietnam_%288120839881%29.jpg/1280px-Vietnam_Museum_of_Ethnology%2C_Hanoi%2C_Vietnam_%288120839881%29.jpg",
+          "credit": "Wikimedia"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Exterior_view_-_Vietnam_Museum_of_Ethnology_-_Hanoi%2C_Vietnam_-_DSC03432.JPG/1280px-Exterior_view_-_Vietnam_Museum_of_Ethnology_-_Hanoi%2C_Vietnam_-_DSC03432.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Medicinal_plants_-_Vietnam_Museum_of_Ethnology_-_Hanoi%2C_Vietnam_-_DSC03411.JPG/1280px-Medicinal_plants_-_Vietnam_Museum_of_Ethnology_-_Hanoi%2C_Vietnam_-_DSC03411.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Unidentified_statue_-_Vietnam_Museum_of_Ethnology_-_Hanoi%2C_Vietnam_-_DSC02584.JPG/1280px-Unidentified_statue_-_Vietnam_Museum_of_Ethnology_-_Hanoi%2C_Vietnam_-_DSC02584.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Unidentified_statues_-_Vietnam_Museum_of_Ethnology_-_Hanoi%2C_Vietnam_-_DSC02582.JPG/1280px-Unidentified_statues_-_Vietnam_Museum_of_Ethnology_-_Hanoi%2C_Vietnam_-_DSC02582.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vietnam%20Museum%20of%20Ethnology%2C%20Hanoi",
+      "mapsQuery": "Vietnam Museum of Ethnology, Hanoi"
+    },
+    {
+      "id": "vietnamese-womens-museum",
+      "name": "Vietnamese Women’s Museum",
+      "shortDescription": "Clear modern displays on family, war, and fashion — a powerful rainy-day museum near the French Quarter.",
+      "whyKids": "Strolling Adventures (kids 9 & 12) found it engaging; calmer than Hoa Lò for an 8yo.",
+      "reviewSummary": "Tripadvisor ~4.5/5 · ~5,370 reviews — consistently strong family/indoor pick.",
+      "distanceFromHotel": "15–25 min walk or short Grab (36 Lý Thường Kiệt)",
+      "duration": "1.5–2.5 hrs",
+      "effort": "walk",
+      "combos": [
+        "pairs well with Temple of Literature or St. Joseph’s café street",
+        "rainy-day backup"
+      ],
+      "priceFamilyEst": {
+        "vnd": 110000,
+        "usd": 4,
+        "note": "estimate from Strolling Adventures visit: adults 40,000 VND · children 10,000 VND → ~110k for 2+3 — verify live"
+      },
+      "booking": {
+        "needed": false,
+        "how": "on-site; audio tour optional",
+        "url": "https://strollingadventures.com/3-day-hanoi-itinerary-with-kids/"
+      },
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Vietnamese_Women%27s_Museum%2C_Women%27s_Fashion_section.JPG/1280px-Vietnamese_Women%27s_Museum%2C_Women%27s_Fashion_section.JPG",
+      "imageCredit": "Wikimedia",
+      "tags": [
+        "culture",
+        "rainy",
+        "kids"
+      ],
+      "closedNotes": "Confirm same-day hours (many museums close Mondays / lunch breaks).",
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Vietnamese_Women%27s_Museum%2C_Women%27s_Fashion_section.JPG/1280px-Vietnamese_Women%27s_Museum%2C_Women%27s_Fashion_section.JPG",
+          "credit": "Wikimedia"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Ao_dai%2C_Viet%2C_Hanoi%2C_1950-1960%2C_silk_-_Vietnamese_Women%27s_Museum_-_Hanoi%2C_Vietnam_-_DSC04113.JPG/1280px-Ao_dai%2C_Viet%2C_Hanoi%2C_1950-1960%2C_silk_-_Vietnamese_Women%27s_Museum_-_Hanoi%2C_Vietnam_-_DSC04113.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Ao_dai%2C_Viet%2C_Hanoi%2C_2010_-_Vietnamese_Women%27s_Museum_-_Hanoi%2C_Vietnam_-_DSC04129.JPG/1280px-Ao_dai%2C_Viet%2C_Hanoi%2C_2010_-_Vietnamese_Women%27s_Museum_-_Hanoi%2C_Vietnam_-_DSC04129.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Ao_dai%2C_Viet%2C_Hanoi%2C_2010_-_Vietnamese_Women%27s_Museum_-_Hanoi%2C_Vietnam_-_DSC04138.JPG/1280px-Ao_dai%2C_Viet%2C_Hanoi%2C_2010_-_Vietnamese_Women%27s_Museum_-_Hanoi%2C_Vietnam_-_DSC04138.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Everyday_objects_display_-_Vietnamese_Women%27s_Museum_-_Hanoi%2C_Vietnam_-_DSC04214.JPG/1280px-Everyday_objects_display_-_Vietnamese_Women%27s_Museum_-_Hanoi%2C_Vietnam_-_DSC04214.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vietnamese%20Women%27s%20Museum%2C%20Hanoi",
+      "mapsQuery": "Vietnamese Women's Museum, Hanoi"
+    },
+    {
+      "id": "military-history-museum",
+      "name": "Vietnam Military History Museum",
+      "shortDescription": "Planes, tanks, and big outdoor hardware — a “wow vehicles” museum for history and machine fans.",
+      "whyKids": "Strong pull for many 8–12yo who light up at aircraft/tanks; more kinetic than glass-case history.",
+      "reviewSummary": "Frequently listed in Hanoi-with-kids activity roundups for outdoor hardware appeal.",
+      "distanceFromHotel": "Grab ~15–25 min (Điện Biên Phủ / Ba Đình)",
+      "duration": "1.5–2 hrs",
+      "effort": "Grab",
+      "combos": [
+        "same Ba Đình morning as HCM complex (if energy)",
+        "alternative to Women’s Museum for vehicle-obsessed kids"
+      ],
+      "priceFamilyEst": {
+        "vnd": 100000,
+        "usd": 4,
+        "note": "estimate 20,000 VND × 5 (Hanoi Locals 2026) — confirm if campus relocation affects Dec 2026 visit"
+      },
+      "booking": {
+        "needed": false,
+        "how": "on-site",
+        "url": "https://hanoilocals.com/hanoi-entrance-fee/"
+      },
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Courtyard_Collage_-_Vietnam_Military_History_Museum_-_Hanoi_-_Vietnam_%2848072184801%29.jpg/1280px-Courtyard_Collage_-_Vietnam_Military_History_Museum_-_Hanoi_-_Vietnam_%2848072184801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": "Wikimedia Commons",
+      "tags": [
+        "kids",
+        "culture",
+        "outdoor"
+      ],
+      "closedNotes": "Confirm Dec 2026 location/hours (relocation notes in some guides).",
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Courtyard_Collage_-_Vietnam_Military_History_Museum_-_Hanoi_-_Vietnam_%2848072184801%29.jpg/1280px-Courtyard_Collage_-_Vietnam_Military_History_Museum_-_Hanoi_-_Vietnam_%2848072184801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Courtyard_Detail_-_Vietnam_Military_History_Museum_-_Hanoi_-_Vietnam_%2848072182016%29.jpg/1280px-Courtyard_Detail_-_Vietnam_Military_History_Museum_-_Hanoi_-_Vietnam_%2848072182016%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Destroyed_American_Planes_-_Vietnam_Military_History_Museum_-_Hanoi_-_Vietnam_%2848072287492%29.jpg/1280px-Destroyed_American_Planes_-_Vietnam_Military_History_Museum_-_Hanoi_-_Vietnam_%2848072287492%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Museum_building_Vietnam_Military_History_Museum.jpg/1280px-Museum_building_Vietnam_Military_History_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Tank_Turret_with_Flowers_-_Vietnam_Military_History_Museum_-_Hanoi_-_Vietnam_%2848072163491%29.jpg/1280px-Tank_Turret_with_Flowers_-_Vietnam_Military_History_Museum_-_Hanoi_-_Vietnam_%2848072163491%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vietnam%20Military%20History%20Museum%2C%20Hanoi",
+      "mapsQuery": "Vietnam Military History Museum, Hanoi"
+    },
+    {
+      "id": "st-josephs-cathedral",
+      "name": "St. Joseph’s Cathedral + Nha Chung café street",
+      "shortDescription": "French Gothic exterior photo stop plus café streets for a family reset — mid-Dec festive lights start building toward Christmas.",
+      "whyKids": "Quick wow photos and café breaks; low pressure after Old Quarter sensory load.",
+      "reviewSummary": "Staple of family Old Quarter loops (Strolling Adventures, Fiesta HE).",
+      "distanceFromHotel": "10–15 min walk",
+      "duration": "30–60 min (+ café)",
+      "effort": "walk",
+      "combos": [
+        "same stroll as egg coffee",
+        "pairs well with Tràng Tiền ice cream / Opera area",
+        "evening lights walk"
+      ],
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "exterior free; café spend separate"
+      },
+      "booking": {
+        "needed": false,
+        "how": "free exterior; interior if open for visitors/mass",
+        "url": "https://littlecharmhostel.com/christmas-in-hanoi-a-locals-festive-guide/"
+      },
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Hanoi_sjc.jpg/1280px-Hanoi_sjc.jpg",
+      "imageCredit": "Wikimedia",
+      "tags": [
+        "culture",
+        "evening",
+        "food",
+        "kids"
+      ],
+      "closedNotes": "You’ll miss Christmas Eve cathedral crowds (already in Hoi An by then). Interior access varies with mass schedules.",
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Hanoi_sjc.jpg/1280px-Hanoi_sjc.jpg",
+          "credit": "Wikimedia"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Cathedral_of_St_Joseph%2C_Hanoi%2C_Vietnam_-_54568827691.jpg/1280px-Cathedral_of_St_Joseph%2C_Hanoi%2C_Vietnam_-_54568827691.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Cathedral_of_St_Joseph%2C_Hanoi%2C_Vietnam_-_54569053218.jpg/1280px-Cathedral_of_St_Joseph%2C_Hanoi%2C_Vietnam_-_54569053218.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Hanoi_St_Joseph%27s_cathedral.jpg/1280px-Hanoi_St_Joseph%27s_cathedral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Hanoi_sjc.jpg/1280px-Hanoi_sjc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/St_Joseph_Cathedral_Hanoi.jpg/1280px-St_Joseph_Cathedral_Hanoi.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=St%20Joseph%20Cathedral%2C%20Hanoi",
+      "mapsQuery": "St Joseph Cathedral, Hanoi"
+    },
+    {
+      "id": "pottery-class-hang-gai",
+      "name": "Pottery class — Authentic Bát Tràng (115 Hàng Gai)",
+      "shortDescription": "Hands-on wheel and clay with Bat Trang artisans right in the Old Quarter — no village commute needed.",
+      "whyKids": "Perfect interactive fit for 8/9/12 (ages 6+); parents join too. Firing takes 2–3 days — book early in the stay or arrange shipping.",
+      "reviewSummary": "Klook 5.0/5 · ~72 reviews; Viator family reviews praise patient teachers and private-feel sessions.",
+      "distanceFromHotel": "10–15 min walk",
+      "duration": "~3 hrs",
+      "effort": "walk",
+      "combos": [
+        "rainy-day hero",
+        "pairs with Old Quarter wander same day",
+        "alternative to half-day Bat Trang village"
+      ],
+      "priceFamilyEst": {
+        "vnd": 4550000,
+        "usd": 175,
+        "note": "estimate ~US$35/person × 5 from operator site (~4.55M VND); one piece included, extras ~US$5 — verify Klook/Viator live"
+      },
+      "booking": {
+        "needed": true,
+        "how": "WhatsApp/Zalo +84 964 800 919 · authenticbattrang.vn · Klook/Viator",
+        "url": "https://www.authenticbattrang.vn/pottery-class-hanoi-kids-families.html"
+      },
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Bat-Trang-Ceramic-Village1.jpg/1280px-Bat-Trang-Ceramic-Village1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": "Wikimedia Commons",
+      "tags": [
+        "must-consider",
+        "kids",
+        "rainy",
+        "culture"
+      ],
+      "closedNotes": "Morning 08:30–11:30 or afternoon 14:00–17:00 slots often listed — confirm. Firing 2–3 days: join Mon if you want Tue pickup, or ship. WA archive also flags Ella food tour + countryside craft half-day as alternatives — avoid booking duplicates.",
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Bat-Trang-Ceramic-Village1.jpg/1280px-Bat-Trang-Ceramic-Village1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Bat-Trang-Ceramic-Village16.jpg/1280px-Bat-Trang-Ceramic-Village16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Bat-Trang-Ceramic-Village2.jpg/1280px-Bat-Trang-Ceramic-Village2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Bat-Trang-Ceramic-Village3.jpg/1280px-Bat-Trang-Ceramic-Village3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Bat-Trang-Ceramic-Village4.jpg/1280px-Bat-Trang-Ceramic-Village4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Pottery_wheel.jpg/1280px-Pottery_wheel.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=115%20Hang%20Gai%2C%20Hanoi",
+      "mapsQuery": "115 Hang Gai, Hanoi",
+      "sources": [
+        "WhatsApp Vietnam archive via Travel Agent 2026-09-21"
+      ]
+    },
+    {
+      "id": "bat-trang-pottery-village",
+      "name": "Bát Tràng Pottery Village (half-day)",
+      "shortDescription": "Working ceramic village ~30–45 min from Old Quarter — mold clay, browse market stalls, lunch nearby.",
+      "whyKids": "Beyond Vietnam half-day favorite; real workshops beat a classroom for tactile kids — burns a half day of scarce city time.",
+      "reviewSummary": "Strong family recommendation for hands-on ceramics; village entry free (Hanoi Locals).",
+      "distanceFromHotel": "Grab / private car ~30–45 min each way",
+      "duration": "half day (3–5 hrs on site + transport)",
+      "effort": "half-day tour",
+      "combos": [
+        "swap for Old Quarter pottery class if you want to save transport time",
+        "only if Tue energy is high after Ethnology/HCM"
+      ],
+      "priceFamilyEst": {
+        "vnd": 800000,
+        "usd": 31,
+        "note": "village entry free; estimate Grab car tens–hundreds of thousands VND round-trip for family of 5 + workshop fees unknown — check Klook/GYG Bat Trang tours for packaged prices"
+      },
+      "booking": {
+        "needed": false,
+        "how": "DIY Grab + on-site workshop, or book half-day pottery tour on Klook/GYG/Viator",
+        "url": "https://www.beyond-vietnam.com/post/things-to-do-in-hanoi-with-kids-a-local-s-honest-guide"
+      },
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/X%C3%A3_B%C3%A1t_Tr%C3%A0ng%E3%80%81%E9%89%A2%E5%A1%B2%E7%A4%BE_%E3%83%90%E3%83%81%E3%83%A3%E3%83%B3%E6%9D%91_DSCF2654.JPG/1280px-X%C3%A3_B%C3%A1t_Tr%C3%A0ng%E3%80%81%E9%89%A2%E5%A1%B2%E7%A4%BE_%E3%83%90%E3%83%81%E3%83%A3%E3%83%B3%E6%9D%91_DSCF2654.JPG",
+      "imageCredit": "Wikimedia",
+      "tags": [
+        "kids",
+        "culture",
+        "outdoor"
+      ],
+      "closedNotes": "Only realistic ‘day-trip-ish’ option for this 2-night stay — skip Perfume Pagoda / Ba Vì. WA archive also flags Ella food tour + countryside craft half-day as alternatives — avoid booking duplicates.",
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/X%C3%A3_B%C3%A1t_Tr%C3%A0ng%E3%80%81%E9%89%A2%E5%A1%B2%E7%A4%BE_%E3%83%90%E3%83%81%E3%83%A3%E3%83%B3%E6%9D%91_DSCF2654.JPG/1280px-X%C3%A3_B%C3%A1t_Tr%C3%A0ng%E3%80%81%E9%89%A2%E5%A1%B2%E7%A4%BE_%E3%83%90%E3%83%81%E3%83%A3%E3%83%B3%E6%9D%91_DSCF2654.JPG",
+          "credit": "Wikimedia"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Bat-Trang-Ceramic-Village1.jpg/1280px-Bat-Trang-Ceramic-Village1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Bat-Trang-Ceramic-Village16.jpg/1280px-Bat-Trang-Ceramic-Village16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/B%C3%A1t_Tr%C3%A0ng%2C_t%C6%B0%E1%BB%9Dng_than.JPG/1280px-B%C3%A1t_Tr%C3%A0ng%2C_t%C6%B0%E1%BB%9Dng_than.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/B%C3%A1t_Tr%C3%A0ng_DSC_0091.JPG/1280px-B%C3%A1t_Tr%C3%A0ng_DSC_0091.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bat_Trang_pottery_village.jpg/1280px-Bat_Trang_pottery_village.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bat%20Trang%20Pottery%20Village%2C%20Hanoi",
+      "mapsQuery": "Bat Trang Pottery Village, Hanoi",
+      "sources": [
+        "WhatsApp Vietnam archive via Travel Agent 2026-09-21"
+      ]
+    },
+    {
+      "id": "kidzania-hanoi",
+      "name": "KidZania Hà Nội (Lotte Mall West Lake)",
+      "shortDescription": "Indoor role-play mini-city (ages 4–15) with 40+ jobs — top rainy-day / pure-kid-joy option away from Old Quarter culture.",
+      "whyKids": "Age band 4–15 matches 8/9/12 perfectly; half-day easily. Weekday (Mon/Tue) is cheaper and quieter.",
+      "reviewSummary": "Official family attraction; Hebrew/English guides list indoor mall days as jet-lag/rain insurance.",
+      "distanceFromHotel": "Grab ~25–40 min (5th floor, Lotte Mall West Lake)",
+      "duration": "half day (4-hour ticket base)",
+      "effort": "Grab",
+      "combos": [
+        "rainy-day top pick",
+        "alternative to VinKE/aquarium — pick one indoor half-day, not both"
+      ],
+      "priceFamilyEst": {
+        "vnd": 970000,
+        "usd": 37,
+        "note": "estimate weekday: child 290k × 3 + adult entry 50k × 2 = 970k (official from Jan 5 2026); weekend/holiday child 350k — online often 10% off"
+      },
+      "booking": {
+        "needed": true,
+        "how": "kidzania.com.vn / KKday / counter — adult entry ticket required with kids",
+        "url": "https://kidzania.com.vn/en/individual/"
+      },
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/KidZania_Tokyo.jpg/1280px-KidZania_Tokyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": "Wikimedia Commons",
+      "tags": [
+        "must-consider",
+        "kids",
+        "rainy"
+      ],
+      "closedNotes": "Mon–Fri 09:00–20:00; weekends 10:00–20:00 (official). Your dates are Mon–Tue weekdays — good pricing.",
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/KidZania_Tokyo.jpg/1280px-KidZania_Tokyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/KidZania_Tokyo_Airplane.jpg/1280px-KidZania_Tokyo_Airplane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/KidZania_Tokyo_Softcream_Shop.jpg/1280px-KidZania_Tokyo_Softcream_Shop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/KidZania_Tokyo_Space_Show.jpg/1280px-KidZania_Tokyo_Space_Show.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/KidZania_Tokyo_Theater.jpg/1280px-KidZania_Tokyo_Theater.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hang_Ma_Street_Hanoi.jpg/1280px-Hang_Ma_Street_Hanoi.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=KidZania%20Hanoi%2C%20Lotte%20Mall%20West%20Lake",
+      "mapsQuery": "KidZania Hanoi, Lotte Mall West Lake"
+    },
+    {
+      "id": "vinke-vinpearl-aquarium",
+      "name": "VinKE & Vinpearl Aquarium (Times City / Royal City area)",
+      "shortDescription": "Indoor aquarium + play combo with mermaid shows — strong rainy-day mall half-day for school-age kids.",
+      "whyKids": "Aquarium wow + play zone; Hebrew guides mention aquarium/mall indoor days. Combo ticket saves vs separate.",
+      "reviewSummary": "Popular Klook bookable indoor combo; solid rain insurance when Old Quarter museums feel like too much culture.",
+      "distanceFromHotel": "Grab ~20–35 min (Minh Khai / Times City area)",
+      "duration": "2–4 hrs",
+      "effort": "Grab",
+      "combos": [
+        "rainy-day alternative to KidZania",
+        "pick ONE big indoor half-day"
+      ],
+      "priceFamilyEst": {
+        "vnd": 1360000,
+        "usd": 52,
+        "note": "estimate Mon–Fri combo: >140cm 320k × 2 adults + 80–140cm 240k × 3 kids = 1.36M (VinWonders); weekend higher — verify heights & Klook deals"
+      },
+      "booking": {
+        "needed": true,
+        "how": "Klook / venue ticket counters",
+        "url": "https://www.klook.com/en-US/activity/96286-vinke-vinpearl-aquarium-ha-noi-ticket/"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/AP1521-Sogny-Marien_Annam%2C_Nha_Trang%2C_1933_%E2%80%93_Institut_Oc%C3%A9anographique_%E2%80%93_Visite_royale_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": "Wikimedia Commons",
+      "tags": [
+        "kids",
+        "rainy"
+      ],
+      "closedNotes": "Weekday rates apply Mon 14 / Tue 15 — confirm live hours.",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/AP1521-Sogny-Marien_Annam%2C_Nha_Trang%2C_1933_%E2%80%93_Institut_Oc%C3%A9anographique_%E2%80%93_Visite_royale_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Aquarium_fish.jpg/1280px-Aquarium_fish.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vinpearl%20Aquarium%20Times%20City%2C%20Hanoi",
+      "mapsQuery": "Vinpearl Aquarium Times City, Hanoi"
+    },
+    {
+      "id": "street-food-tasting",
+      "name": "Family street-food tasting (DIY or short tour)",
+      "shortDescription": "Stools, steam, and watching food made — the highest memory density of a Hanoi stay for many families.",
+      "whyKids": "Ages 8–12 often remember the theater of cooking more than temples; start mild (pho, spring rolls, ice cream) for fussy eaters.",
+      "reviewSummary": "Beyond Vietnam & Hebrew guides push food as core Hanoi; DIY or book a family food walk.",
+      "distanceFromHotel": "Old Quarter walk",
+      "duration": "2–4 hrs if tour; shorter DIY hops",
+      "effort": "walk",
+      "combos": [
+        "pairs with Old Quarter wander",
+        "same evening as water puppets",
+        "egg coffee dessert stop"
+      ],
+      "priceFamilyEst": {
+        "vnd": 750000,
+        "usd": 29,
+        "note": "DIY estimate ~30–80k VND/person/stop × a few stops; guided family tours often tens of USD/person — check Klook/GYG/Beyond Vietnam live"
+      },
+      "booking": {
+        "needed": false,
+        "how": "DIY walk-up, or book family food tour (Beyond Vietnam WhatsApp +84 969 655 521; Klook/GYG)",
+        "url": "https://www.beyond-vietnam.com/post/things-to-do-in-hanoi-with-kids-a-local-s-honest-guide"
+      },
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Hanoi_Street_Food_%2895655835%29.jpeg/1280px-Hanoi_Street_Food_%2895655835%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": "Wikimedia Commons",
+      "tags": [
+        "must-consider",
+        "food",
+        "kids"
+      ],
+      "closedNotes": "WA archive also flags Ella food tour + countryside craft half-day as alternatives — avoid booking duplicates.",
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Hanoi_Street_Food_%2895655835%29.jpeg/1280px-Hanoi_Street_Food_%2895655835%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Hanoi_Vietnam_Street-vendors-in-Hanoi-03.jpg/1280px-Hanoi_Vietnam_Street-vendors-in-Hanoi-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Hanoi_Vietnam_Street-vendors-in-Hanoi-04.jpg/1280px-Hanoi_Vietnam_Street-vendors-in-Hanoi-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Hanoi_beer_and_fried_noodles_in_Vietnam_in_a_street_food_cafe.jpg/1280px-Hanoi_beer_and_fried_noodles_in_Vietnam_in_a_street_food_cafe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Street_Food_-_Hanoi_-_Vietnam_%2815852884012%29.jpg/1280px-Street_Food_-_Hanoi_-_Vietnam_%2815852884012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pho_bo.jpg/1280px-Pho_bo.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hanoi%20Old%20Quarter%20street%20food",
+      "mapsQuery": "Hanoi Old Quarter street food",
+      "sources": [
+        "WhatsApp Vietnam archive via Travel Agent 2026-09-21"
+      ]
+    },
+    {
+      "id": "egg-coffee",
+      "name": "Egg coffee tasting (cà phê trứng)",
+      "shortDescription": "Hanoi’s signature sweet whipped-egg coffee — rich, shareable, and a perfect café pause near the lake.",
+      "whyKids": "12yo may love it; younger kids can share a cup or order hot chocolate nearby. Order one to share first.",
+      "reviewSummary": "Strolling Adventures and nearly every Hanoi food list call it a must-try ritual.",
+      "distanceFromHotel": "walk (many Old Quarter / lake cafés)",
+      "duration": "30–60 min",
+      "effort": "walk",
+      "combos": [
+        "same stroll as St. Joseph’s / Nha Chung",
+        "pairs with lake loop",
+        "dessert after street food"
+      ],
+      "priceFamilyEst": {
+        "vnd": 150000,
+        "usd": 6,
+        "note": "estimate 40–70k VND/cup × ~2–3 shared cups — verify café menus (Café Giang etc.)"
+      },
+      "booking": {
+        "needed": false,
+        "how": "walk-in; weekend queues (you’re Mon–Tue)",
+        "url": "https://strollingadventures.com/3-day-hanoi-itinerary-with-kids/"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Egg_coffee.jpg/1280px-Egg_coffee.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "tags": [
+        "food",
+        "kids",
+        "evening"
+      ],
+      "closedNotes": null,
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Egg_coffee.jpg/1280px-Egg_coffee.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cafe_Gi Giang.jpg/1280px-Cafe_Gi Giang.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cafe%20Giang%20egg%20coffee%2C%20Hanoi",
+      "mapsQuery": "Cafe Giang egg coffee, Hanoi"
+    },
+    {
+      "id": "cooking-class",
+      "name": "Family Vietnamese cooking class (half-day)",
+      "shortDescription": "Market visit + hands-on spring rolls / pho / bun cha — interactive, rainy-day friendly, and delicious.",
+      "whyKids": "Kids cook and eat what they make; many operators welcome ages ~5–9 at child rates. Half-day commitment.",
+      "reviewSummary": "Klook/Viator/Cookly classes routinely 4.8–5.0; Fiesta HE mentions cooking-class options for families.",
+      "distanceFromHotel": "hotel pickup or central kitchen — depends on operator",
+      "duration": "2–4 hrs",
+      "effort": "half-day tour",
+      "combos": [
+        "rainy-day alternative to pottery",
+        "pairs with lighter Old Quarter evening"
+      ],
+      "priceFamilyEst": {
+        "vnd": 3770000,
+        "usd": 145,
+        "note": "estimate ~US$29–40/adult; child rates often ~US$20–29 (e.g. Rose Kitchen ~$29.50 adult on Klook; Cookly examples) — ~$145 ballpark for 2A+3K, verify live product"
+      },
+      "booking": {
+        "needed": true,
+        "how": "Klook / GetYourGuide / Viator / Cookly (Rose Kitchen, Maya, Apron Up, etc.)",
+        "url": "https://www.klook.com/en-AE/activity/162746-cooking-class-in-hanoi-bun-cha-pho-spring-rolls-by-rose-kitchen/"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pho_bo.jpg/1280px-Pho_bo.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "tags": [
+        "food",
+        "kids",
+        "rainy"
+      ],
+      "closedNotes": "Book Dec 14–15 availability early; check min ages per kitchen.",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pho_bo.jpg/1280px-Pho_bo.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Vietnamese_spring_rolls.jpg/1280px-Vietnamese_spring_rolls.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hanoi%20cooking%20class",
+      "mapsQuery": "Hanoi cooking class"
+    },
+    {
+      "id": "dong-xuan-market",
+      "name": "Đồng Xuân Market",
+      "shortDescription": "Hanoi’s biggest covered market — snacks, souvenirs, and sensory overload in short, supervised bursts.",
+      "whyKids": "Energy and snacks; can overwhelm — keep visits short with an exit plan.",
+      "reviewSummary": "Listed on Fiesta HE and classic Old Quarter itineraries; free entry.",
+      "distanceFromHotel": "15–25 min walk north in Old Quarter",
+      "duration": "45–90 min",
+      "effort": "walk",
+      "combos": [
+        "pairs with Old Quarter wander",
+        "near night-market area (limited Mon/Tue)"
+      ],
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "free entry; goods negotiable"
+      },
+      "booking": {
+        "needed": false,
+        "how": "free",
+        "url": "https://fiesta.co.il/hanoi-with-kids/"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/%C4%90%E1%BB%93ng_Xu%C3%A2n_Market.jpg",
+      "imageCredit": "Wikimedia",
+      "tags": [
+        "food",
+        "kids",
+        "culture"
+      ],
+      "closedNotes": "Fiesta cites hours ~06:00–19:00 — confirm. Weekend night market peak is NOT your Mon–Tue nights.",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/%C4%90%E1%BB%93ng_Xu%C3%A2n_Market.jpg",
+          "credit": "Wikimedia"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dong_Xuan_Market.jpg/1280px-Dong_Xuan_Market.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hang_Ma_Street_Hanoi.jpg/1280px-Hang_Ma_Street_Hanoi.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dong%20Xuan%20Market%2C%20Hanoi",
+      "mapsQuery": "Dong Xuan Market, Hanoi"
+    },
+    {
+      "id": "trang-tien-ice-cream",
+      "name": "Tràng Tiền ice cream (Kem Tràng Tiền)",
+      "shortDescription": "Cheap iconic ice cream near the French Quarter / lake — the classic jet-lag treat stop.",
+      "whyKids": "Universal kid win; easy combo after lake or cathedral without planning.",
+      "reviewSummary": "Mentioned across Strolling Adventures and kids-activity blogs as a must snack.",
+      "distanceFromHotel": "10–20 min walk toward Tràng Tiền / Opera House",
+      "duration": "20–40 min",
+      "effort": "walk",
+      "combos": [
+        "after Hoàn Kiếm / Ngọc Sơn",
+        "same stroll as St. Joseph’s",
+        "arrival-day reset"
+      ],
+      "priceFamilyEst": {
+        "vnd": 100000,
+        "usd": 4,
+        "note": "estimate a few tens of thousands VND for family — verify at shop"
+      },
+      "booking": {
+        "needed": false,
+        "how": "walk-up",
+        "url": "https://strollingadventures.com/3-day-hanoi-itinerary-with-kids/"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ice_cream_cone.jpg/1280px-Ice_cream_cone.jpg",
+      "imageCredit": "Wikimedia Commons",
+      "tags": [
+        "food",
+        "kids"
+      ],
+      "closedNotes": null,
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ice_cream_cone.jpg/1280px-Ice_cream_cone.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kem%20Trang%20Tien%2C%20Hanoi",
+      "mapsQuery": "Kem Trang Tien, Hanoi"
+    },
+    {
+      "id": "cyclo-ride",
+      "name": "Short cyclo ride (lake / Old Quarter)",
+      "shortDescription": "Pedal-rickshaw novelty through lake or Old Quarter streets — keep it short for traffic and cool Dec air.",
+      "whyKids": "Fun transport novelty for 8–12; agree price/route first via hotel — not a long sightseeing tour.",
+      "reviewSummary": "TravelToWith family tables list ~30 min cyclo as a budget family add-on.",
+      "distanceFromHotel": "arrange near lake / hotel",
+      "duration": "20–40 min",
+      "effort": "walk",
+      "combos": [
+        "same afternoon as lake loop",
+        "arrival-day light activity"
+      ],
+      "priceFamilyEst": {
+        "vnd": 200000,
+        "usd": 8,
+        "note": "estimate ~200,000 VND for a short family ride (TravelToWith) — haggle/confirm; hotel can help"
+      },
+      "booking": {
+        "needed": false,
+        "how": "negotiate via hotel or lakeside; agree price/route first",
+        "url": "https://www.traveltowith.com/en/vietnam/hanoi/attraction/detail/hoan-kiem-lake/family-with-kids"
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/B%E1%BA%A3n_thi%E1%BA%BFt_k%E1%BA%BF_m%E1%BA%ABu_xe_x%C3%ADch_l%C3%B4_k%C3%A8m_theo_%C4%91%E1%BB%81_ngh%E1%BB%8B_c%E1%BA%A5p_ph%C3%A9p_l%C6%B0u_th%C3%B4ng_xe_c%E1%BB%A7a_%C3%B4ng_Nguy%E1%BB%85n_C%C3%A1t_T%C6%B0%E1%BB%9Dng_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageCredit": "Wikimedia Commons",
+      "tags": [
+        "kids",
+        "outdoor"
+      ],
+      "closedNotes": "Hotel advises caution with random cyclo/motorbike taxis for airport — use hotel-arranged short rides only.",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/B%E1%BA%A3n_thi%E1%BA%BFt_k%E1%BA%BF_m%E1%BA%ABu_xe_x%C3%ADch_l%C3%B4_k%C3%A8m_theo_%C4%91%E1%BB%81_ngh%E1%BB%8B_c%E1%BA%A5p_ph%C3%A9p_l%C6%B0u_th%C3%B4ng_xe_c%E1%BB%A7a_%C3%B4ng_Nguy%E1%BB%85n_C%C3%A1t_T%C6%B0%E1%BB%9Dng_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/B%E1%BA%A3n_thi%E1%BA%BFt_k%E1%BA%BF_m%E1%BA%ABu_xe_x%C3%ADch_l%C3%B4_k%C3%A8m_theo_%C4%91%E1%BB%81_ngh%E1%BB%8B_c%E1%BA%A5p_ph%C3%A9p_l%C6%B0u_th%C3%B4ng_xe_c%E1%BB%A7a_%C3%B4ng_Nguy%E1%BB%85n_C%C3%A1t_T%C6%B0%E1%BB%9Dng_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/M%E1%BA%ABu_thi%E1%BA%BFt_k%E1%BA%BF_xe_x%C3%ADch_l%C3%B4_g%E1%BB%ADi_k%C3%A8m_theo_%C4%91%C6%A1n_xin_l%C6%B0u_th%C3%B4ng_xe_c%E1%BB%A7a_nh%C3%A0_th%E1%BA%A7u_Nguy%E1%BB%85n_Vi%E1%BB%87t_Thanh_ng%C3%A0y_20_th%C3%A1ng_4_n%C4%83m_1936.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Ngh%E1%BB%8B_%C4%91%E1%BB%8Bnh_s%E1%BB%91_276_ng%C3%A0y_30_th%C3%A1ng_6_n%C4%83m_1942_c%E1%BB%A7a_%C4%90%E1%BB%91c_l%C3%AD_H%C3%A0_N%E1%BB%99i_v%E1%BB%81_vi%E1%BB%87c_c%E1%BA%A5p_ph%C3%A9p_cho_Nguy%E1%BB%85n_C%C3%A1t_T%C6%B0%E1%BB%9Dng_l%C6%B0u_th%C3%B4ng_15_chi%E1%BA%BFc_xe_x%C3%ADch_l%C3%B4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Th%C6%B0_c%E1%BB%A7a_c%C3%B4ng_ti_OMIC_g%E1%BB%ADi_%C4%90%E1%BB%91c_l%C3%AD_H%C3%A0_N%E1%BB%99i_xin_ph%C3%A9p_cho_l%C6%B0u_th%C3%B4ng_33_chi%E1%BA%BFc_x%C3%ADch_l%C3%B4_thay_cho_33_chi%E1%BA%BFc_xe_k%C3%A9o_h%E1%BA%A1ng_sang_%C4%91%C3%A3_%C4%91%C6%B0%E1%BB%A3c_c%E1%BA%A5p_ph%C3%A9p.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Cyclo_in_Hanoi.jpg/1280px-Cyclo_in_Hanoi.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoan%20Kiem%20Lake%2C%20Hanoi",
+      "mapsQuery": "Hoan Kiem Lake, Hanoi"
+    },
+    {
+      "id": "hotel-pool",
+      "name": "Hotel pool / waterslide downtime (La Siesta Hang Thung)",
+      "shortDescription": "Built-in family reset between sightseeing — pool amenities noted on Tripadvisor listings.",
+      "whyKids": "Jet-lag and sensory-overload valve without leaving the hotel; free with stay (confirm guest rules/hours).",
+      "reviewSummary": "La Siesta Classic Hang Thung Tripadvisor ~5.0/5 · ~2,080 reviews; family amenities incl. pool.",
+      "distanceFromHotel": "on-site",
+      "duration": "30–90 min",
+      "effort": "walk",
+      "combos": [
+        "arrival Mon afternoon",
+        "between big Grab outings",
+        "pre-dinner wind-down"
+      ],
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "included with stay — confirm guest pool rules/hours"
+      },
+      "booking": {
+        "needed": false,
+        "how": "guest use — ask front desk for hours",
+        "url": "https://lasiestahotels.com/hangthung/"
+      },
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Rudolph.A.Furtado_at_%27Thien_Trung_Hotel%27_pool_in_Hoi_An..JPG/1280px-Rudolph.A.Furtado_at_%27Thien_Trung_Hotel%27_pool_in_Hoi_An..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageCredit": "Wikimedia Commons",
+      "tags": [
+        "kids",
+        "rainy",
+        "must-consider"
+      ],
+      "closedNotes": null,
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Rudolph.A.Furtado_at_%27Thien_Trung_Hotel%27_pool_in_Hoi_An..JPG/1280px-Rudolph.A.Furtado_at_%27Thien_Trung_Hotel%27_pool_in_Hoi_An..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Swimming_Pool_at_Flamingo_Cat_Ba_Resort.jpg/1280px-Swimming_Pool_at_Flamingo_Cat_Ba_Resort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/DGJ_0721_-_Pool_at_the_Resort%2C_Da_Nang%2C_Viet_Nam_%283382626443%29.jpg/1280px-DGJ_0721_-_Pool_at_the_Resort%2C_Da_Nang%2C_Viet_Nam_%283382626443%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Furama_Resort_Da_Nang_pool.jpg/1280px-Furama_Resort_Da_Nang_pool.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/InterContinental-Danang-Sun-Peninsula-Resort-2026-05-03-5.jpg/1280px-InterContinental-Danang-Sun-Peninsula-Resort-2026-05-03-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hotel_swimming_pool.jpg/1280px-Hotel_swimming_pool.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Siesta%20Classic%20Hang%20Thung%2C%20Hanoi",
+      "mapsQuery": "La Siesta Classic Hang Thung, Hanoi"
+    },
+    {
+      "id": "hoan-kiem-evening-stroll",
+      "name": "Hoàn Kiếm Lake evening stroll",
+      "shortDescription": "Weeknight lake lights, food stalls, and street performers — calmer than weekend Walking Street but still lively.",
+      "whyKids": "Low-effort evening for jet-lagged kids; free and right outside the Old Quarter hotel zone.",
+      "reviewSummary": "Family guides recommend weekday lake evenings when Walking Street isn’t running.",
+      "distanceFromHotel": "walk from hotel",
+      "duration": "1–2 hrs after dinner",
+      "effort": "walk",
+      "combos": [
+        "after water puppet show",
+        "same evening as egg coffee / ice cream"
+      ],
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "free (+ snacks)"
+      },
+      "booking": {
+        "needed": false,
+        "how": "free",
+        "url": "https://www.beyond-vietnam.com/post/things-to-do-in-hanoi-with-kids-a-local-s-honest-guide"
+      },
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/The_Huc_Bridge.jpg/1280px-The_Huc_Bridge.jpg",
+      "imageCredit": "Wikimedia",
+      "tags": [
+        "evening",
+        "kids",
+        "outdoor",
+        "food"
+      ],
+      "closedNotes": "Weekend Walking Street / peak night market are Fri–Sun — NOT available Mon 14 / Tue 15 nights.",
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/The_Huc_Bridge.jpg/1280px-The_Huc_Bridge.jpg",
+          "credit": "Wikimedia"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Hanoi_at_night_near_Hoan_Kiem_lake..JPG/1280px-Hanoi_at_night_near_Hoan_Kiem_lake..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Hoan_Kiem_Lake_at_night.jpg/1280px-Hoan_Kiem_Lake_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Hoan_Kiem_Lake_at_night_%287357839694%29.jpg/1280px-Hoan_Kiem_Lake_at_night_%287357839694%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Hoan_Kiem_Lake_at_night_1.jpg/1280px-Hoan_Kiem_Lake_at_night_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hoan_Kiem_Lake_Hanoi.jpg/1280px-Hoan_Kiem_Lake_Hanoi.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoan%20Kiem%20Lake%2C%20Hanoi",
+      "mapsQuery": "Hoan Kiem Lake, Hanoi"
+    },
+    {
+      "id": "train-street",
+      "name": "Train Street (cafés only — with caveats)",
+      "shortDescription": "Narrow trackside cafés where trains still pass — Instagram famous, but access is restricted and waits are unpredictable in 2026.",
+      "whyKids": "12yo may want the thrill; Roaming Crew advises viewing from afar with younger kids. Hold hands, seats only, never stand on tracks.",
+      "reviewSummary": "Still visitable via cafés in 2026 guides (Revitrip), but restricted, tours banned in places, and safety optics with kids are poor.",
+      "distanceFromHotel": "walk/Grab to Phùng Hưng or Lê Duẩn sections",
+      "duration": "1–2 hrs including wait",
+      "effort": "walk",
+      "combos": [
+        "low-priority optional add-on only — not a must",
+        "skip if Mon jet lag is real"
+      ],
+      "priceFamilyEst": {
+        "vnd": 300000,
+        "usd": 12,
+        "note": "street free via café culture; estimate drinks ~50–80k VND each (Revitrip) — ~300k for a few drinks"
+      },
+      "booking": {
+        "needed": false,
+        "how": "café seat; drink purchase often required — check same-day access with hotel/café",
+        "url": "https://revitrip.com/hanoi-train-street-guide/"
+      },
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Train_street_in_Hanoi.jpg/1280px-Train_street_in_Hanoi.jpg",
+      "imageCredit": "Wikimedia",
+      "tags": [
+        "outdoor",
+        "kids"
+      ],
+      "closedNotes": "OPTIONAL / LOW PRIORITY. Access restricted to café seating; trains infrequent; Phùng Hưng section may be blocked. Supervise constantly. Skip toddlers/strollers.",
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Train_street_in_Hanoi.jpg/1280px-Train_street_in_Hanoi.jpg",
+          "credit": "Wikimedia"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Hanoi_Train_%2846226643731%29.jpg/1280px-Hanoi_Train_%2846226643731%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Hanoi_Train_Street_%2820250208%29.jpg/1280px-Hanoi_Train_Street_%2820250208%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Hanoi_Train_Street_%2851955804948%29.jpg/1280px-Hanoi_Train_Street_%2851955804948%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Hanoi_train_street_-_NKS.jpg/1280px-Hanoi_train_street_-_NKS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hanoi_Train_Street.jpg/1280px-Hanoi_Train_Street.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hanoi%20Train%20Street",
+      "mapsQuery": "Hanoi Train Street"
+    },
+    {
+      "id": "truc-bach-lake",
+      "name": "Trúc Bạch Lake pedal boats / lakeside play",
+      "shortDescription": "Cooler Dec weather suits outdoor pedaling and lakeside play gear near West Lake / Trần Quốc.",
+      "whyKids": "Strolling Adventures kids played exercise equipment here; supervise water. Good nature break without a full day trip.",
+      "reviewSummary": "Listed in kids-activity blogs as a soft outdoor half-outing.",
+      "distanceFromHotel": "Grab ~15–25 min",
+      "duration": "1–2 hrs",
+      "effort": "Grab",
+      "combos": [
+        "combine with Trần Quốc Pagoda stroll",
+        "alternative outdoor break to hotel pool"
+      ],
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "pedal-boat rental price unknown — check on-site; lakeside walk free"
+      },
+      "booking": {
+        "needed": false,
+        "how": "on-site rental",
+        "url": "https://strollingadventures.com/3-day-hanoi-itinerary-with-kids/"
+      },
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Truc_bach_lake_hanoi_2007_01.jpg/1280px-Truc_bach_lake_hanoi_2007_01.jpg",
+      "imageCredit": "Wikimedia",
+      "tags": [
+        "kids",
+        "outdoor"
+      ],
+      "closedNotes": null,
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Truc_bach_lake_hanoi_2007_01.jpg/1280px-Truc_bach_lake_hanoi_2007_01.jpg",
+          "credit": "Wikimedia"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/John_McCain_shot_down%2C_Truc_Bach_lake%2C_Hanoi_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Truc_Bach_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Truc_Bach_Lake_%288120868410%29.jpg/1280px-Truc_Bach_Lake_%288120868410%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Truc_Bach_Lake_1.jpg/1280px-Truc_Bach_Lake_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Truc_Bach_Lake.jpg/1280px-Truc_Bach_Lake.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Truc%20Bach%20Lake%2C%20Hanoi",
+      "mapsQuery": "Truc Bach Lake, Hanoi"
+    },
+    {
+      "id": "ella-hanoi-food-tour",
+      "name": "Ella Hanoi food tour (family)",
+      "shortDescription": "Guided street-food walk often praised in Hebrew/WA family groups — tasting stops without DIY navigation stress.",
+      "whyKids": "Kids 8–12 usually enjoy watching food made and trying small portions; easier than herding five people through alleys alone.",
+      "reviewSummary": "Mentioned positively in Vietnam WhatsApp family archive (Sep 2026 scan) as family-friendly. Cross-check live Tripadvisor/Google reviews before booking.",
+      "distanceFromHotel": "Usually Old Quarter pickup / walk from La Siesta Hang Thung area",
+      "duration": "~2–3.5 hrs (confirm with Ella)",
+      "effort": "walk",
+      "combos": [
+        "Pairs with evening lake + water puppets",
+        "Skip DIY food crawl if you book this"
+      ],
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "Price unknown — ask Ella / check current listing; estimate often tens of USD per adult"
+      },
+      "booking": {
+        "needed": true,
+        "how": "Book via Ella Hanoi (WhatsApp/Instagram/tour page — verify current contact)",
+        "url": null
+      },
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hanoi%20Old%20Quarter%20food%20tour",
+      "mapsQuery": "Hanoi Old Quarter food tour",
+      "imageUrl": null,
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pho_bo.jpg/1280px-Pho_bo.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hang_Ma_Street_Hanoi.jpg/1280px-Hang_Ma_Street_Hanoi.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "tags": [
+        "food",
+        "must-consider",
+        "kids"
+      ],
+      "closedNotes": "WA tip only names the operator — confirm Dec 14–15 availability & kid pricing yourself.",
+      "sources": [
+        "WhatsApp Vietnam archive via Travel Agent 2026-09-21"
+      ]
+    },
+    {
+      "id": "hanoi-craft-village-halfday",
+      "name": "Countryside craft villages half-day (ceramics / incense / conical hat)",
+      "shortDescription": "~4–5 hr countryside circuit with hands-on workshops (ceramics, incense, conical hat) — Bat Trang–adjacent style day for kids.",
+      "whyKids": "Making something beats looking-only museums for 8/9/12; moves between short stops.",
+      "reviewSummary": "Recommended in Vietnam WhatsApp family archive (Sep 2026). Overlaps with Bát Tràng pottery village — pick ONE pottery/craft outing, not both.",
+      "distanceFromHotel": "Private car / tour pickup from hotel · half-day out of Old Quarter",
+      "duration": "~4–5 hrs",
+      "effort": "half-day tour",
+      "combos": [
+        "OR Bát Tràng pottery village / Hang Gai class — do not stack",
+        "Best on Tue 15 if energy is high"
+      ],
+      "priceFamilyEst": {
+        "vnd": 0,
+        "usd": 0,
+        "note": "Tour price unknown — get quote for family of 5; transport usually included in private tour"
+      },
+      "booking": {
+        "needed": true,
+        "how": "Private driver/tour desk or Klook “Hanoi craft village” style tours — compare inclusions",
+        "url": null
+      },
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bat%20Trang%20Pottery%20Village%2C%20Hanoi",
+      "mapsQuery": "Bat Trang Pottery Village, Hanoi",
+      "imageUrl": null,
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bat_Trang_pottery_village.jpg/1280px-Bat_Trang_pottery_village.jpg",
+          "credit": "Wikimedia Commons"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Pottery_wheel.jpg/1280px-Pottery_wheel.jpg",
+          "credit": "Wikimedia Commons"
+        }
+      ],
+      "tags": [
+        "kids",
+        "outdoor",
+        "hands-on"
+      ],
+      "closedNotes": "Burns scarce 2-night time. Prefer over Perfume Pagoda / Ba Vì.",
+      "sources": [
+        "WhatsApp Vietnam archive via Travel Agent 2026-09-21"
+      ]
+    }
+  ]
+}
