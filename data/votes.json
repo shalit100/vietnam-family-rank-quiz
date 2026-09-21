@@ -53,9 +53,13 @@
       "hanoi::kidzania-hanoi": {
         "rank": "possible",
         "at": "2026-09-21T09:14:22.225Z"
+      },
+      "hanoi::vinke-vinpearl-aquarium": {
+        "rank": "possible",
+        "at": "2026-09-21T09:14:44.541Z"
       }
     },
     "keren": {}
   },
-  "updatedAt": "2026-09-21T09:14:22.225Z"
+  "updatedAt": "2026-09-21T09:14:44.541Z"
 }
