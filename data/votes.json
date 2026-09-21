@@ -317,6 +317,10 @@
       "phu-quoc::sunset-town": {
         "rank": "possible",
         "at": "2026-09-21T09:40:01.388Z"
+      },
+      "phu-quoc::nye-sunset-town-fireworks": {
+        "rank": "must",
+        "at": "2026-09-21T09:40:06.454Z"
       }
     },
     "keren": {
@@ -490,5 +494,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:40:01.388Z"
+  "updatedAt": "2026-09-21T09:40:06.454Z"
 }
