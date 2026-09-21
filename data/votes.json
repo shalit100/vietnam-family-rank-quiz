@@ -217,6 +217,10 @@
       "hoi-an::teh-dar-bamboo-circus": {
         "rank": "possible",
         "at": "2026-09-21T09:35:33.084Z"
+      },
+      "hoi-an::hoi-an-memories-show": {
+        "rank": "possible",
+        "at": "2026-09-21T09:35:40.521Z"
       }
     },
     "keren": {
@@ -390,5 +394,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:35:33.084Z"
+  "updatedAt": "2026-09-21T09:35:40.521Z"
 }
