@@ -61,9 +61,13 @@
       "hanoi::street-food-tasting": {
         "rank": "must",
         "at": "2026-09-21T09:15:08.888Z"
+      },
+      "hanoi::egg-coffee": {
+        "rank": "pass",
+        "at": "2026-09-21T09:15:29.339Z"
       }
     },
     "keren": {}
   },
-  "updatedAt": "2026-09-21T09:15:08.888Z"
+  "updatedAt": "2026-09-21T09:15:29.339Z"
 }
