@@ -15,17 +15,17 @@
   "tip": "Only ~1.5–2 activity days: Ba Na full day Sat 26 + Dragon Bridge Fri/Sat (both fire-show nights). Asia Park & Helio market CLOSED/suspended — skip. Mikazuki OR Son Tra as flex half-day.",
   "attractions": [
     {
-      "imageUrl": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Golden_Bridge_at_Ba_Na_Hills_20250718.jpg/1280px-Golden_Bridge_at_Ba_Na_Hills_20250718.jpg",
+      "imageCredit": "Wikimedia Commons — Golden Bridge at Ba Na Hills 20250718.jpg",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Golden_Bridge_at_Ba_Na_Hills_20250718.jpg/1280px-Golden_Bridge_at_Ba_Na_Hills_20250718.jpg",
+          "credit": "Wikimedia Commons — Golden Bridge at Ba Na Hills 20250718.jpg"
         },
         {
-          "url": "https://images.unsplash.com/photo-1528127269322-539801943592?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Golden_Bridge_above_the_clouds_Ba_Na_Hills_Da_Nang_Vietnam.jpg/1280px-Golden_Bridge_above_the_clouds_Ba_Na_Hills_Da_Nang_Vietnam.jpg",
+          "credit": "Wikimedia Commons — Golden Bridge above the clouds Ba Na Hills Da Nang Vietnam.jpg"
         }
       ],
       "combos": [
@@ -60,17 +60,21 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ba%20Na%20Hills%20Golden%20Bridge%2C%20Da%20Nang"
     },
     {
-      "imageUrl": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/C%E1%BA%A7u_R%E1%BB%93ng.jpg/1280px-C%E1%BA%A7u_R%E1%BB%93ng.jpg",
+      "imageCredit": "Wikimedia Commons — Cầu Rồng.jpg",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/C%E1%BA%A7u_R%E1%BB%93ng.jpg/1280px-C%E1%BA%A7u_R%E1%BB%93ng.jpg",
+          "credit": "Wikimedia Commons — Cầu Rồng.jpg"
         },
         {
-          "url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/%C4%90%C3%A0_N%E1%BA%B5ng_Dragon_Bridge.jpg/1280px-%C4%90%C3%A0_N%E1%BA%B5ng_Dragon_Bridge.jpg",
+          "credit": "Wikimedia Commons — Đà Nẵng Dragon Bridge.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Da_Nang_Dragon_Bridge.jpg/1280px-Da_Nang_Dragon_Bridge.jpg",
+          "credit": "Wikimedia Commons — Da Nang Dragon Bridge.jpg"
         }
       ],
       "combos": [
@@ -107,16 +111,12 @@
     },
     {
       "imageUrl": "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageCredit": "Unsplash — indoor/family water park slides (illustrative of Mikazuki Water Park 365)",
       "closedNotes": "",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?w=1280&q=80",
-          "credit": "Unsplash"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1280&q=80",
-          "credit": "Unsplash"
+          "credit": "Unsplash — indoor/family water park slides (illustrative of Mikazuki Water Park 365)"
         }
       ],
       "combos": [
@@ -150,17 +150,13 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mikazuki%20Water%20Park%20Da%20Nang"
     },
     {
-      "imageUrl": "https://images.unsplash.com/photo-1557750255-c76072a7aad1?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Lady_Buddha_Da_Nang.jpg/1280px-Lady_Buddha_Da_Nang.jpg",
+      "imageCredit": "Wikimedia Commons — Lady Buddha Da Nang.jpg",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1557750255-c76072a7aad1?w=1280&q=80",
-          "credit": "Unsplash"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1528127269322-539801943592?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Lady_Buddha_Da_Nang.jpg/1280px-Lady_Buddha_Da_Nang.jpg",
+          "credit": "Wikimedia Commons — Lady Buddha Da Nang.jpg"
         }
       ],
       "combos": [
@@ -195,17 +191,21 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Linh%20Ung%20Pagoda%20Lady%20Buddha%20Da%20Nang"
     },
     {
-      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/My_Khe_Beach_Danang_Highrises.jpg/1280px-My_Khe_Beach_Danang_Highrises.jpg",
+      "imageCredit": "Wikimedia Commons — My Khe Beach Danang Highrises.jpg",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/My_Khe_Beach_Danang_Highrises.jpg/1280px-My_Khe_Beach_Danang_Highrises.jpg",
+          "credit": "Wikimedia Commons — My Khe Beach Danang Highrises.jpg"
         },
         {
-          "url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/My_Khe_Beach_Danang_Coastline.jpg/1280px-My_Khe_Beach_Danang_Coastline.jpg",
+          "credit": "Wikimedia Commons — My Khe Beach Danang Coastline.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/My_Khe_Beach%2C_Da_Nang%2C_Vietnam.jpg/1280px-My_Khe_Beach%2C_Da_Nang%2C_Vietnam.jpg",
+          "credit": "Wikimedia Commons — My Khe Beach, Da Nang, Vietnam.jpg"
         }
       ],
       "combos": [
@@ -239,17 +239,21 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=My%20Khe%20Beach%20Da%20Nang"
     },
     {
-      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Ch%C3%B9a_Tam_Thai%2C_Th%E1%BB%A7y_S%C6%A1n%2C_%C4%90%C3%A0_N%E1%BA%B5ng_%28Tam_Thai_Pagoda%2C_Thuy_Son_Marble_Mountain%29_-_img_01.jpg/1280px-Ch%C3%B9a_Tam_Thai%2C_Th%E1%BB%A7y_S%C6%A1n%2C_%C4%90%C3%A0_N%E1%BA%B5ng_%28Tam_Thai_Pagoda%2C_Thuy_Son_Marble_Mountain%29_-_img_01.jpg",
+      "imageCredit": "Wikimedia Commons — Chùa Tam Thai, Thủy Sơn, Đà Nẵng (Tam Thai Pagoda, Thuy Son Marble Mountain) - img 01.jpg",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Ch%C3%B9a_Tam_Thai%2C_Th%E1%BB%A7y_S%C6%A1n%2C_%C4%90%C3%A0_N%E1%BA%B5ng_%28Tam_Thai_Pagoda%2C_Thuy_Son_Marble_Mountain%29_-_img_01.jpg/1280px-Ch%C3%B9a_Tam_Thai%2C_Th%E1%BB%A7y_S%C6%A1n%2C_%C4%90%C3%A0_N%E1%BA%B5ng_%28Tam_Thai_Pagoda%2C_Thuy_Son_Marble_Mountain%29_-_img_01.jpg",
+          "credit": "Wikimedia Commons — Chùa Tam Thai, Thủy Sơn, Đà Nẵng (Tam Thai Pagoda, Thuy Son Marble Mountain) - img 01.jpg"
         },
         {
-          "url": "https://images.unsplash.com/photo-1557750255-c76072a7aad1?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Buddhist_temple_complex_on_the_Thuy_Son%2C_Da_Nang_Marble_Mountains_%282024%29_-_img_02.jpg/1280px-Buddhist_temple_complex_on_the_Thuy_Son%2C_Da_Nang_Marble_Mountains_%282024%29_-_img_02.jpg",
+          "credit": "Wikimedia Commons — Buddhist temple complex on the Thuy Son, Da Nang Marble Mountains (2024) - img 02.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Buddhist_temple_complex_on_the_Thuy_Son%2C_Da_Nang_Marble_Mountains_%282024%29_-_img_01.jpg/1280px-Buddhist_temple_complex_on_the_Thuy_Son%2C_Da_Nang_Marble_Mountains_%282024%29_-_img_01.jpg",
+          "credit": "Wikimedia Commons — Buddhist temple complex on the Thuy Son, Da Nang Marble Mountains (2024) - img 01.jpg"
         }
       ],
       "combos": [
@@ -283,17 +287,21 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Marble%20Mountains%20Da%20Nang"
     },
     {
-      "imageUrl": "https://images.unsplash.com/photo-1566127444979-b3d2b648e746?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Ecole_Francaise_dExtreme_Orient_Section_des_Antiquites_Chames_en_Tourane..jpg/1280px-Ecole_Francaise_dExtreme_Orient_Section_des_Antiquites_Chames_en_Tourane..jpg",
+      "imageCredit": "Wikipedia — Museum of Cham Sculpture",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1566127444979-b3d2b648e746?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Ecole_Francaise_dExtreme_Orient_Section_des_Antiquites_Chames_en_Tourane..jpg/1280px-Ecole_Francaise_dExtreme_Orient_Section_des_Antiquites_Chames_en_Tourane..jpg",
+          "credit": "Wikipedia — Museum of Cham Sculpture"
         },
         {
-          "url": "https://images.unsplash.com/photo-1554907984-15263bfd63bd?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Ganesha%2C_Champa_Hindu_artwork%2C_Museum_of_Cham_Sculpture%2C_Da_Nang_Vietnam.jpg/1280px-Ganesha%2C_Champa_Hindu_artwork%2C_Museum_of_Cham_Sculpture%2C_Da_Nang_Vietnam.jpg",
+          "credit": "Wikimedia Commons — Ganesha, Champa Hindu artwork, Museum of Cham Sculpture, Da Nang Vietnam.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/0040223_Ganesha%2C_Cham_Hindu_deity%2C_Museum_of_Cham_Sculpture%2C_Da_Nang_Vietnam.jpg/1280px-0040223_Ganesha%2C_Cham_Hindu_deity%2C_Museum_of_Cham_Sculpture%2C_Da_Nang_Vietnam.jpg",
+          "credit": "Wikimedia Commons — 0040223 Ganesha, Cham Hindu deity, Museum of Cham Sculpture, Da Nang Vietnam.jpg"
         }
       ],
       "combos": [
@@ -327,17 +335,21 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20of%20Cham%20Sculpture%20Da%20Nang"
     },
     {
-      "imageUrl": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Dragon_Bridge_Da_Nang_1.jpg/1280px-Dragon_Bridge_Da_Nang_1.jpg",
+      "imageCredit": "Wikimedia Commons — Dragon Bridge Da Nang 1.jpg",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Dragon_Bridge_Da_Nang_1.jpg/1280px-Dragon_Bridge_Da_Nang_1.jpg",
+          "credit": "Wikimedia Commons — Dragon Bridge Da Nang 1.jpg"
         },
         {
-          "url": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Bach_Dang_Street%2C_Da_Nang_%2849374411407%29.jpg/1280px-Bach_Dang_Street%2C_Da_Nang_%2849374411407%29.jpg",
+          "credit": "Wikimedia Commons — Bach Dang Street, Da Nang (49374411407).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/One_view_of_Bach_Dang_street%2C_Da_Nang%2C_Vietnam_-_Indochina_Riverside.jpg/1280px-One_view_of_Bach_Dang_street%2C_Da_Nang%2C_Vietnam_-_Indochina_Riverside.jpg",
+          "credit": "Wikimedia Commons — One view of Bach Dang street, Da Nang, Vietnam - Indochina Riverside.jpg"
         }
       ],
       "combos": [
@@ -372,17 +384,17 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bach%20Dang%20Walking%20Street%20Da%20Nang"
     },
     {
-      "imageUrl": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Love_Lock_Bridge_Da_Nang_05.19.jpg/1280px-Love_Lock_Bridge_Da_Nang_05.19.jpg",
+      "imageCredit": "Wikimedia Commons — Love Lock Bridge Da Nang 05.19.jpg",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Love_Lock_Bridge_Da_Nang_05.19.jpg/1280px-Love_Lock_Bridge_Da_Nang_05.19.jpg",
+          "credit": "Wikimedia Commons — Love Lock Bridge Da Nang 05.19.jpg"
         },
         {
-          "url": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=1280&q=80",
+          "credit": "Unsplash — love locks bridge (illustrative of Love Bridge photo stop)"
         }
       ],
       "combos": [
@@ -415,17 +427,17 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Love%20Bridge%20Da%20Nang"
     },
     {
-      "imageUrl": "https://images.unsplash.com/photo-1555921015-5532091f6026?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Cho_Han_Da_Nang.JPG/1280px-Cho_Han_Da_Nang.JPG",
+      "imageCredit": "Wikimedia Commons — Cho Han Da Nang.JPG",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1555921015-5532091f6026?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Cho_Han_Da_Nang.JPG/1280px-Cho_Han_Da_Nang.JPG",
+          "credit": "Wikimedia Commons — Cho Han Da Nang.JPG"
         },
         {
-          "url": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://images.unsplash.com/photo-1555921015-5532091f6026?w=1280&q=80",
+          "credit": "Unsplash — Asian market stalls (illustrative of Han Market)"
         }
       ],
       "combos": [
@@ -459,16 +471,12 @@
     },
     {
       "imageUrl": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageCredit": "Unsplash — Vietnamese cooked food (illustrative of Con Market food hall)",
       "closedNotes": "",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=1280&q=80",
-          "credit": "Unsplash"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1555921015-5532091f6026?w=1280&q=80",
-          "credit": "Unsplash"
+          "credit": "Unsplash — Vietnamese cooked food (illustrative of Con Market food hall)"
         }
       ],
       "combos": [
@@ -502,16 +510,12 @@
     },
     {
       "imageUrl": "https://images.unsplash.com/photo-1555921015-5532091f6026?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageCredit": "Unsplash — night market stalls (illustrative of Son Tra night market)",
       "closedNotes": "",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1555921015-5532091f6026?w=1280&q=80",
-          "credit": "Unsplash"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1280&q=80",
-          "credit": "Unsplash"
+          "credit": "Unsplash — night market stalls (illustrative of Son Tra night market)"
         }
       ],
       "combos": [
@@ -545,16 +549,12 @@
     },
     {
       "imageUrl": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageCredit": "Unsplash — hotel pool (illustrative of Novotel pool downtime)",
       "closedNotes": "",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1280&q=80",
-          "credit": "Unsplash"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=1280&q=80",
-          "credit": "Unsplash"
+          "credit": "Unsplash — hotel pool (illustrative of Novotel pool downtime)"
         }
       ],
       "combos": [
@@ -588,17 +588,13 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Novotel%20Danang%20Premier%20Han%20River"
     },
     {
-      "imageUrl": "https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Da_Nang_Cathedral.jpg/1280px-Da_Nang_Cathedral.jpg",
+      "imageCredit": "Wikimedia Commons — Da Nang Cathedral.jpg",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?w=1280&q=80",
-          "credit": "Unsplash"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1548013146-72479768bada?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Da_Nang_Cathedral.jpg/1280px-Da_Nang_Cathedral.jpg",
+          "credit": "Wikimedia Commons — Da Nang Cathedral.jpg"
         }
       ],
       "combos": [
@@ -631,17 +627,25 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Da%20Nang%20Cathedral%20Pink%20Church"
     },
     {
-      "imageUrl": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Han_River_at_night_-_Da_Nang%2C_Vietnam_-_DSC02111.JPG/1280px-Han_River_at_night_-_Da_Nang%2C_Vietnam_-_DSC02111.JPG",
+      "imageCredit": "Wikimedia Commons — Han River at night - Da Nang, Vietnam - DSC02111.JPG",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Han_River_at_night_-_Da_Nang%2C_Vietnam_-_DSC02111.JPG/1280px-Han_River_at_night_-_Da_Nang%2C_Vietnam_-_DSC02111.JPG",
+          "credit": "Wikimedia Commons — Han River at night - Da Nang, Vietnam - DSC02111.JPG"
         },
         {
-          "url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Han_River_in_Da_Nang_7.jpg/1280px-Han_River_in_Da_Nang_7.jpg",
+          "credit": "Wikimedia Commons — Han River in Da Nang 7.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Han_River_walkway_at_night_-_Da_Nang%2C_Vietnam_-_DSC02131.JPG/1280px-Han_River_walkway_at_night_-_Da_Nang%2C_Vietnam_-_DSC02131.JPG",
+          "credit": "Wikimedia Commons — Han River walkway at night - Da Nang, Vietnam - DSC02131.JPG"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Dragon_Bridge_Da_Nang_1.jpg/1280px-Dragon_Bridge_Da_Nang_1.jpg",
+          "credit": "Wikimedia Commons — Dragon Bridge Da Nang 1.jpg"
         }
       ],
       "combos": [
@@ -674,17 +678,17 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Han%20River%20cruise%20Da%20Nang"
     },
     {
-      "imageUrl": "https://images.unsplash.com/photo-1517604931441-475cabf8f0c0?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/4DX_seats_in_cinema_%28motion_and_environmental_effects_synced_with_the_on-screen_action%29_bench_rows_in_a_movie_theater_hall_Kinostoler_kinosal_Kilden_kino_T%C3%B8nsberg%2C_Norway_2023_IMG_7849.jpg/1280px-thumbnail.jpg",
+      "imageCredit": "Wikimedia Commons — 4DX seats in cinema (motion and environmental effects synced with the on-screen action) bench rows in a movie theater hall Kinostoler kinosal Kilden kino Tønsberg, Norway 2023 IMG 7849.jpg",
       "closedNotes": "Helio Center + night market suspended since 5 Sep 2025 — do not plan evening food there.",
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1517604931441-475cabf8f0c0?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/4DX_seats_in_cinema_%28motion_and_environmental_effects_synced_with_the_on-screen_action%29_bench_rows_in_a_movie_theater_hall_Kinostoler_kinosal_Kilden_kino_T%C3%B8nsberg%2C_Norway_2023_IMG_7849.jpg/1280px-thumbnail.jpg",
+          "credit": "Wikimedia Commons — 4DX seats in cinema (motion and environmental effects synced with the on-screen action) bench rows in a movie theater hall Kinostoler kinosal Kilden kino Tønsberg, Norway 2023 IMG 7849.jpg"
         },
         {
-          "url": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1280&q=80",
+          "credit": "Unsplash — cinema screen (illustrative of mall/cinema rainy reset)"
         }
       ],
       "combos": [

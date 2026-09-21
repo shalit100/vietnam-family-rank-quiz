@@ -15,21 +15,21 @@
   "tip": "1-night cruise IS the attraction — do not book a separate Ha Long day tour. Lounge 11:15–11:45 · tender ~12:00–12:30. Confirm meals for all 5 + $160 extra bed for 8yo.",
   "attractions": [
     {
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ha_Long_Bay_-_Halong1414.jpg/1280px-Ha_Long_Bay_-_Halong1414.jpg",
-      "imageCredit": "Wikimedia Commons",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Asia_Cruise_Junk_in_Halong_bay.JPG/1280px-Asia_Cruise_Junk_in_Halong_bay.JPG",
+      "imageCredit": "Wikimedia Commons — Asia Cruise Junk in Halong bay.JPG",
       "closedNotes": "",
       "images": [
         {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Asia_Cruise_Junk_in_Halong_bay.JPG/1280px-Asia_Cruise_Junk_in_Halong_bay.JPG",
+          "credit": "Wikimedia Commons — Asia Cruise Junk in Halong bay.JPG"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Halong_bay_vietnam.JPG/1280px-Halong_bay_vietnam.JPG",
+          "credit": "Wikimedia Commons — Halong bay vietnam.JPG"
+        },
+        {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ha_Long_Bay_-_Halong1414.jpg/1280px-Ha_Long_Bay_-_Halong1414.jpg",
-          "credit": "Wikimedia Commons"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Ha_Long_Bay_-_Halong1431.jpg/1280px-Ha_Long_Bay_-_Halong1431.jpg",
-          "credit": "Wikimedia Commons"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1528127269322-539801943592?w=1280&q=80",
-          "credit": "Unsplash"
+          "credit": "Wikimedia Commons — Ha Long Bay - Halong1414.jpg"
         }
       ],
       "combos": [
@@ -63,20 +63,20 @@
     },
     {
       "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Kayaking_in_Ha_Long_Bay.jpg/1280px-Kayaking_in_Ha_Long_Bay.jpg",
-      "imageCredit": "Wikimedia Commons",
+      "imageCredit": "Wikimedia Commons — Kayaking in Ha Long Bay.jpg",
       "closedNotes": "",
       "images": [
         {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Kayaking_in_Ha_Long_Bay.jpg/1280px-Kayaking_in_Ha_Long_Bay.jpg",
-          "credit": "Wikimedia Commons"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Kayaking_in_Ha_Long_Bay_1.jpg/1280px-Kayaking_in_Ha_Long_Bay_1.jpg",
-          "credit": "Wikimedia Commons"
+          "credit": "Wikimedia Commons — Kayaking in Ha Long Bay.jpg"
         },
         {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Kayaking_in_Ha_Long_Bay_2.jpg/1280px-Kayaking_in_Ha_Long_Bay_2.jpg",
-          "credit": "Wikimedia Commons"
+          "credit": "Wikimedia Commons — Kayaking in Ha Long Bay 2.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Ha_Long_Bay_-_Halong1431.jpg/1280px-Ha_Long_Bay_-_Halong1431.jpg",
+          "credit": "Wikimedia Commons — Ha Long Bay - Halong1431.jpg"
         }
       ],
       "combos": [
@@ -111,17 +111,21 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ba%20Trai%20Dao%20Lan%20Ha%20Bay"
     },
     {
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/A_view_of_Ha_Long_Bay_from_the_high_point_of_Sun_Sot_cave_%283152023532%29.jpg/1280px-A_view_of_Ha_Long_Bay_from_the_high_point_of_Sun_Sot_cave_%283152023532%29.jpg",
-      "imageCredit": "Wikimedia Commons",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Ha_Long_Bay_-_Halong1431.jpg/1280px-Ha_Long_Bay_-_Halong1431.jpg",
+      "imageCredit": "Wikimedia Commons — Ha Long Bay - Halong1431.jpg",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/A_view_of_Ha_Long_Bay_from_the_high_point_of_Sun_Sot_cave_%283152023532%29.jpg/1280px-A_view_of_Ha_Long_Bay_from_the_high_point_of_Sun_Sot_cave_%283152023532%29.jpg",
-          "credit": "Wikimedia Commons"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Ha_Long_Bay_-_Halong1431.jpg/1280px-Ha_Long_Bay_-_Halong1431.jpg",
+          "credit": "Wikimedia Commons — Ha Long Bay - Halong1431.jpg"
         },
         {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ha_Long_Bay_-_Halong1414.jpg/1280px-Ha_Long_Bay_-_Halong1414.jpg",
-          "credit": "Wikimedia Commons"
+          "credit": "Wikimedia Commons — Ha Long Bay - Halong1414.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/A_view_of_Ha_Long_Bay_from_the_high_point_of_Sun_Sot_cave_%2831520203451%29.jpg/1280px-A_view_of_Ha_Long_Bay_from_the_high_point_of_Sun_Sot_cave_%2831520203451%29.jpg",
+          "credit": "Wikimedia Commons — A view of Ha Long Bay from the high point of Sun Sot cave (31520203451).jpg"
         }
       ],
       "combos": [
@@ -155,16 +159,16 @@
     },
     {
       "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Kayaking_in_Ha_Long_Bay.jpg/1280px-Kayaking_in_Ha_Long_Bay.jpg",
-      "imageCredit": "Wikimedia Commons",
+      "imageCredit": "Wikimedia Commons — Kayaking in Ha Long Bay.jpg",
       "closedNotes": "",
       "images": [
         {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Kayaking_in_Ha_Long_Bay.jpg/1280px-Kayaking_in_Ha_Long_Bay.jpg",
-          "credit": "Wikimedia Commons"
+          "credit": "Wikimedia Commons — Kayaking in Ha Long Bay.jpg"
         },
         {
-          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Kayaking_in_Ha_Long_Bay_2.jpg/1280px-Kayaking_in_Ha_Long_Bay_2.jpg",
+          "credit": "Wikimedia Commons — Kayaking in Ha Long Bay 2.jpg"
         }
       ],
       "combos": [
@@ -198,17 +202,21 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tra%20Bau%20Lan%20Ha%20Bay"
     },
     {
-      "imageUrl": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Vietnamese_spring_rolls_%2823691938909%29.jpg/1280px-Vietnamese_spring_rolls_%2823691938909%29.jpg",
+      "imageCredit": "Wikimedia Commons — Vietnamese spring rolls (23691938909).jpg",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Vietnamese_spring_rolls_%2823691938909%29.jpg/1280px-Vietnamese_spring_rolls_%2823691938909%29.jpg",
+          "credit": "Wikimedia Commons — Vietnamese spring rolls (23691938909).jpg"
         },
         {
-          "url": "https://images.unsplash.com/photo-1596797038530-2c107229654b?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Vietnamese_spring_rolls_%2824037331555%29.jpg/1280px-Vietnamese_spring_rolls_%2824037331555%29.jpg",
+          "credit": "Wikimedia Commons — Vietnamese spring rolls (24037331555).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Spring_rolls_with_fish_sauce_for_dipping.jpg/1280px-Spring_rolls_with_fish_sauce_for_dipping.jpg",
+          "credit": "Wikimedia Commons — Spring rolls with fish sauce for dipping.jpg"
         }
       ],
       "combos": [
@@ -243,17 +251,21 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Celina%20of%20The%20Sea%20cruise%20Ha%20Long"
     },
     {
-      "imageUrl": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Ha_Long_Bay_Sunset%2C_Vietnam.jpg/1280px-Ha_Long_Bay_Sunset%2C_Vietnam.jpg",
+      "imageCredit": "Wikimedia Commons — Ha Long Bay Sunset, Vietnam.jpg",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Ha_Long_Bay_Sunset%2C_Vietnam.jpg/1280px-Ha_Long_Bay_Sunset%2C_Vietnam.jpg",
+          "credit": "Wikimedia Commons — Ha Long Bay Sunset, Vietnam.jpg"
         },
         {
-          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/A_line_up_of_cruise_boats_on_the_Ha_Long_Bay_%2831598856166%29.jpg/1280px-A_line_up_of_cruise_boats_on_the_Ha_Long_Bay_%2831598856166%29.jpg",
+          "credit": "Wikimedia Commons — A line up of cruise boats on the Ha Long Bay (31598856166).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Sunset_over_Ha_Long_Bay-_the_little_boat_adds_to_the_atmosphere_%2831635848695%29.jpg/1280px-Sunset_over_Ha_Long_Bay-_the_little_boat_adds_to_the_atmosphere_%2831635848695%29.jpg",
+          "credit": "Wikimedia Commons — Sunset over Ha Long Bay- the little boat adds to the atmosphere (31635848695).jpg"
         }
       ],
       "combos": [
@@ -288,16 +300,12 @@
     },
     {
       "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageCredit": "Unsplash — night fishing from boat (illustrative of evening squid fishing)",
       "closedNotes": "",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1280&q=80",
-          "credit": "Unsplash"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1280&q=80",
-          "credit": "Unsplash"
+          "credit": "Unsplash — night fishing from boat (illustrative of evening squid fishing)"
         }
       ],
       "combos": [
@@ -330,16 +338,12 @@
     },
     {
       "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageCredit": "Unsplash — resort/cruise-style pool (illustrative of ship pool downtime)",
       "closedNotes": "",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1280&q=80",
-          "credit": "Unsplash"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1280&q=80",
-          "credit": "Unsplash"
+          "credit": "Unsplash — resort/cruise-style pool (illustrative of ship pool downtime)"
         }
       ],
       "combos": [
@@ -373,17 +377,21 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Celina%20of%20The%20Sea%20Ha%20Long"
     },
     {
-      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/B%E1%BB%AFa_%C4%83n_h%E1%BA%A3i_s%E1%BA%A3n_%28t%C3%B4m%2C_c%C3%A1%2C_ngh%C3%AAu%2C_m%E1%BB%B1c%29_gia_%C4%91%C3%ACnh_%E1%BB%9F_P3_%C4%90%C3%B4ng_H%C3%A0_n%C4%83m_2021.jpg/1280px-B%E1%BB%AFa_%C4%83n_h%E1%BA%A3i_s%E1%BA%A3n_%28t%C3%B4m%2C_c%C3%A1%2C_ngh%C3%AAu%2C_m%E1%BB%B1c%29_gia_%C4%91%C3%ACnh_%E1%BB%9F_P3_%C4%90%C3%B4ng_H%C3%A0_n%C4%83m_2021.jpg",
-      "imageCredit": "Wikimedia Commons",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Seafood_with_Bia_Viet%2C_Ho_Chi_Minh_City%2C_2023_%2801%29.jpg/1280px-Seafood_with_Bia_Viet%2C_Ho_Chi_Minh_City%2C_2023_%2801%29.jpg",
+      "imageCredit": "Wikimedia Commons — Seafood with Bia Viet, Ho Chi Minh City, 2023 (01).jpg",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/B%E1%BB%AFa_%C4%83n_h%E1%BA%A3i_s%E1%BA%A3n_%28t%C3%B4m%2C_c%C3%A1%2C_ngh%C3%AAu%2C_m%E1%BB%B1c%29_gia_%C4%91%C3%ACnh_%E1%BB%9F_P3_%C4%90%C3%B4ng_H%C3%A0_n%C4%83m_2021.jpg/1280px-B%E1%BB%AFa_%C4%83n_h%E1%BA%A3i_s%E1%BA%A3n_%28t%C3%B4m%2C_c%C3%A1%2C_ngh%C3%AAu%2C_m%E1%BB%B1c%29_gia_%C4%91%C3%ACnh_%E1%BB%9F_P3_%C4%90%C3%B4ng_H%C3%A0_n%C4%83m_2021.jpg",
-          "credit": "Wikimedia Commons"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Seafood_with_Bia_Viet%2C_Ho_Chi_Minh_City%2C_2023_%2801%29.jpg/1280px-Seafood_with_Bia_Viet%2C_Ho_Chi_Minh_City%2C_2023_%2801%29.jpg",
+          "credit": "Wikimedia Commons — Seafood with Bia Viet, Ho Chi Minh City, 2023 (01).jpg"
         },
         {
-          "url": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Seafood_with_Bia_Viet%2C_Ho_Chi_Minh_City%2C_2023_%2802%29.jpg/1280px-Seafood_with_Bia_Viet%2C_Ho_Chi_Minh_City%2C_2023_%2802%29.jpg",
+          "credit": "Wikimedia Commons — Seafood with Bia Viet, Ho Chi Minh City, 2023 (02).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Clay_Pot_Dinner_at_Jimmy%27s_Seafood_%26_Steak.jpg/1280px-Clay_Pot_Dinner_at_Jimmy%27s_Seafood_%26_Steak.jpg",
+          "credit": "Wikimedia Commons — Clay Pot Dinner at Jimmy's Seafood & Steak.jpg"
         }
       ],
       "combos": [
@@ -417,16 +425,12 @@
     },
     {
       "imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageCredit": "Unsplash — outdoor tai chi / yoga sunrise (illustrative of optional tai chi)",
       "closedNotes": "",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1280&q=80",
-          "credit": "Unsplash"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=1280&q=80",
-          "credit": "Unsplash"
+          "credit": "Unsplash — outdoor tai chi / yoga sunrise (illustrative of optional tai chi)"
         }
       ],
       "combos": [
@@ -458,17 +462,17 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lan%20Ha%20Bay%20sunrise"
     },
     {
-      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Tu%E1%BA%A7n_Ch%C3%A2u.jpg/1280px-Tu%E1%BA%A7n_Ch%C3%A2u.jpg",
+      "imageCredit": "Wikimedia Commons — Tuần Châu.jpg",
       "closedNotes": "",
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Tu%E1%BA%A7n_Ch%C3%A2u.jpg/1280px-Tu%E1%BA%A7n_Ch%C3%A2u.jpg",
+          "credit": "Wikimedia Commons — Tuần Châu.jpg"
         },
         {
-          "url": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1280&q=80",
+          "credit": "Unsplash — white sand beach (illustrative of Tuan Chau artificial beach)"
         }
       ],
       "combos": [
@@ -503,16 +507,12 @@
     },
     {
       "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageCredit": "Unsplash — marina/boat dock (illustrative of Tuan Chau embark lounge area)",
       "closedNotes": "",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1280&q=80",
-          "credit": "Unsplash"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1280&q=80",
-          "credit": "Unsplash"
+          "credit": "Unsplash — marina/boat dock (illustrative of Tuan Chau embark lounge area)"
         }
       ],
       "combos": [
@@ -544,17 +544,17 @@
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lot%2041A%20Tuan%20Chau%20International%20Marina"
     },
     {
-      "imageUrl": "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Tuan_Chau_Island%2C_Ha_Long%2C_Vietnam-1.png/1280px-Tuan_Chau_Island%2C_Ha_Long%2C_Vietnam-1.png",
+      "imageCredit": "Wikimedia Commons — Tuan Chau Island, Ha Long, Vietnam-1.png",
       "closedNotes": "Skip unless you have 3+ hours before lounge — risk late tender fee.",
       "images": [
         {
-          "url": "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Tuan_Chau_Island%2C_Ha_Long%2C_Vietnam-1.png/1280px-Tuan_Chau_Island%2C_Ha_Long%2C_Vietnam-1.png",
+          "credit": "Wikimedia Commons — Tuan Chau Island, Ha Long, Vietnam-1.png"
         },
         {
-          "url": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1280&q=80",
-          "credit": "Unsplash"
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Tu%E1%BA%A7n_Ch%C3%A2u.jpg/1280px-Tu%E1%BA%A7n_Ch%C3%A2u.jpg",
+          "credit": "Wikimedia Commons — Tuần Châu.jpg"
         }
       ],
       "combos": [],
@@ -584,16 +584,12 @@
     },
     {
       "imageUrl": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=1280&q=80",
-      "imageCredit": "Unsplash",
+      "imageCredit": "Unsplash — spa massage (illustrative of onboard à la carte spa)",
       "closedNotes": "",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=1280&q=80",
-          "credit": "Unsplash"
-        },
-        {
-          "url": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?w=1280&q=80",
-          "credit": "Unsplash"
+          "credit": "Unsplash — spa massage (illustrative of onboard à la carte spa)"
         }
       ],
       "combos": [
