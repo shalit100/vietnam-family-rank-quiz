@@ -175,8 +175,12 @@
       "hanoi::cooking-class": {
         "rank": "pass",
         "at": "2026-09-21T09:21:56.488Z"
+      },
+      "hanoi::dong-xuan-market": {
+        "rank": "pass",
+        "at": "2026-09-21T09:22:06.885Z"
       }
     }
   },
-  "updatedAt": "2026-09-21T09:21:56.489Z"
+  "updatedAt": "2026-09-21T09:22:06.885Z"
 }
