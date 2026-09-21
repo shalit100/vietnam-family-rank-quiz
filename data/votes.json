@@ -177,6 +177,10 @@
       "hoi-an::heritage-ticket-sites": {
         "rank": "pass",
         "at": "2026-09-21T09:33:58.678Z"
+      },
+      "hoi-an::floating-lantern-sampan": {
+        "rank": "must",
+        "at": "2026-09-21T09:34:07.804Z"
       }
     },
     "keren": {
@@ -346,5 +350,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:33:58.678Z"
+  "updatedAt": "2026-09-21T09:34:07.804Z"
 }
