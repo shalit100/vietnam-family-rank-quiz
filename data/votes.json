@@ -171,8 +171,12 @@
       "hanoi::egg-coffee": {
         "rank": "pass",
         "at": "2026-09-21T09:21:48.646Z"
+      },
+      "hanoi::cooking-class": {
+        "rank": "pass",
+        "at": "2026-09-21T09:21:56.488Z"
       }
     }
   },
-  "updatedAt": "2026-09-21T09:21:48.646Z"
+  "updatedAt": "2026-09-21T09:21:56.489Z"
 }
