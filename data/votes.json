@@ -145,6 +145,10 @@
       "ninh-binh::am-tien-tuyet-tinh-coc": {
         "rank": "possible",
         "at": "2026-09-21T09:28:34.701Z"
+      },
+      "ninh-binh::van-long-nature-reserve": {
+        "rank": "possible",
+        "at": "2026-09-21T09:28:49.875Z"
       }
     },
     "keren": {
@@ -262,5 +266,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:28:44.397Z"
+  "updatedAt": "2026-09-21T09:28:49.876Z"
 }
