@@ -221,6 +221,10 @@
       "hoi-an::hoi-an-memories-show": {
         "rank": "possible",
         "at": "2026-09-21T09:35:40.521Z"
+      },
+      "hoi-an::vinwonders-nam-hoi-an": {
+        "rank": "must",
+        "at": "2026-09-21T09:35:46.305Z"
       }
     },
     "keren": {
@@ -394,5 +398,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:35:40.521Z"
+  "updatedAt": "2026-09-21T09:35:46.306Z"
 }
