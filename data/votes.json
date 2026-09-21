@@ -269,6 +269,10 @@
       "da-nang::bach-dang-promenade": {
         "rank": "possible",
         "at": "2026-09-21T09:38:35.000Z"
+      },
+      "da-nang::love-bridge": {
+        "rank": "pass",
+        "at": "2026-09-21T09:38:40.259Z"
       }
     },
     "keren": {
@@ -442,5 +446,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:38:35.000Z"
+  "updatedAt": "2026-09-21T09:38:40.259Z"
 }
