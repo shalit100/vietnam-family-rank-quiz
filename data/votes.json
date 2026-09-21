@@ -25,9 +25,13 @@
       "hanoi::ho-chi-minh-mausoleum-complex": {
         "rank": "pass",
         "at": "2026-09-21T09:11:17.424Z"
+      },
+      "hanoi::museum-of-ethnology": {
+        "rank": "possible",
+        "at": "2026-09-21T09:11:47.857Z"
       }
     },
     "keren": {}
   },
-  "updatedAt": "2026-09-21T09:11:17.425Z"
+  "updatedAt": "2026-09-21T09:11:47.858Z"
 }
