@@ -309,6 +309,10 @@
       "phu-quoc::bai-khem-beach": {
         "rank": "must",
         "at": "2026-09-21T09:39:46.568Z"
+      },
+      "phu-quoc::bai-sao-beach": {
+        "rank": "possible",
+        "at": "2026-09-21T09:39:54.697Z"
       }
     },
     "keren": {
@@ -482,5 +486,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:39:46.568Z"
+  "updatedAt": "2026-09-21T09:39:54.697Z"
 }
