@@ -193,6 +193,10 @@
       "hoi-an::lantern-making-workshop": {
         "rank": "possible",
         "at": "2026-09-21T09:34:24.903Z"
+      },
+      "hoi-an::my-son-sanctuary": {
+        "rank": "pass",
+        "at": "2026-09-21T09:34:43.942Z"
       }
     },
     "keren": {
@@ -366,5 +370,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:34:28.707Z"
+  "updatedAt": "2026-09-21T09:34:43.942Z"
 }
