@@ -345,6 +345,10 @@
       "phu-quoc::grand-world-evening": {
         "rank": "possible",
         "at": "2026-09-21T09:40:59.770Z"
+      },
+      "phu-quoc::kiss-bridge": {
+        "rank": "possible",
+        "at": "2026-09-21T09:41:04.458Z"
       }
     },
     "keren": {
@@ -518,5 +522,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:40:59.770Z"
+  "updatedAt": "2026-09-21T09:41:04.458Z"
 }
