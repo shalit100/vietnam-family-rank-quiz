@@ -141,6 +141,10 @@
       "ninh-binh::bai-dinh-pagoda": {
         "rank": "pass",
         "at": "2026-09-21T09:28:28.031Z"
+      },
+      "ninh-binh::am-tien-tuyet-tinh-coc": {
+        "rank": "possible",
+        "at": "2026-09-21T09:28:34.701Z"
       }
     },
     "keren": {
@@ -250,5 +254,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:28:28.031Z"
+  "updatedAt": "2026-09-21T09:28:34.701Z"
 }
