@@ -165,6 +165,10 @@
       "ninh-binh::minawa-kenh-ga": {
         "rank": "pass",
         "at": "2026-09-21T09:29:38.442Z"
+      },
+      "ninh-binh::hoa-lu-ancient-town-evening": {
+        "rank": "possible",
+        "at": "2026-09-21T09:29:46.158Z"
       }
     },
     "keren": {
@@ -290,5 +294,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:29:41.329Z"
+  "updatedAt": "2026-09-21T09:29:46.158Z"
 }
