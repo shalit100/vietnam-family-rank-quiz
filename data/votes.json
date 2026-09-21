@@ -73,6 +73,10 @@
       "hanoi::dong-xuan-market": {
         "rank": "possible",
         "at": "2026-09-21T09:16:11.798Z"
+      },
+      "hanoi::trang-tien-ice-cream": {
+        "rank": "pass",
+        "at": "2026-09-21T09:16:32.103Z"
       }
     },
     "keren": {
@@ -86,5 +90,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:16:11.799Z"
+  "updatedAt": "2026-09-21T09:16:32.103Z"
 }
