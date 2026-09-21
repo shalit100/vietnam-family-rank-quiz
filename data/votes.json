@@ -203,8 +203,12 @@
       "hanoi::truc-bach-lake": {
         "rank": "pass",
         "at": "2026-09-21T09:23:48.734Z"
+      },
+      "hanoi::ella-hanoi-food-tour": {
+        "rank": "must",
+        "at": "2026-09-21T09:23:58.089Z"
       }
     }
   },
-  "updatedAt": "2026-09-21T09:23:48.734Z"
+  "updatedAt": "2026-09-21T09:23:58.090Z"
 }
