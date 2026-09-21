@@ -187,8 +187,12 @@
       "hanoi::cyclo-ride": {
         "rank": "pass",
         "at": "2026-09-21T09:22:49.742Z"
+      },
+      "hanoi::hotel-pool": {
+        "rank": "pass",
+        "at": "2026-09-21T09:22:56.278Z"
       }
     }
   },
-  "updatedAt": "2026-09-21T09:22:49.742Z"
+  "updatedAt": "2026-09-21T09:22:56.278Z"
 }
