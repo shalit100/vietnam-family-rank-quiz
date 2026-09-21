@@ -113,6 +113,10 @@
       "ninh-binh::hang-mua-viewpoint": {
         "rank": "must",
         "at": "2026-09-21T09:26:53.063Z"
+      },
+      "ninh-binh::tam-coc-boat": {
+        "rank": "must",
+        "at": "2026-09-21T09:27:17.658Z"
       }
     },
     "keren": {
@@ -222,5 +226,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:26:53.063Z"
+  "updatedAt": "2026-09-21T09:27:17.658Z"
 }
