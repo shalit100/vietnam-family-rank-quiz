@@ -133,6 +133,10 @@
       "ninh-binh::bear-sanctuary": {
         "rank": "possible",
         "at": "2026-09-21T09:28:20.255Z"
+      },
+      "ninh-binh::hoa-lu-ancient-capital": {
+        "rank": "pass",
+        "at": "2026-09-21T09:28:24.556Z"
       }
     },
     "keren": {
@@ -242,5 +246,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:28:20.255Z"
+  "updatedAt": "2026-09-21T09:28:24.556Z"
 }
