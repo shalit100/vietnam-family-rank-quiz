@@ -185,6 +185,10 @@
       "hoi-an::cam-thanh-basket-boat": {
         "rank": "must",
         "at": "2026-09-21T09:34:16.990Z"
+      },
+      "hoi-an::family-cooking-class": {
+        "rank": "possible",
+        "at": "2026-09-21T09:34:21.391Z"
       }
     },
     "keren": {
@@ -354,5 +358,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:34:16.991Z"
+  "updatedAt": "2026-09-21T09:34:21.391Z"
 }
