@@ -365,6 +365,10 @@
       "phu-quoc::suoi-tranh-waterfall": {
         "rank": "pass",
         "at": "2026-09-21T09:41:36.363Z"
+      },
+      "phu-quoc::airport-shuttle-new-world": {
+        "rank": "pass",
+        "at": "2026-09-21T09:41:40.015Z"
       }
     },
     "keren": {
@@ -538,5 +542,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:41:36.363Z"
+  "updatedAt": "2026-09-21T09:41:40.015Z"
 }
