@@ -117,6 +117,10 @@
       "ninh-binh::tam-coc-boat": {
         "rank": "must",
         "at": "2026-09-21T09:27:17.658Z"
+      },
+      "ninh-binh::rice-field-bike-loop": {
+        "rank": "must",
+        "at": "2026-09-21T09:27:21.320Z"
       }
     },
     "keren": {
@@ -226,5 +230,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:27:17.658Z"
+  "updatedAt": "2026-09-21T09:27:21.320Z"
 }
