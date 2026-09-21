@@ -45,9 +45,13 @@
       "hanoi::pottery-class-hang-gai": {
         "rank": "possible",
         "at": "2026-09-21T09:12:45.615Z"
+      },
+      "hanoi::bat-trang-pottery-village": {
+        "rank": "pass",
+        "at": "2026-09-21T09:13:08.994Z"
       }
     },
     "keren": {}
   },
-  "updatedAt": "2026-09-21T09:12:45.615Z"
+  "updatedAt": "2026-09-21T09:13:08.994Z"
 }
