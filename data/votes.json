@@ -329,6 +329,10 @@
       "phu-quoc::vinpearl-safari": {
         "rank": "possible",
         "at": "2026-09-21T09:40:32.138Z"
+      },
+      "phu-quoc::snorkeling-an-thoi": {
+        "rank": "must",
+        "at": "2026-09-21T09:40:37.486Z"
       }
     },
     "keren": {
@@ -502,5 +506,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:40:32.138Z"
+  "updatedAt": "2026-09-21T09:40:37.486Z"
 }
