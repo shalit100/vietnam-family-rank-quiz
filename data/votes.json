@@ -261,6 +261,10 @@
       "da-nang::marble-mountains": {
         "rank": "possible",
         "at": "2026-09-21T09:37:54.620Z"
+      },
+      "da-nang::cham-sculpture-museum": {
+        "rank": "pass",
+        "at": "2026-09-21T09:38:25.433Z"
       }
     },
     "keren": {
@@ -434,5 +438,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:37:54.620Z"
+  "updatedAt": "2026-09-21T09:38:25.433Z"
 }
