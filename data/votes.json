@@ -361,6 +361,10 @@
       "phu-quoc::pepper-farm-stop": {
         "rank": "possible",
         "at": "2026-09-21T09:41:25.072Z"
+      },
+      "phu-quoc::suoi-tranh-waterfall": {
+        "rank": "pass",
+        "at": "2026-09-21T09:41:36.363Z"
       }
     },
     "keren": {
@@ -534,5 +538,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:41:25.072Z"
+  "updatedAt": "2026-09-21T09:41:36.363Z"
 }
