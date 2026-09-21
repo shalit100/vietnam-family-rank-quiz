@@ -137,6 +137,10 @@
       "ninh-binh::hoa-lu-ancient-capital": {
         "rank": "pass",
         "at": "2026-09-21T09:28:24.556Z"
+      },
+      "ninh-binh::bai-dinh-pagoda": {
+        "rank": "pass",
+        "at": "2026-09-21T09:28:28.031Z"
       }
     },
     "keren": {
@@ -246,5 +250,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:28:24.556Z"
+  "updatedAt": "2026-09-21T09:28:28.031Z"
 }
