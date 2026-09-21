@@ -297,6 +297,10 @@
       "da-nang::han-river-night-cruise": {
         "rank": "pass",
         "at": "2026-09-21T09:39:24.056Z"
+      },
+      "da-nang::vincom-mall-cinema": {
+        "rank": "possible",
+        "at": "2026-09-21T09:39:28.309Z"
       }
     },
     "keren": {
@@ -470,5 +474,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:39:24.056Z"
+  "updatedAt": "2026-09-21T09:39:28.309Z"
 }
