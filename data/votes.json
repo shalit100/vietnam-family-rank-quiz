@@ -349,6 +349,10 @@
       "phu-quoc::kiss-bridge": {
         "rank": "possible",
         "at": "2026-09-21T09:41:04.458Z"
+      },
+      "phu-quoc::ong-lang-sunset": {
+        "rank": "pass",
+        "at": "2026-09-21T09:41:10.267Z"
       }
     },
     "keren": {
@@ -522,5 +526,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T09:41:04.458Z"
+  "updatedAt": "2026-09-21T09:41:10.267Z"
 }
