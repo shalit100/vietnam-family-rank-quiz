@@ -133,6 +133,7 @@ app.get('/api/cities', async (_req, res) => {
   const enriched = catalog.map((c) => {
     const city = loadCity(c.id);
     const total = city?.attractions?.length || 0;
+    const bookAhead = (city?.attractions || []).filter((a) => a.booking?.needed).length;
     const rony = countCityVotes(votes, 'rony', c.id);
     const keren = countCityVotes(votes, 'keren', c.id);
     const live = !!city && total > 0;
@@ -145,6 +146,7 @@ app.get('/api/cities', async (_req, res) => {
       region: c.region || '',
       status: live ? 'live' : (c.status || 'soon'),
       total,
+      bookAhead,
       mapX: c.mapX ?? 50,
       mapY: c.mapY ?? 50,
       lat: c.lat,

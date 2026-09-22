@@ -94,6 +94,13 @@ a{color:var(--green2)}
 .mini{font-size:.72rem;font-weight:800;margin-top:5px}.mini .r{color:var(--green2)}.mini .k{color:var(--lacquer)}
 .badge{display:inline-flex;align-items:center;font-size:.68rem;font-weight:800;padding:5px 9px;border-radius:999px;white-space:nowrap}
 .badge.live{background:#dff3ec;color:var(--green2)}.badge.done{background:#fff0cc;color:#8a5a00}.badge.soon{background:#eee;color:var(--mute)}
+.badge.book{background:#fff0e0;color:#9a3b12;border:1px solid #e8b48a}
+.badge.book-now{background:#b12a22;color:#fff;border:1px solid #8e1f18}
+.book-ahead{margin:12px 0 0;padding:10px 12px;background:rgba(255,240,224,.22);border:1px solid rgba(232,180,138,.45);border-radius:12px;font-size:.82rem;line-height:1.4}
+.book-ahead strong{display:block;margin-bottom:6px;color:#fff4d8}
+.book-ahead a{color:#fff4d8!important;font-weight:800}
+.s-item.book-now-row{border-color:#e8b48a;background:#fff8f0}
+.s-item .book-badge{margin-left:6px}
 
 /* City */
 .cityview{max-width:720px}
@@ -548,7 +555,8 @@ a{color:var(--green2)}
           '<div class="ord">' + (i + 1) + '</div>' +
           '<div>' +
           '<h3>' + esc(c.name) + '</h3>' +
-          '<div class="meta">' + esc(c.dates || '') + (c.hotelName ? ' · ' + esc(c.hotelName) : '') + '</div>' +
+          '<div class="meta">' + esc(c.dates || '') + (c.hotelName ? ' · ' + esc(c.hotelName) : '') +
+          (c.bookAhead ? ' · ' + c.bookAhead + ' book-ahead' : '') + '</div>' +
           '<div class="barpair">' +
           '<div class="b"><div class="f r" style="width:' + pct(pr.done, total) + '%"></div></div>' +
           '<div class="b"><div class="f k" style="width:' + pct(pk.done, total) + '%"></div></div>' +
@@ -591,6 +599,21 @@ a{color:var(--green2)}
       .filter(Boolean)
       .join(' · ');
 
+    const bookAheadList = (city.attractions || []).filter((a) => a.booking?.needed);
+    const bookAheadNow = bookAheadList.filter((a) => a.booking?.priority === 'now').length;
+    const bookAheadHtml = bookAheadList.length
+      ? '<div class="book-ahead"><strong>📅 Book ahead · ' + bookAheadList.length +
+        (bookAheadNow ? ' (' + bookAheadNow + ' Book now)' : '') + '</strong>' +
+        bookAheadList.map((a) => {
+          const label = a.booking?.priority === 'now' ? 'Book now' : 'Book ahead';
+          const name = esc(a.name);
+          if (a.booking?.url) {
+            return '<div>· <a href="' + esc(a.booking.url) + '" target="_blank" rel="noopener">' + name + '</a> <em style="opacity:.85">(' + label + ')</em></div>';
+          }
+          return '<div>· ' + name + ' <em style="opacity:.85">(' + label + ')</em></div>';
+        }).join('') + '</div>'
+      : '';
+
     $('banner').innerHTML =
       '<strong>' + esc(city.cityName || cityId) + '</strong>' +
       (city.dates ? ' · ' + esc(city.dates) : '') +
@@ -598,7 +621,8 @@ a{color:var(--green2)}
       (hotel.address ? ' · ' + esc(hotel.address) : '') +
       (links ? ' · ' + links : '') +
       '</p>' +
-      (city.tip ? '<div class="tip">' + esc(city.tip) + '</div>' : '');
+      (city.tip ? '<div class="tip">' + esc(city.tip) + '</div>' : '') +
+      bookAheadHtml;
 
     const total = (city.attractions || []).length;
     const rony = countDone('rony');
@@ -647,7 +671,36 @@ a{color:var(--green2)}
       return '<h3 class="sum-h">' + esc(title) + '</h3>' + body;
     }
 
+    // Book-ahead checklist: all needed=true items with both voters' ranks (act after ranking)
+    const bookItems = (city.attractions || [])
+      .filter((a) => a.booking?.needed)
+      .map((a) => ({ a, r: getRank('rony', a.id), k: getRank('keren', a.id) }));
+    function bookBlock() {
+      if (!bookItems.length) return '';
+      const body = bookItems
+        .map(({ a, r, k }) => {
+          const pri = a.booking?.priority === 'now';
+          const badge = pri
+            ? '<span class="badge book-now book-badge">Book now</span>'
+            : '<span class="badge book book-badge">Book ahead</span>';
+          const how = a.booking?.url
+            ? '<a href="' + esc(a.booking.url) + '" target="_blank" rel="noopener">' + esc(a.booking.how || 'Book') + '</a>'
+            : esc(a.booking?.how || '');
+          return (
+            '<div class="s-item ' + (pri ? 'book-now-row' : '') + '">' +
+            '<div><strong>' + esc(a.name) + '</strong>' + badge +
+            (how ? '<div style="margin-top:4px;font-size:.82rem">' + how + '</div>' : '') +
+            '</div>' +
+            '<div class="votes-sm">R ' + esc(r || '—') + ' / K ' + esc(k || '—') + '</div>' +
+            '</div>'
+          );
+        })
+        .join('');
+      return '<h3 class="sum-h">📅 Book ahead</h3>' + body;
+    }
+
     $('summary').innerHTML =
+      bookBlock() +
       block('Must', groups.must) +
       block('Possible', groups.possible) +
       block('Pass', groups.pass) +
@@ -663,9 +716,20 @@ a{color:var(--green2)}
         const ok = getRank('keren', a.id);
         const desc = shortDesc(a);
         const tags = (a.tags || []).map((t) => '<span class="tag">' + esc(t) + '</span>').join('');
-        const book = a.booking?.url
-          ? '<a href="' + esc(a.booking.url) + '" target="_blank" rel="noopener">' + esc(a.booking.how || 'Book') + '</a>'
-          : esc(a.booking?.how || '—');
+        const needBook = !!a.booking?.needed;
+        const bookNow = a.booking?.priority === 'now';
+        const bookBadge = needBook
+          ? (bookNow
+              ? '<span class="badge book-now">Book now</span>'
+              : '<span class="badge book">Book ahead</span>')
+          : '';
+        const bookHow = a.booking?.how || (needBook ? 'Book ahead' : '—');
+        const bookLink = a.booking?.url
+          ? '<a href="' + esc(a.booking.url) + '" target="_blank" rel="noopener">' + esc(bookHow) + '</a>'
+          : esc(bookHow);
+        const book = needBook
+          ? '<span class="badge ' + (bookNow ? 'book-now' : 'book') + '" style="margin-right:6px">' + (bookNow ? 'Book now' : 'Book ahead') + '</span> 📅 ' + bookLink
+          : bookLink;
         const maps = a.mapsUrl
           ? '<a href="' + esc(a.mapsUrl) + '" target="_blank" rel="noopener">Open in Maps</a>'
           : a.mapsQuery
@@ -689,7 +753,7 @@ a{color:var(--green2)}
 
         return (
           '<article class="card" data-id="' + esc(a.id) + '">' + hero + '<div class="body">' +
-          '<h2>' + esc(a.name) + '</h2>' +
+          '<h2>' + esc(a.name) + (bookBadge ? ' ' + bookBadge : '') + '</h2>' +
           '<p class="desc">' + esc(desc) + '</p>' +
           closed +
           '<div class="tags">' + tags + '</div>' +

@@ -45,7 +45,7 @@
       ],
       "booking": {
         "needed": false,
-        "how": "on-site ticket office; cash preferred; arrive before 09:00",
+        "how": "Arrive early; e-tickets optional — on-site ticket office; cash preferred; arrive before 09:00",
         "url": "https://alohavietnam.net/trang-an-full-guide-2026-all-about-boat-tours-in-trang-an-ninh-binh.html"
       },
       "priceFamilyEst": {
@@ -142,7 +142,7 @@
       ],
       "booking": {
         "needed": false,
-        "how": "official wharf counter only (~opens 07:30); avoid street sellers",
+        "how": "Arrive early; e-tickets optional — official wharf counter only (~opens 07:30); avoid street sellers",
         "url": "https://www.ninhbinhbooking.com/en/tam-coc/ticket-price"
       },
       "priceFamilyEst": {
@@ -334,8 +334,9 @@
       ],
       "booking": {
         "needed": true,
-        "how": "prefer guided experiences via official site; often closed Tuesdays — confirm",
-        "url": "https://www.bearsanctuary-ninhbinh.org/your-visit"
+        "how": "Book now — prefer guided experiences via official site; often closed Tuesdays — confirm dates",
+        "url": "https://www.bearsanctuary-ninhbinh.org/your-visit",
+        "priority": "now"
       },
       "priceFamilyEst": {
         "vnd": 1000000,
@@ -683,8 +684,9 @@
       ],
       "booking": {
         "needed": true,
-        "how": "resort / phone 0918 839 692",
-        "url": null
+        "how": "Book before arrival — resort / phone 0918 839 692 (reservation culture)",
+        "url": null,
+        "priority": "before-city"
       },
       "priceFamilyEst": {
         "vnd": 2500000,

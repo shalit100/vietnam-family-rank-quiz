@@ -40,8 +40,9 @@
       ],
       "booking": {
         "needed": true,
-        "how": "Klook / Sun World / private car; buy for Sat 26",
-        "url": "https://sunworld.vn/en/banahills/sunworld-news/price-list-tickets-services-sun-world-ba-na-hills-year-2026-19796"
+        "how": "Book before arrival — Klook / Sun World / private car + transfer; buy for Sat 26",
+        "url": "https://sunworld.vn/en/banahills/sunworld-news/price-list-tickets-services-sun-world-ba-na-hills-year-2026-19796",
+        "priority": "before-city"
       },
       "priceFamilyEst": {
         "vnd": 5500000,
@@ -658,8 +659,9 @@
       ],
       "booking": {
         "needed": true,
-        "how": "OTA or riverside booths",
-        "url": null
+        "how": "Book before arrival — OTA or riverside booths if choosing the night cruise",
+        "url": null,
+        "priority": "before-city"
       },
       "priceFamilyEst": {
         "vnd": null,

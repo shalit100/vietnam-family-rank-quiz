@@ -149,8 +149,9 @@
       },
       "booking": {
         "needed": true,
-        "how": "official site / Klook / GetYourGuide / hotel — Dec evenings sell out",
-        "url": "https://nhahatmuaroithanglong.vn/en/ticket-book/"
+        "how": "Book now — official site / Klook / GetYourGuide / hotel; Dec evenings sell out",
+        "url": "https://nhahatmuaroithanglong.vn/en/ticket-book/",
+        "priority": "now"
       },
       "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Hanoi_Vietnam_Thang-Long-Water-Puppet-Theatre-01.jpg/1280px-Hanoi_Vietnam_Thang-Long-Water-Puppet-Theatre-01.jpg",
       "imageCredit": "Wikimedia",
@@ -612,8 +613,9 @@
       },
       "booking": {
         "needed": true,
-        "how": "WhatsApp/Zalo +84 964 800 919 · authenticbattrang.vn · Klook/Viator",
-        "url": "https://www.authenticbattrang.vn/pottery-class-hanoi-kids-families.html"
+        "how": "Book now — WhatsApp/Zalo +84 964 800 919 · authenticbattrang.vn · Klook/Viator",
+        "url": "https://www.authenticbattrang.vn/pottery-class-hanoi-kids-families.html",
+        "priority": "now"
       },
       "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Bat-Trang-Ceramic-Village1.jpg/1280px-Bat-Trang-Ceramic-Village1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "imageCredit": "Wikimedia Commons",
@@ -739,8 +741,9 @@
       },
       "booking": {
         "needed": true,
-        "how": "kidzania.com.vn / KKday / counter — adult entry ticket required with kids",
-        "url": "https://kidzania.com.vn/en/individual/"
+        "how": "Book now — kidzania.com.vn / KKday / counter; adult entry ticket required with kids",
+        "url": "https://kidzania.com.vn/en/individual/",
+        "priority": "now"
       },
       "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/KidZania_Tokyo.jpg/1280px-KidZania_Tokyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "imageCredit": "Wikimedia Commons",
@@ -799,8 +802,9 @@
       },
       "booking": {
         "needed": true,
-        "how": "Klook / venue ticket counters",
-        "url": "https://www.klook.com/en-US/activity/96286-vinke-vinpearl-aquarium-ha-noi-ticket/"
+        "how": "Book now — Klook / venue ticket counters (peak week)",
+        "url": "https://www.klook.com/en-US/activity/96286-vinke-vinpearl-aquarium-ha-noi-ticket/",
+        "priority": "now"
       },
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/AP1521-Sogny-Marien_Annam%2C_Nha_Trang%2C_1933_%E2%80%93_Institut_Oc%C3%A9anographique_%E2%80%93_Visite_royale_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
       "imageCredit": "Wikimedia Commons",
@@ -951,8 +955,9 @@
       },
       "booking": {
         "needed": true,
-        "how": "Klook / GetYourGuide / Viator / Cookly (Rose Kitchen, Maya, Apron Up, etc.)",
-        "url": "https://www.klook.com/en-AE/activity/162746-cooking-class-in-hanoi-bun-cha-pho-spring-rolls-by-rose-kitchen/"
+        "how": "Book now — Klook / GetYourGuide / Viator / Cookly (Rose Kitchen, Maya, Apron Up, etc.)",
+        "url": "https://www.klook.com/en-AE/activity/162746-cooking-class-in-hanoi-bun-cha-pho-spring-rolls-by-rose-kitchen/",
+        "priority": "now"
       },
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pho_bo.jpg/1280px-Pho_bo.jpg",
       "imageCredit": "Wikimedia Commons",
@@ -1382,8 +1387,9 @@
       },
       "booking": {
         "needed": true,
-        "how": "Book via Ella Hanoi (WhatsApp/Instagram/tour page — verify current contact)",
-        "url": null
+        "how": "Book now — via Ella Hanoi (WhatsApp/Instagram/tour page — verify current contact)",
+        "url": null,
+        "priority": "now"
       },
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hanoi%20Old%20Quarter%20food%20tour",
       "mapsQuery": "Hanoi Old Quarter food tour",
@@ -1428,8 +1434,9 @@
       },
       "booking": {
         "needed": true,
-        "how": "Private driver/tour desk or Klook “Hanoi craft village” style tours — compare inclusions",
-        "url": null
+        "how": "Book now — private driver/tour desk or Klook “Hanoi craft village” style tours; compare inclusions",
+        "url": null,
+        "priority": "now"
       },
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bat%20Trang%20Pottery%20Village%2C%20Hanoi",
       "mapsQuery": "Bat Trang Pottery Village, Hanoi",

@@ -42,8 +42,9 @@
       ],
       "booking": {
         "needed": true,
-        "how": "Agoda hold locked; pay later ~3 Dec; free cancel to 4 Dec 2026 23:59 Ha Long time",
-        "url": "https://celinaofthesea.com/"
+        "how": "Book now — Agoda hold locked; pay later ~3 Dec; free cancel to 4 Dec 2026 23:59 Ha Long time",
+        "url": "https://celinaofthesea.com/",
+        "priority": "now"
       },
       "priceFamilyEst": {
         "vnd": 23770000,
@@ -230,9 +231,10 @@
         "evening"
       ],
       "booking": {
-        "needed": false,
-        "how": "on-site / walk-in",
-        "url": null
+        "needed": true,
+        "how": "Book before arrival — ask Celina WA to reserve cooking-class slot (capacity-limited onboard)",
+        "url": null,
+        "priority": "before-city"
       },
       "priceFamilyEst": {
         "vnd": 0,
@@ -404,8 +406,9 @@
       ],
       "booking": {
         "needed": true,
-        "how": "confirm meals for all 5 via Celina WA/email before Dec",
-        "url": null
+        "how": "Book before arrival — confirm meals for all 5 via Celina WA/email before Dec",
+        "url": null,
+        "priority": "before-city"
       },
       "priceFamilyEst": {
         "vnd": 0,
@@ -523,8 +526,8 @@
         "easy"
       ],
       "booking": {
-        "needed": true,
-        "how": "arrive lounge 11:15–11:45; confirm pin with Celina WA",
+        "needed": false,
+        "how": "Arrive lounge 11:15–11:45; confirm pin with Celina WA — no advance ticket",
         "url": null
       },
       "priceFamilyEst": {
@@ -600,9 +603,10 @@
         "evening"
       ],
       "booking": {
-        "needed": false,
-        "how": "ask reception after boarding",
-        "url": null
+        "needed": true,
+        "how": "Book before arrival — ask Celina to pre-reserve spa if wanted (à la carte; peak cruise week)",
+        "url": null,
+        "priority": "before-city"
       },
       "priceFamilyEst": {
         "vnd": null,

@@ -44,8 +44,9 @@
       ],
       "booking": {
         "needed": true,
-        "how": "online QR recommended for peak week — Sun World / Klook",
-        "url": "https://sunworld.vn/en/hon-thom"
+        "how": "Book now — online QR recommended for peak week — Sun World / Klook",
+        "url": "https://sunworld.vn/en/hon-thom",
+        "priority": "now"
       },
       "priceFamilyEst": {
         "vnd": 4500000,
@@ -240,8 +241,9 @@
       ],
       "booking": {
         "needed": true,
-        "how": "reconfirm 2026→2027 program; book dinner early",
-        "url": "https://sunset-town.com/en/luu-nhap-tu-dongspectacle-countdown-2026-phu-quoc/"
+        "how": "Book now — reconfirm 2026→2027 program; book dinner/spot early",
+        "url": "https://sunset-town.com/en/luu-nhap-tu-dongspectacle-countdown-2026-phu-quoc/",
+        "priority": "now"
       },
       "priceFamilyEst": {
         "vnd": 0,
@@ -284,8 +286,9 @@
       ],
       "booking": {
         "needed": true,
-        "how": "official / Klook dated tickets before 27–31 Dec peak",
-        "url": "https://vinwonders.com/en/vinwonders-phu-quoc-price-and-regulations/"
+        "how": "Book now — official / Klook dated tickets before 27–31 Dec peak",
+        "url": "https://vinwonders.com/en/vinwonders-phu-quoc-price-and-regulations/",
+        "priority": "now"
       },
       "priceFamilyEst": {
         "vnd": 4200000,
@@ -333,8 +336,9 @@
       ],
       "booking": {
         "needed": true,
-        "how": "official / Klook combo",
-        "url": "https://vinwonders.com/en/vinpearl-safari-phu-quoc-price-and-regulations/"
+        "how": "Book now — official / Klook combo (peak NYE week)",
+        "url": "https://vinwonders.com/en/vinpearl-safari-phu-quoc-price-and-regulations/",
+        "priority": "now"
       },
       "priceFamilyEst": {
         "vnd": 3900000,
@@ -374,8 +378,9 @@
       ],
       "booking": {
         "needed": true,
-        "how": "Klook dated or private WhatsApp operators; free-cancel if offered",
-        "url": "https://www.klook.com/en-AE/activity/56528-phu-quoc-snorkeling-day-tour-by-speedboat/"
+        "how": "Book before arrival — Klook dated or private WhatsApp operators; free-cancel if offered",
+        "url": "https://www.klook.com/en-AE/activity/56528-phu-quoc-snorkeling-day-tour-by-speedboat/",
+        "priority": "before-city"
       },
       "priceFamilyEst": {
         "vnd": 5000000,
@@ -629,8 +634,9 @@
       ],
       "booking": {
         "needed": true,
-        "how": "email hotel before Dec",
-        "url": "https://phuquoc.newworldhotels.com/"
+        "how": "Book now — email hotel before Dec for NYE gala or quiet villa countdown",
+        "url": "https://phuquoc.newworldhotels.com/",
+        "priority": "now"
       },
       "priceFamilyEst": {
         "vnd": null,
@@ -757,8 +763,9 @@
       ],
       "booking": {
         "needed": true,
-        "how": "book shuttle 24h ahead with flight number",
-        "url": "https://phuquoc.newworldhotels.com/en/location/"
+        "how": "Book before arrival — shuttle 24h ahead with flight number",
+        "url": "https://phuquoc.newworldhotels.com/en/location/",
+        "priority": "before-city"
       },
       "priceFamilyEst": {
         "vnd": 0,

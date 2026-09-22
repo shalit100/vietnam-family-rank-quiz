@@ -228,8 +228,9 @@
       ],
       "booking": {
         "needed": true,
-        "how": "book before/early in stay — Klook/GYG/Viator or hotel concierge",
-        "url": "https://www.getyourguide.com/hoi-an-l831/hoi-anvisit-local-marketbasket-boat-ride-and-cooking-class-t133461/"
+        "how": "Book now — Klook/GYG/Viator or hotel concierge; book before/early in stay",
+        "url": "https://www.getyourguide.com/hoi-an-l831/hoi-anvisit-local-marketbasket-boat-ride-and-cooking-class-t133461/",
+        "priority": "now"
       },
       "priceFamilyEst": {
         "vnd": 2500000,
@@ -321,8 +322,9 @@
       ],
       "booking": {
         "needed": true,
-        "how": "private car + guide via hotel / Klook / GYG; go early",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g16806420-d317894-Reviews-My_Son_Sanctuary-Duy_Phu_Duy_Xuyen_District_Quang_Nam_Province.html"
+        "how": "Book before arrival — private car + guide via hotel / Klook / GYG; go early",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g16806420-d317894-Reviews-My_Son_Sanctuary-Duy_Phu_Duy_Xuyen_District_Quang_Nam_Province.html",
+        "priority": "before-city"
       },
       "priceFamilyEst": {
         "vnd": 750000,
@@ -530,9 +532,10 @@
         "shopping"
       ],
       "booking": {
-        "needed": false,
-        "how": "visit named reputable shops with photos; measure by Mon 21",
-        "url": null
+        "needed": true,
+        "how": "Visit day 1–2 of Hoi An for fittings — named reputable shops with photos; measure early (Mon 21)",
+        "url": null,
+        "priority": "before-city"
       },
       "priceFamilyEst": {
         "vnd": 1500000,
@@ -570,8 +573,9 @@
       ],
       "booking": {
         "needed": true,
-        "how": "advance tickets",
-        "url": "https://hoiandaytrip.com/teh-dar-show-hoi-an-ticket-booking/"
+        "how": "Book now — advance tickets (peak Christmas week)",
+        "url": "https://hoiandaytrip.com/teh-dar-show-hoi-an-ticket-booking/",
+        "priority": "now"
       },
       "priceFamilyEst": {
         "vnd": 4000000,
@@ -612,8 +616,9 @@
       ],
       "booking": {
         "needed": true,
-        "how": "advance tickets; pre-book return car",
-        "url": "https://hoianmemoriesshow.com/"
+        "how": "Book now — advance tickets; pre-book return car",
+        "url": "https://hoianmemoriesshow.com/",
+        "priority": "now"
       },
       "priceFamilyEst": {
         "vnd": 3000000,
@@ -651,8 +656,9 @@
       ],
       "booking": {
         "needed": true,
-        "how": "booking.vinwonders.com / Klook / hotel",
-        "url": "https://vinwonders.com/en/offers/vinwonders-nam-hoi-an-ticket-prices/"
+        "how": "Book now — booking.vinwonders.com / Klook / hotel (Xmas week)",
+        "url": "https://vinwonders.com/en/offers/vinwonders-nam-hoi-an-ticket-prices/",
+        "priority": "now"
       },
       "priceFamilyEst": {
         "vnd": 2800000,
@@ -736,8 +742,9 @@
       ],
       "booking": {
         "needed": true,
-        "how": "hotel concierge or restaurant reserve early",
-        "url": "https://www.belmarinahoian.com/"
+        "how": "Book now — hotel concierge or restaurant reserve early for 24 Dec",
+        "url": "https://www.belmarinahoian.com/",
+        "priority": "now"
       },
       "priceFamilyEst": {
         "vnd": 7600000,
