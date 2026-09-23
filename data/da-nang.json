@@ -11,7 +11,7 @@
   },
   "partyNote": "Family of 5: 2 adults + kids 8, 9, 12",
   "fxNote": "~26,000 VND ≈ $1 · estimates only",
-  "updatedAt": "2026-09-21",
+  "updatedAt": "2026-09-23",
   "tip": "Only ~1.5–2 activity days: Ba Na full day Sat 26 + Dragon Bridge Fri/Sat (both fire-show nights). Asia Park & Helio market CLOSED/suspended — skip. Mikazuki OR Son Tra as flex half-day.",
   "attractions": [
     {
@@ -720,6 +720,57 @@
       "effort": "grab",
       "mapsQuery": "Vincom Plaza Da Nang",
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vincom%20Plaza%20Da%20Nang"
+    },
+    {
+      "imageUrl": "https://danang.another-world.com/wp-content/themes/AnotherWorld/assets/images/indexTeam_1.webp",
+      "imageCredit": "Another World VR Danang — official site (danang.another-world.com)",
+      "closedNotes": "Closed Mondays. Hours Tue–Sun 10:00–22:00 (confirm on site / website).",
+      "images": [
+        {
+          "url": "https://danang.another-world.com/wp-content/themes/AnotherWorld/assets/images/indexTeam_1.webp",
+          "credit": "Another World VR Danang — official site (danang.another-world.com)"
+        },
+        {
+          "url": "https://danang.another-world.com/wp-content/themes/AnotherWorld/assets/images/aw_image_top.webp",
+          "credit": "Another World VR Danang — official site marketing (danang.another-world.com)"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1592478411213-6153e4ebc07d?w=1280&q=80",
+          "credit": "Unsplash — VR headset (illustrative of free-roam VR arena)"
+        }
+      ],
+      "combos": [
+        "Vincom / mall cinema same rainy day",
+        "Dragon Bridge evening after session",
+        "Bach Dang / Love Bridge walk same evening"
+      ],
+      "tags": [
+        "kids",
+        "indoor",
+        "rainy-day",
+        "evening"
+      ],
+      "booking": {
+        "needed": true,
+        "how": "Book timed slot online before arrival (esp. Christmas week) — pay on arrival; walk-ins OK if slots open",
+        "url": "https://danang.another-world.com/buy",
+        "priority": "before-city"
+      },
+      "priceFamilyEst": {
+        "vnd": 1500000,
+        "usd": 58,
+        "note": "band ~1.0–2.0M for family of 5 / ~1hr: visitor reports ~250k/person; Mini Party pkg 2.0M up to 10 — verify live checkout / packages"
+      },
+      "id": "vr-another-world-danang",
+      "name": "VR Another World Danang (VR Another World Đà Nẵng)",
+      "shortDescription": "Indoor free-roam VR arena on Trần Hưng Đạo (3F Salem Riverside) — solid rainy-day or evening option near central Da Nang.",
+      "whyKids": "Immersive group VR games suit older kids (8–12); venue age 6+. Check height/comfort per game on site; staff guides first-timers.",
+      "reviewSummary": "Official site ~4.3/5 (266); visitor blogs call it fun & good value. Tripadvisor Da Nang listing thin — book ahead for Xmas Fri–Sun slots.",
+      "distanceFromHotel": "~8–15 min Grab across Han River to An Hải / Sơn Trà (~2–4 km)",
+      "duration": "~1–2 hrs (typical 60-min session + setup)",
+      "effort": "grab",
+      "mapsQuery": "VR Another World Danang, 323 Tran Hung Dao",
+      "mapsUrl": "https://maps.app.goo.gl/eW7L8dgJ83fLa7n6A?g_st=aw"
     }
   ]
 }
